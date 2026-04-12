@@ -1,0 +1,2488 @@
+{
+  "games" : [
+    {
+      "awayScore" : 1,
+      "awayTeamID" : "80B9DE15-8C9C-41B6-8CBC-E5FA8370739C",
+      "date" : "2026-04-02T16:00:00Z",
+      "homeScore" : 2,
+      "homeTeamID" : "8361C18C-D87F-4821-8FB6-7D341E7B9749",
+      "id" : "E4969D35-3629-4F3A-9E59-0CF70F32B84F",
+      "notes" : "",
+      "stadiumID" : "FCA12CAE-9182-4E84-9627-63FC2E767F87"
+    },
+    {
+      "awayScore" : 4,
+      "awayTeamID" : "5572F0D0-A49B-46D4-955B-B77467A3480A",
+      "date" : "2026-03-31T16:00:00Z",
+      "homeScore" : 6,
+      "homeTeamID" : "F5F4EFE5-5622-47E6-AAB3-3D055EE414C1",
+      "id" : "697CF89A-2D5C-449C-B7C9-F0BC92869A58",
+      "notes" : "Sunset game with classic stadium views and a good pregame Union Station shuttle plan.",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F"
+    }
+  ],
+  "leagues" : [
+    {
+      "country" : "Taiwan",
+      "id" : "79848C29-33B8-49CD-8A07-1AA2C3B81B62",
+      "isArchived" : false,
+      "name" : "CPBL"
+    },
+    {
+      "country" : "United States",
+      "id" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "isArchived" : false,
+      "name" : "MLB"
+    },
+    {
+      "country" : "Japan",
+      "id" : "84CD61F9-A5EE-455D-AAA5-B86A3FEFE99C",
+      "isArchived" : false,
+      "name" : "NPB"
+    }
+  ],
+  "notes" : [
+    {
+      "content" : "捷運新莊站 - 中和新蘆線 （橘線）\n步行（約 12 分鐘）或騎乘 YouBike（約 5 分鐘）：捷運 1 號出口右轉中華路，中華路直行左轉公園路，公園路右轉和興街即可抵達。",
+      "date" : "2026-04-04T16:00:00Z",
+      "id" : "F226E40E-3FE2-443A-8728-A25D3D6AD399"
+    },
+    {
+      "content" : "Transit:\nValley Metro Light Rail available near Chase Field\nNearest Stations:\n- 3rd St\/Washington\n- 3rd St\/Jefferson\n\nNote:\nChase Field is served by light rail rather than a traditional subway\/metro system.",
+      "date" : "2026-04-03T13:16:42Z",
+      "id" : "5BA915AD-B9E8-48E4-981F-B1904F1028F1",
+      "stadiumID" : "846F4872-DD0B-48B6-A627-9FFF7F68D0DB"
+    },
+    {
+      "content" : "Sunset seating on the third-base side is worth prioritizing for first-time visitors.",
+      "date" : "2026-04-02T16:00:00Z",
+      "id" : "430D02C5-F630-48B4-A4FF-E9B92BA6B9D1",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F"
+    },
+    {
+      "content" : "Ohtani looked comfortable driving the ball to left-center.",
+      "date" : "2026-04-02T16:00:00Z",
+      "id" : "D5BEF6B4-2AA4-4DB5-AF3A-5ED4283F5F0C",
+      "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58"
+    },
+    {
+      "content" : "Judge's timing looked sharp against velocity up in the zone.",
+      "date" : "2026-04-02T16:00:00Z",
+      "id" : "20610465-2ED5-499C-8353-91C7DB0560B6",
+      "playerID" : "844E983D-4638-4572-8A1C-E94AF22C5A8E"
+    },
+    {
+      "content" : "Need to compare NPB starters' command trends over the next series.",
+      "date" : "2026-04-02T16:00:00Z",
+      "id" : "540319F3-47C0-4E93-90A3-B2A4C5AEABA6"
+    }
+  ],
+  "players" : [
+    {
+      "bats" : "R",
+      "birthYear" : 1992,
+      "birthplace" : "Linden, California, USA",
+      "careerSummary" : "Power-hitting Yankees captain whose home-run production and strike-zone control define his MLB career.",
+      "heightCentimeters" : 201,
+      "id" : "844E983D-4638-4572-8A1C-E94AF22C5A8E",
+      "isFavorite" : true,
+      "name" : "Aaron Judge",
+      "number" : 99,
+      "position" : "OF",
+      "teamID" : "5572F0D0-A49B-46D4-955B-B77467A3480A",
+      "throwsValue" : "R",
+      "weightKilograms" : 128
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "About: 金鶯最重要的捕手門面人物之一，2019 年選秀狀元，2022 年登上大聯盟；2026 官方預測開季打線排第 4 棒。\nSpecial: 狀元捕手、攻守兼備，而且是球隊重建後最具象徵性的核心球員之一，很適合放在 app 的 Star Catcher。",
+      "heightCentimeters" : 0,
+      "id" : "C980CFD3-93EB-4725-96D3-502CF8E8AB6D",
+      "isFavorite" : false,
+      "name" : "Adley Rutschman",
+      "number" : 0,
+      "position" : "C",
+      "teamID" : "7D3C78CB-D212-4E12-B29C-98385DDBFDB3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "以速度和機動力見長的外野手。NPB 官方列他為外野手、右投左打，生於 1997 年 12 月 11 日。",
+      "heightCentimeters" : 0,
+      "id" : "DF20AFE8-DA8F-49EB-BB2F-B638FF92C2B4",
+      "isFavorite" : false,
+      "name" : "Akito Takabe \/ 髙部瑛斗",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "D1E7B342-F7BF-48AF-9CB4-52A732EB9698",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1992,
+      "birthplace" : "",
+      "careerSummary" : "Harper 是費城人最具辨識度的招牌球星之一。MLB 官方球員頁顯示他出生於 1992 年 10 月 16 日，2010 年選秀為首輪第 1 順位；費城人 40 人名單與 2026 開季打線都把他列為一壘手，而且開季預計打第三棒。\n同時兼具球星知名度、中心打線角色與球隊門面感。",
+      "heightCentimeters" : 0,
+      "id" : "99B58878-8FF2-4A85-B4C8-309AB8E561B7",
+      "isFavorite" : false,
+      "name" : "Bryce Harper",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "万波中正是火腿隊的重要長打型外野手，擁有出色的身材條件與全壘打能力，是球隊目前最具代表性的年輕球星之一。\n\nChusei Mannami is a power-hitting outfielder for the Fighters. He is one of the team’s most recognizable young stars thanks to his size, strength, and home run ability.",
+      "heightCentimeters" : 0,
+      "id" : "E437F8C2-4EFD-45BE-AA8B-EA5F647FF500",
+      "isFavorite" : false,
+      "name" : "Chusei Mannami 万波中正",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "Corbin Carroll 是響尾蛇的年輕核心外野手。MLB 官方資料列他為右外野手；他在 2023 年拿下國聯新人王，而且 2025 年再入選 All-MLB Second Team，兼具速度、長打與防守價值。\n\nCorbin Carroll is a young cornerstone outfielder for the Diamondbacks. MLB lists him as a right fielder; he won the 2023 NL Rookie of the Year Award and was selected to the 2025 All-MLB Second Team, giving him a profile built on speed, power, and defensive value.",
+      "heightCentimeters" : 0,
+      "id" : "39388F88-33C6-43A8-A109-C235CFA43327",
+      "isFavorite" : false,
+      "name" : "Corbin Carroll",
+      "number" : 0,
+      "position" : "RF",
+      "teamID" : "696FB62B-C58F-41C8-ABCD-5B026FF22814",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2001,
+      "birthplace" : "",
+      "careerSummary" : "Francisco Alvarez is a young catcher with power and long-term star upside. He debuted in 2022, is on the active Mets roster, and his 2026 stat line has started strongly.",
+      "heightCentimeters" : 0,
+      "id" : "C1AC0390-DE3D-40BA-BFB7-2C584FBF2AE6",
+      "isFavorite" : false,
+      "name" : "Francisco Alvarez",
+      "number" : 0,
+      "position" : "C",
+      "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Francisco Lindor is the Mets’ star shortstop and one of the team’s main leaders. \nMLB’s projected 2026 Opening Day lineup had him leading off at shortstop, and official Mets coverage highlighted him as one of the club’s most essential players.",
+      "heightCentimeters" : 0,
+      "id" : "0E962884-C20F-482A-BF33-693C1BAB6A56",
+      "isFavorite" : false,
+      "name" : "Francisco Lindor",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "R",
+      "birthYear" : 1990,
+      "birthplace" : "Newport Beach, California, USA",
+      "careerSummary" : "Front-line starter with a long track record of strikeouts, innings, and ace-level performance.",
+      "heightCentimeters" : 193,
+      "id" : "E9843B0A-F1F7-4FE3-967F-F5501E019267",
+      "isFavorite" : false,
+      "name" : "Gerrit Cole",
+      "number" : 45,
+      "position" : "SP",
+      "teamID" : "5572F0D0-A49B-46D4-955B-B77467A3480A",
+      "throwsValue" : "R",
+      "weightKilograms" : 100
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2001,
+      "birthplace" : "",
+      "careerSummary" : "About: 金鶯目前最具代表性的年輕核心之一，2026 官方預測開季打線排在第 2 棒、主守游擊。\nSpecial: 他的 MLB 官方頁面顯示，2026 球季初已有 4 轟、OPS .889，生涯累積 90 轟、OPS .832",
+      "heightCentimeters" : 0,
+      "id" : "45447767-5DE4-4A39-816E-D34573E2F4A8",
+      "isFavorite" : false,
+      "name" : "Gunnar Henderson",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "7D3C78CB-D212-4E12-B29C-98385DDBFDB3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2003,
+      "birthplace" : "",
+      "careerSummary" : "李灝宇是來自台灣的新生代內野手，也是老虎農場高層級的重要新秀。MLB Pipeline 在 2026 年將他列為老虎隊第 6 名新秀，他主要守二壘與三壘；2025 年已升上 3A Toledo，並在 2025 年 11 月被加入底特律老虎 40 人名單。\n\nTaiwanese infielder Hao-Yu Lee is one of the Tigers’ top upper-level prospects. MLB Pipeline ranked him as the Tigers’ No. 6 prospect in 2026, and he has experience at both second base and third base. He spent 2025 with Triple-A Toledo and was added to Detroit’s 40-man roster in November 2025.",
+      "heightCentimeters" : 0,
+      "id" : "B1763E2C-9746-48C6-A1E7-C3876F570692",
+      "isFavorite" : false,
+      "name" : "Hao-Yu Lee  李灝宇 (3A)",
+      "number" : 0,
+      "position" : "2B, 3B",
+      "teamID" : "5959640E-D6BD-4113-98B9-C523C1B8039E",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "R",
+      "birthYear" : 1988,
+      "birthplace" : "Hyogo, Japan",
+      "careerSummary" : "Longtime franchise shortstop with championship pedigree and one of the most recognizable careers in NPB.",
+      "heightCentimeters" : 186,
+      "id" : "3BD57B98-93C4-42CD-9BCA-67C2764C2422",
+      "isFavorite" : false,
+      "name" : "Hayato Sakamoto",
+      "number" : 6,
+      "position" : "SS",
+      "teamID" : "8361C18C-D87F-4821-8FB6-7D341E7B9749",
+      "throwsValue" : "R",
+      "weightKilograms" : 86
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "伊藤大海是北海道日本火腿鬥士最具代表性的先發投手之一，具備王牌等級的定位，也是球隊近年最重要的本土投手戰力。若放進 app，很適合標成「Ace」或「Starting Pitcher」。\n\nHiromi Ito is one of the most important starting pitchers for the Fighters and is widely viewed as an ace-level arm on the roster. He represents the team’s core domestic pitching strength in recent seasons.",
+      "heightCentimeters" : 0,
+      "id" : "A524C0BC-D60C-4857-8C9D-DBD61500A8C0",
+      "isFavorite" : false,
+      "name" : "Hiromi Ito 伊藤大海",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "",
+      "heightCentimeters" : 0,
+      "id" : "E2C700E1-9C26-4FF1-AB0D-73FF117B6948",
+      "isFavorite" : false,
+      "name" : "Hsu Jo-Hsi 徐若熙",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "0450E23E-F756-4F7E-94BB-E59DFA93A0A1",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2003,
+      "birthplace" : "",
+      "careerSummary" : "About: 金鶯最受矚目的年輕球星之一，2026 年開季正式進入開幕名單。\nSpecial: MLB 官方開季名單新聞寫到，他靠春訓 13 場打出 .314、2 轟、7 分打點、OPS .848，拿下開季名單位置",
+      "heightCentimeters" : 0,
+      "id" : "232832A3-E305-472A-910B-658DC3F27188",
+      "isFavorite" : false,
+      "name" : "Jackson Holliday",
+      "number" : 0,
+      "position" : "2B",
+      "teamID" : "7D3C78CB-D212-4E12-B29C-98385DDBFDB3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "是光芒近兩季的主力左打者。出生於 1998 年 5 月 23 日，目前主守 1B、左打右投；官方對 2026 開季陣容的分析，也把他和 Yandy Díaz、Junior Caminero 一起列為打線前段的核心三人組。他 2026 開季的 OPS 為 .838。",
+      "heightCentimeters" : 0,
+      "id" : "760888F6-410A-489A-9391-1DDAE3C7E95C",
+      "isFavorite" : false,
+      "name" : "Jonathan Aranda",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "42E23737-8A68-42C2-9A48-43E22695A9D3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "Juan Soto is the Mets’ biggest offensive star. \nOfficial MLB coverage called him the team’s most important player for 2026, and the Mets’ projected lineup placed him near the top of the order as a middle-of-the-lineup force. \nHe is currently on the IL with a calf strain, but he remains a centerpiece player.",
+      "heightCentimeters" : 0,
+      "id" : "F8B65ADA-E028-4F62-82DC-67E20833C631",
+      "isFavorite" : false,
+      "name" : "Juan Soto",
+      "number" : 0,
+      "position" : "LF",
+      "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2003,
+      "birthplace" : "",
+      "careerSummary" : "Young franchise star and one of the Rays’ biggest power bats.\n\nJunior Caminero 是光芒目前最有代表性的年輕強打三壘手之一。MLB 官方球員頁列他出生於 2003 年 7 月 5 日，守位為 3B、右投右打；他的頁面也顯示他在 2025 年入選 AL All-Star、All-MLB Second Team，而且 2026 開季時仍是球隊最受矚目的核心之一。",
+      "heightCentimeters" : 0,
+      "id" : "EEBDC22A-98DF-4A61-96D7-02246EEF44AF",
+      "isFavorite" : false,
+      "name" : "Junior Caminero",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "42E23737-8A68-42C2-9A48-43E22695A9D3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "R",
+      "birthYear" : 1996,
+      "birthplace" : "Nara, Japan",
+      "careerSummary" : "Corner infielder and middle-order slugger who developed into one of the Giants' main offensive anchors.",
+      "heightCentimeters" : 186,
+      "id" : "E1EE690B-4E60-4FB2-AF49-0CA9F3CD7C94",
+      "isFavorite" : false,
+      "name" : "Kazuma Okamoto",
+      "number" : 25,
+      "position" : "1B, 3B",
+      "teamID" : "8361C18C-D87F-4821-8FB6-7D341E7B9749",
+      "throwsValue" : "R",
+      "weightKilograms" : 97
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1996,
+      "birthplace" : "",
+      "careerSummary" : "千葉羅德近年的先發輪值核心左投。NPB 球員頁列他為 2018 年選秀第 3 指名；2025 年他先發 24 場、投 145 局.",
+      "heightCentimeters" : 0,
+      "id" : "9DC82BCC-398F-4994-A4F4-CA9E9634A611",
+      "isFavorite" : false,
+      "name" : "Kazuya Ojima \/ 小島和哉",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "D1E7B342-F7BF-48AF-9CB4-52A732EB9698",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "A power-hitting corner outfielder for Detroit. In 2025, he hit 26 home runs, drove in 62 runs, and added several important postseason hits for the Tigers.\n\n底特律具長打火力的角落外野手。2025 年他敲出 26 支全壘打、62 分打點，並在季後賽為老虎隊貢獻多次關鍵安打與全壘打。",
+      "heightCentimeters" : 0,
+      "id" : "80E1795A-B021-415F-AC75-BB837E620C06",
+      "isFavorite" : false,
+      "name" : "Kerry Carpenter",
+      "number" : 0,
+      "position" : "RF",
+      "teamID" : "5959640E-D6BD-4113-98B9-C523C1B8039E",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Ketel Marte 是響尾蛇的重要主力內野手。MLB 官方資料列他為二壘手；球隊官方在 2026 春訓報導中提到，他已為響尾蛇入選三次明星賽、拿過兩座 Silver Slugger，並曾獲得 2023 年國聯冠軍賽 MVP。2025 年他也入選 All-MLB First Team。\n\nKetel Marte is one of the Diamondbacks’ key infield stars. MLB lists him as a second baseman; the club’s 2026 spring report notes that he has made three All-Star teams with Arizona, won two Silver Slugger Awards, and earned 2023 NLCS MVP honors. He was also named to the 2025 All-MLB First Team.",
+      "heightCentimeters" : 0,
+      "id" : "C28EAEC2-F837-4D9F-B3D5-C26A739AC029",
+      "isFavorite" : false,
+      "name" : "Ketel Marte",
+      "number" : 0,
+      "position" : "2B",
+      "teamID" : "696FB62B-C58F-41C8-ABCD-5B026FF22814",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Kodai Senga is one of the Mets’ top starting pitchers. \nHe debuted in 2023, made the NL All-Star team that year, and remains one of the club’s most important rotation pieces.",
+      "heightCentimeters" : 0,
+      "id" : "F40DE30A-1F6C-4DA1-8A91-9107DFEA1B28",
+      "isFavorite" : false,
+      "name" : "Kodai Senga 千賀滉大",
+      "number" : 0,
+      "position" : "SP, RP",
+      "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "L",
+      "birthYear" : 1994,
+      "birthplace" : "Hyogo, Japan",
+      "careerSummary" : "Speed-driven leadoff outfielder whose baserunning and contact ability shape the Tigers' attack.",
+      "heightCentimeters" : 171,
+      "id" : "36AC4EEE-97CA-4B4E-937C-02B9556AA450",
+      "isFavorite" : false,
+      "name" : "Koji Chikamoto",
+      "number" : 5,
+      "position" : "OF",
+      "teamID" : "80B9DE15-8C9C-41B6-8CBC-E5FA8370739C",
+      "throwsValue" : "L",
+      "weightKilograms" : 73
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1999,
+      "birthplace" : "",
+      "careerSummary" : "清宮幸太郎是火腿隊最具知名度的強打型內野手之一，從高中時期開始就備受矚目，進入職棒後一直是球隊重點培養的核心打者。若放進 app，可歸類為「Slugger」或「Corner Infielder」。\n\nKotaro Kiyomiya is one of the most well-known sluggers on the Fighters. A former first-round draft pick with national attention since high school, he has remained a key offensive piece for the team.",
+      "heightCentimeters" : 0,
+      "id" : "5CFE516C-724E-4895-BBC5-689D50F3B9A4",
+      "isFavorite" : false,
+      "name" : "Kotaro Kiyomiya 清宮幸太郎",
+      "number" : 0,
+      "position" : "1B, 2B",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Schwarber 是費城人最具代表性的長打火力之一。40 人名單列他在外野名單中，2026 開季打線則把他放在 第二棒 DH。他的 MLB 官方頁面回顧也顯示，他近年在費城人的全壘打與得分火力非常突出。\n他在 2024 年成為隊史第一位加盟前三季都至少 30 轟的球員，且 2024 年敲出 38 轟、110 得分、104 打點，也是費城人近年的招牌重砲。",
+      "heightCentimeters" : 0,
+      "id" : "F5A7369D-0B8C-4191-BC7F-41F0304C2E0E",
+      "isFavorite" : false,
+      "name" : "Kyle Schwarber",
+      "number" : 0,
+      "position" : "DH",
+      "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "千葉羅德代表性的年輕外野手。NPB 官方列他為外野手、左投左打，生於 2000 年 5 月 6 日。",
+      "heightCentimeters" : 0,
+      "id" : "2A21DAE1-FADF-4AD4-8945-4133B2779B45",
+      "isFavorite" : false,
+      "name" : "Kyota Fujiwara \/ 藤原恭大",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "D1E7B342-F7BF-48AF-9CB4-52A732EB9698",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "R",
+      "birthYear" : 1992,
+      "birthplace" : "Nashville, Tennessee, USA",
+      "careerSummary" : "Former MVP known for elite all-around production, defensive versatility, and postseason impact.",
+      "heightCentimeters" : 175,
+      "id" : "39E6415F-5ED7-41A7-A822-CD1BB69D9388",
+      "isFavorite" : false,
+      "name" : "Mookie Betts",
+      "number" : 50,
+      "position" : "SS, OF",
+      "teamID" : "F5F4EFE5-5622-47E6-AAB3-3D055EE414C1",
+      "throwsValue" : "R",
+      "weightKilograms" : 82
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1994,
+      "birthplace" : "",
+      "careerSummary" : "2026 年金鶯陣中最有名的重砲型一壘手之一，官方預測開季打線排第 3 棒。\nSpecial: 他的 MLB 官方頁面列出綽號是 Polar Bear，而且他本身就是聯盟知名長打者\n\nMiddle-of-the-order slugger and one of the Orioles’ biggest power threats.",
+      "heightCentimeters" : 0,
+      "id" : "5795FF66-BAB8-4CD4-A4C9-4FA62750F039",
+      "isFavorite" : false,
+      "name" : "Pete Alonso",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "7D3C78CB-D212-4E12-B29C-98385DDBFDB3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "One of the Tigers’ young star hitters. In 2025, he won his first AL Silver Slugger, made his second straight All-Star team, and hit 36 home runs with 111 RBIs.\n\n老虎隊年輕世代的重要強打者之一。他在 2025 年拿下生涯首座美聯 Silver Slugger，連續第二年入選明星賽，並繳出 36 支全壘打、111 分打點的成績。",
+      "heightCentimeters" : 0,
+      "id" : "C07229A0-F6A4-40ED-8F0B-62F834EA8D63",
+      "isFavorite" : false,
+      "name" : "Riley Greene",
+      "number" : 0,
+      "position" : "LF",
+      "teamID" : "5959640E-D6BD-4113-98B9-C523C1B8039E",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1994,
+      "birthplace" : "",
+      "careerSummary" : "鈴木誠也是小熊打線的核心之一，具備長打與打點能力。小熊官方在 2025 年 7 月的報導中提到，他當時已累積 25 支全壘打，且以 77 分打點領先大聯盟，顯示他是球隊中線最重要的攻擊火力之一。\n\nSeiya Suzuki is one of the central run producers in the Cubs’ lineup. MLB’s official Cubs coverage noted in July 2025 that he had 25 home runs and an MLB-leading 77 RBIs at that point, underlining his value as a middle-of-the-order bat.",
+      "heightCentimeters" : 0,
+      "id" : "240941E7-AF65-4C86-BDD6-5AAB3AFE4B12",
+      "isFavorite" : false,
+      "name" : "Seiya Suzuki 鈴木誠也",
+      "number" : 0,
+      "position" : "RF",
+      "teamID" : "B7987E26-0D28-4800-B66C-09C1C00E5396",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "王牌級先發左投\n\n他在 2022、2023 兩度入選 AL All-Star。",
+      "heightCentimeters" : 0,
+      "id" : "417B1D83-0C80-4D09-B241-546B9241A6D2",
+      "isFavorite" : false,
+      "name" : "Shane McClanahan",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "42E23737-8A68-42C2-9A48-43E22695A9D3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "L",
+      "birthYear" : 2001,
+      "birthplace" : "Kaohsiung, Taiwan",
+      "careerSummary" : "Contact-oriented infielder valued for defensive range and game-speed decision making.",
+      "heightCentimeters" : 178,
+      "id" : "0F35A8DF-8A36-4717-8250-92CFC94B2E88",
+      "isFavorite" : false,
+      "name" : "Sheng-wei Chen",
+      "number" : 90,
+      "position" : "2B, SS",
+      "teamID" : "B6AF7543-B9BB-4E26-95B6-940FF3DAED5E",
+      "throwsValue" : "R",
+      "weightKilograms" : 76
+    },
+    {
+      "bats" : "L",
+      "birthYear" : 1994,
+      "birthplace" : "Oshu, Iwate, Japan",
+      "careerSummary" : "Two-way superstar who moved from NPB to MLB and became one of baseball's defining international talents.",
+      "heightCentimeters" : 193,
+      "id" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
+      "isFavorite" : true,
+      "name" : "Shohei Ohtani",
+      "number" : 17,
+      "position" : "SP, DH",
+      "teamID" : "F5F4EFE5-5622-47E6-AAB3-3D055EE414C1",
+      "throwsValue" : "R",
+      "weightKilograms" : 95
+    },
+    {
+      "bats" : "L",
+      "birthYear" : 1998,
+      "birthplace" : "Kumamoto, Japan",
+      "careerSummary" : "Young starter who rose quickly with efficient command and strong run prevention in NPB.",
+      "heightCentimeters" : 175,
+      "id" : "E92767AC-18B0-4DFE-A87B-06C045509965",
+      "isFavorite" : false,
+      "name" : "Shoki Murakami",
+      "number" : 41,
+      "position" : "SP",
+      "teamID" : "80B9DE15-8C9C-41B6-8CBC-E5FA8370739C",
+      "throwsValue" : "R",
+      "weightKilograms" : 79
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "戸郷翔征是讀賣巨人的右投先發，也是侍 Japan 成員。曾入選 2023 年經典賽冠軍隊與 2024 年 WBSC Premier12 日本代表。球風以速球、指叉／叉球與滑球搭配為主，具備明顯的三振能力。\n\nShosei Togo is a right-handed starting pitcher for the Yomiuri Giants and Samurai Japan. He was a member of Japan’s 2023 World Baseball Classic championship team and the 2024 WBSC Premier12 squad. His profile is built around a solid fastball, a strong splitter, and a slider, with proven strikeout ability.",
+      "heightCentimeters" : 0,
+      "id" : "5011131A-A464-4BA1-BD03-7771BF16EC12",
+      "isFavorite" : false,
+      "name" : "Shosei Togo 戸郷翔征",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "8361C18C-D87F-4821-8FB6-7D341E7B9749",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "今永昇太是小熊的重要左投先發。小熊官方在 2025 東京開幕系列賽名單文章中形容，他在新人年表現非常出色，不但入選明星賽，也在國聯新人王與賽揚獎票選中受到關注，代表他已經是輪值中的招牌人物。\n\nShota Imanaga is a key left-handed starter for the Cubs. In the club’s official 2025 Tokyo Series roster story, MLB described him as coming off a brilliant rookie season, including an All-Star selection and consideration in both the NL Rookie of the Year and Cy Young races.",
+      "heightCentimeters" : 0,
+      "id" : "9B812163-509D-43E3-9FFE-A1B21A99F88F",
+      "isFavorite" : false,
+      "name" : "Shota Imanaga 今永昇太",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "B7987E26-0D28-4800-B66C-09C1C00E5396",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1996,
+      "birthplace" : "",
+      "careerSummary" : "Detroit’s ace left-hander. He won the American League Cy Young Award in 2024 and 2025, and he was selected to the All-Star team again in 2025.\n\n底特律老虎隊的王牌左投。他在 2024 與 2025 年連續拿下美國聯盟賽揚獎，並且在 2025 年再次入選明星賽。",
+      "heightCentimeters" : 0,
+      "id" : "24FB5F97-A657-4DFC-A3F2-E1CE6F91081C",
+      "isFavorite" : false,
+      "name" : "Tarik Skubal",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "5959640E-D6BD-4113-98B9-C523C1B8039E",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Turner 是費城人的主力游擊手。MLB 官方球員頁顯示他出生於 1993 年 6 月 30 日、2014 年首輪第 13 順位被選中；費城人 2026 開季打線則把他排在 第一棒游擊手。\n是官方開季打線最前面的核心野手之一。",
+      "heightCentimeters" : 0,
+      "id" : "EA5E8320-9D58-484D-B0D9-C7CDE657CF71",
+      "isFavorite" : false,
+      "name" : "Trea Turner",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1991,
+      "birthplace" : "",
+      "careerSummary" : "Veteran middle-of-the-order hitter and former AL batting champion.",
+      "heightCentimeters" : 0,
+      "id" : "C370C349-64E5-4749-8E41-FBD5B83D475A",
+      "isFavorite" : false,
+      "name" : "Yandy Díaz",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "42E23737-8A68-42C2-9A48-43E22695A9D3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1988,
+      "birthplace" : "",
+      "careerSummary" : "",
+      "heightCentimeters" : 0,
+      "id" : "1E473110-2F81-4866-B6B3-097A338E30C2",
+      "isFavorite" : false,
+      "name" : "Yuki Yanagita 柳田悠岐",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "0450E23E-F756-4F7E-94BB-E59DFA93A0A1",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1990,
+      "birthplace" : "",
+      "careerSummary" : "Wheeler 是費城人最重要的先發投手之一。40 人名單顯示他出生於 1990 年 5 月 30 日；\n官方交易紀錄顯示他在 2026 年 3 月因右肩手術進入傷兵名單，之後又在 3 月 28 日被送往復健賽，另外開季名單新聞也提到他可能在 4 月重返輪值。\n雖然季初不在正常輪值裡，但如果做球隊頁面，他仍很適合放在 Ace-level Pitcher 類別，因為官方仍把他視為回歸後的重要輪值戰力。",
+      "heightCentimeters" : 0,
+      "id" : "5320230C-D33A-4533-B181-FA3C1EEA4145",
+      "isFavorite" : false,
+      "name" : "Zack Wheeler",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "背號 37\n台灣強力右投，前統一獅王牌，現效力日本火腿。2024年拿下中職年度MVP、防禦率王與最佳十人投手，是近年最具代表性的台灣投手之一。",
+      "heightCentimeters" : 0,
+      "id" : "7EEB9CEC-2245-44E4-9821-E6D8F872EAF5",
+      "isFavorite" : false,
+      "name" : "古林睿煬 Gu Lin Ruei-Yang",
+      "number" : 0,
+      "position" : "SP, RP",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2005,
+      "birthplace" : "",
+      "careerSummary" : "孫易磊是近年很受期待的台灣年輕投手。火腿在 2023 年與他簽下育成合約，球團當時就形容他是「台灣的寶物」；之後在 2025 年升格為支配下選手，代表他已正式進入日職一軍體系的重要名單。\n\nSpecial \/ 貢獻特色：\n\n2023 年加盟火腿時為育成合約，2025 年升格 支配下選手，背號改為 96。\n2026 年 4 月 5 日在日職二軍先發 5 局無失分、5 次三振、最快 153 公里，拿下本季二軍首勝。",
+      "heightCentimeters" : 0,
+      "id" : "E053F597-B2A3-4851-8703-0439FBD0869F",
+      "isFavorite" : false,
+      "name" : "孫易磊 \/ Sun Yilei (二軍)",
+      "number" : 0,
+      "position" : "RP",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1995,
+      "birthplace" : "",
+      "careerSummary" : "投打： 右投右打\n身高／體重： 185 公分／95 公斤\n中職初出場： 2024\/07\/12\n\n張育成是富邦悍將的主力內野手，CPBL 個人頁面登錄位置為游擊手。屬於「主力球星／內野核心」。\n\n貢獻／特色：他在 2026 年 4 月 3 日對樂天桃猿的比賽敲出關鍵超前二壘打，幫助富邦以 3 比 2 逆轉，並拿下單場 MVP。\n\nMLB 履歷：張育成是台灣少數登上美國職棒大聯盟的內野手之一，MLB 官方資料列他為 SS（游擊手）、右投右打，出生於 1995 年 8 月 18 日，並在 2019 年 6 月 28 日完成大聯盟初登場。\n\n效力過的 MLB 球隊：他的大聯盟生涯先後效力過 Cleveland Indians \/ Guardians、Pittsburgh Pirates、Tampa Bay Rays、Boston Red Sox。MLB 官方頁面也寫到，他在 2022 年單季就分別出賽於 Guardians、Pirates、Rays、Red Sox 四隊。\n\nMLB 生涯成績：截至 MLB 官方頁面所列的大聯盟例行賽累積成績，張育成共有 594 打數、121 安打、20 支全壘打、79 分打點、5 次盜壘，打擊率 .204、上壘率 .265、OPS .624。",
+      "heightCentimeters" : 0,
+      "id" : "C286E21D-D5D9-4054-96D7-D3A1EA08FFF7",
+      "isFavorite" : false,
+      "name" : "張育成 Yu Chang",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "57D92618-8461-4D00-A349-679398BA9E31",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2001,
+      "birthplace" : "",
+      "careerSummary" : "身高／體重： 174 公分／68 公斤\n中職初出場： 2021\/03\/14\n選秀： 富邦悍將 2020 年第七輪。\n\n曾峻岳是富邦悍將的重要後援投手。以 CPBL 官方資料看，他很早就進入一軍，是富邦牛棚的重要戰力。\n\nCPBL 官方在 2021 年新人獎相關報導中指出，他新人年就被賦予守護神重任，單季 57 場出賽、4 勝、13 中繼、12 救援、防禦率 1.80，並名列最佳新人獎候選。到了 2026 年球季初，CPBL 單項排行榜也顯示他已列在救援成功榜前列。",
+      "heightCentimeters" : 0,
+      "id" : "A293343B-2201-4DE6-B051-86367BF7A3D0",
+      "isFavorite" : false,
+      "name" : "曾峻岳",
+      "number" : 0,
+      "position" : "RP",
+      "teamID" : "57D92618-8461-4D00-A349-679398BA9E31",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1988,
+      "birthplace" : "",
+      "careerSummary" : "位置：中外野手\n投打：右投右打\n中職初出場：2015\/08\/14\n特色：富邦隊史代表性外野手。曾獲 2016 年最佳十人外野手，並於 2016–2019 連續獲得金手套獎。現階段富邦官方網站已列為外野教練。",
+      "heightCentimeters" : 0,
+      "id" : "1C05791D-01D0-47E9-B0F1-40FECF604A40",
+      "isFavorite" : false,
+      "name" : "林哲瑄",
+      "number" : 0,
+      "position" : "CF",
+      "teamID" : "57D92618-8461-4D00-A349-679398BA9E31",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "林家正是台灣近年最有代表性的旅外捕手之一。火腿官方在 2026 年 3 月宣布與他簽約，他現在已是日本火腿成員。過去他也有完整的美職體系經歷，是少數兼具旅美捕手背景與國際賽經驗的台灣球員。\n\nSpecial \/ 貢獻特色：\n2016 年被水手於 MLB 選秀第 16 輪選中，Arizona State 官方指出，他是 首位在 MLB 選秀被選中的台灣出生球員。2019 年由響尾蛇第 14 輪、第 422 順位選進並簽約，之後進入美職體系；MiLB 頁面可見其選秀與旅美資訊。\n2026 年 3 月與日本火腿達成合約，成為火腿陣中又一位台灣球員。",
+      "heightCentimeters" : 0,
+      "id" : "A9635B44-C819-454B-9E56-1A83FC7B2DF7",
+      "isFavorite" : false,
+      "name" : "林家正 \/ Lyle Chia-Cheng Lin (二軍)",
+      "number" : 0,
+      "position" : "C",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "R",
+      "birthYear" : 1984,
+      "birthplace" : "Kaohsiung, Taiwan",
+      "careerSummary" : "胡金龍是台灣知名資深球員，旅外後回到中職發展，後期效力統一7-ELEVEn獅。MLB 官方頁面顯示他在 2007\/09\/01 完成大聯盟初登場。\nSpecial \/ 貢獻特色\n他在 2024\/07\/13 達成中職生涯 1200 安，是聯盟第 19 人；而 2025 年統一獅也已為他舉辦引退相關活動。",
+      "heightCentimeters" : 180,
+      "id" : "FF74FA16-236B-43FB-9827-4190589526C8",
+      "isFavorite" : false,
+      "name" : "胡金龍 Hu Chin-Lung",
+      "number" : 1,
+      "position" : "SS, OF",
+      "teamID" : "F9041EE5-473A-4737-9E11-605C09CDFA38",
+      "throwsValue" : "R",
+      "weightKilograms" : 87
+    },
+    {
+      "bats" : "L",
+      "birthYear" : 1994,
+      "birthplace" : "Kaohsiung, Taiwan",
+      "careerSummary" : "陳傑憲是統一獅最具代表性的外野手之一，也是中職近年最穩定的打者之一。CPBL 官方資料顯示，他曾在 2017、2018 年拿下最佳九人游擊手，之後轉戰外野，又在 2020、2021 年獲得最佳九人外野手；到 2024 年時，官方新聞已寫明他完成 最佳九人外野手五連霸，並且 連續三年拿下外野手金手套獎。\n\nSpecial \/ 貢獻特色\n他在 2020 年拿下中職 安打王 與 打擊王；2018 年也曾拿下 安打王。\n到了國際賽，WBSC 官方指出，他以中華隊隊長身分拿下 2024 年世界 12 強棒球錦標賽 MVP，該屆賽會打出 .625 打擊率、1.617 OPS，並在冠軍戰轟出三分全壘打，是台灣奪冠的重要代表人物。",
+      "heightCentimeters" : 180,
+      "id" : "E98D7F01-8584-4714-8BE6-7D77D6324B93",
+      "isFavorite" : true,
+      "name" : "陳傑憲 Chen Chieh-Hsien",
+      "number" : 32,
+      "position" : "OF",
+      "teamID" : "F9041EE5-473A-4737-9E11-605C09CDFA38",
+      "throwsValue" : "L",
+      "weightKilograms" : 78
+    }
+  ],
+  "stadiums" : [
+    {
+      "address" : "401 E. Jefferson St., Phoenix, AZ 85004, USA",
+      "city" : "",
+      "country" : "",
+      "id" : "846F4872-DD0B-48B6-A627-9FFF7F68D0DB",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "Chase Field",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "41 Seaver Way, Queens, NY 11368",
+      "city" : "",
+      "country" : "",
+      "id" : "9897ED35-45EB-448B-8423-57A81E5D3D5B",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "Citi Field",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "One Citizens Bank Way, Philadelphia, PA 19148",
+      "city" : "",
+      "country" : "",
+      "id" : "069285A8-A7EC-4E2B-ADD0-16866854E7E0",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "Citizens Bank Park",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "2100 Woodward Ave., Detroit, MI 48201-3474",
+      "city" : "",
+      "country" : "",
+      "id" : "47140B99-E265-4988-8E50-5601296A4941",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "Comerica Park",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "501 Crawford Street, Houston, TX",
+      "city" : "",
+      "country" : "",
+      "id" : "7D532AD3-2BAC-4678-800E-103DEBFDE363",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "Daikin Park",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "1000 Vin Scully Ave",
+      "capacity" : 56000,
+      "city" : "Los Angeles",
+      "country" : "United States",
+      "id" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "latitude" : 34.0739,
+      "longitude" : -118.24,
+      "name" : "Dodger Stadium",
+      "openedYear" : 1962,
+      "roofType" : "Open Air",
+      "state" : "California",
+      "surfaceType" : "Grass",
+      "transportationNote" : "Best paired with rideshare or shuttle from Union Station.",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "〒061-1116 北海道北広島市Fビレッジ1番地",
+      "city" : "",
+      "country" : "",
+      "id" : "91592507-4CAE-4A8E-B55B-4671887BF203",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "ES CON FIELD HOKKAIDO",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "1-82 Koshiencho, Nishinomiya City, Hyogo Prefecture 663-8152",
+      "capacity" : 47400,
+      "city" : "Nishinomiya",
+      "country" : "Japan",
+      "id" : "EE7EA182-3EF2-42CF-A908-973B5295F852",
+      "latitude" : 34.7214,
+      "longitude" : 135.3616,
+      "name" : "Hanshin Koshien Stadium（阪神甲子園球場）",
+      "openedYear" : 1924,
+      "roofType" : "Open Air",
+      "state" : "Hyogo",
+      "surfaceType" : "Grass",
+      "transportationNote" : "Hanshin rail access is straightforward and works well for Osaka day trips.",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "2-2-2 Jigyohama, Chuo-ku, Fukuoka, Japan",
+      "city" : "",
+      "country" : "",
+      "id" : "88E94AF4-EDAB-4925-9C4B-152D3FA64EE3",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "MIZUHO PayPay Dome FUKUOKA 瑞穗PayPay巨蛋福岡",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "333 West Camden Street, Baltimore, MD 21201",
+      "city" : "",
+      "country" : "",
+      "id" : "74D3575D-6516-4DE4-BC88-0553A9461E94",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "Oriole Park at Camden Yards",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "No. 835, Section 3, Chongde Rd",
+      "capacity" : 20000,
+      "city" : "Taichung",
+      "country" : "Taiwan",
+      "id" : "B02E388A-1594-423A-8CBD-47FFBB541426",
+      "latitude" : 24.2132,
+      "longitude" : 120.6992,
+      "name" : "Taichung Intercontinental Baseball Stadium",
+      "openedYear" : 2006,
+      "roofType" : "Open Air",
+      "state" : "",
+      "surfaceType" : "Grass",
+      "transportationNote" : "Taxi and city bus are the most practical connections from central Taichung.",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "No. 515, Section 4, Zhongxiao East Rd",
+      "capacity" : 40000,
+      "city" : "Taipei",
+      "country" : "Taiwan",
+      "id" : "228FAAE0-9D01-4D48-AF31-97FB447DEF70",
+      "latitude" : 25.0412,
+      "longitude" : 121.5584,
+      "name" : "Taipei Dome",
+      "openedYear" : 2023,
+      "roofType" : "Dome",
+      "state" : "",
+      "surfaceType" : "Artificial Turf",
+      "transportationNote" : "MRT access is the simplest option, and the area works well even when there is no fixed home club.",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "1-3-61 Koraku, Bunkyo City",
+      "capacity" : 43500,
+      "city" : "Tokyo",
+      "country" : "Japan",
+      "id" : "FCA12CAE-9182-4E84-9627-63FC2E767F87",
+      "latitude" : 35.7056,
+      "longitude" : 139.7519,
+      "name" : "Tokyo Dome 東京巨蛋",
+      "openedYear" : 1988,
+      "roofType" : "Dome",
+      "state" : "",
+      "surfaceType" : "Artificial Turf",
+      "transportationNote" : "Excellent rail access makes this the easiest stadium stop for city travelers.",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "1 Tropicana Dr, St. Petersburg, FL 33705",
+      "city" : "",
+      "country" : "",
+      "id" : "45A65F28-1936-485E-B26F-866EE72F8A5F",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "Tropicana Field",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "1060 W. Addison St., Chicago, IL 60613",
+      "city" : "",
+      "country" : "",
+      "id" : "0F157CC7-7D61-43D7-BD7B-25D019BBD205",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "Wrigley Field",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "1 E 161st St",
+      "capacity" : 46537,
+      "city" : "New York",
+      "country" : "United States",
+      "id" : "BDDB64D6-B31C-4E43-B2FC-70C7D5AA3624",
+      "latitude" : 40.8296,
+      "longitude" : -73.9262,
+      "name" : "Yankee Stadium",
+      "openedYear" : 2009,
+      "roofType" : "Open Air",
+      "state" : "New York",
+      "surfaceType" : "Grass",
+      "transportationNote" : "Subway access is the simplest option for game day.",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "〒261-8587 千葉県千葉市美浜区 美浜1",
+      "city" : "",
+      "country" : "",
+      "id" : "AE251F4D-01CD-4B08-8318-32042EB525C6",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "ZOZO Marine Stadium",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "709臺南市安南區環館路505號",
+      "capacity" : 12000,
+      "city" : "Tainan",
+      "country" : "Taiwan",
+      "id" : "975E28C3-844A-4C2F-B115-98FF210EFF34",
+      "latitude" : 22.9759,
+      "longitude" : 120.2086,
+      "name" : "亞太主球場",
+      "openedYear" : 1931,
+      "roofType" : "Open Air",
+      "state" : "",
+      "surfaceType" : "Grass",
+      "transportationNote" : "Ideal for combining with a walkable food stop around downtown Tainan.",
+      "wantToVisit" : false
+    },
+    {
+      "address" : "新北市新莊區和興街 66 號",
+      "city" : "",
+      "country" : "",
+      "id" : "969A7728-047F-4939-9C49-AC91A447521D",
+      "latitude" : 0,
+      "longitude" : 0,
+      "name" : "新莊棒球場",
+      "roofType" : "",
+      "state" : "",
+      "surfaceType" : "",
+      "transportationNote" : "",
+      "wantToVisit" : false
+    }
+  ],
+  "stats" : [
+    {
+      "avg" : 0.287,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 0,
+      "hr" : 34,
+      "id" : "389674B4-C58D-48E8-84DB-2E1FC407E9C6",
+      "ops" : 0.884,
+      "playerID" : "E1EE690B-4E60-4FB2-AF49-0CA9F3CD7C94",
+      "rbi" : 96,
+      "whip" : 0
+    },
+    {
+      "avg" : 0.289,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 0,
+      "hr" : 31,
+      "id" : "FEAC47DA-22C6-452B-B519-BDB8564160AE",
+      "ops" : 0.902,
+      "playerID" : "39E6415F-5ED7-41A7-A822-CD1BB69D9388",
+      "rbi" : 81,
+      "whip" : 0
+    },
+    {
+      "avg" : 0.301,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 0,
+      "hr" : 52,
+      "id" : "380FDE18-9473-4633-9678-C3A1DCE1F266",
+      "ops" : 1.045,
+      "playerID" : "844E983D-4638-4572-8A1C-E94AF22C5A8E",
+      "rbi" : 114,
+      "whip" : 0
+    },
+    {
+      "avg" : 0.295,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 0,
+      "hr" : 11,
+      "id" : "9466185D-BF9D-4E19-9D71-CC8CCAAA0A5A",
+      "ops" : 0.847,
+      "playerID" : "36AC4EEE-97CA-4B4E-937C-02B9556AA450",
+      "rbi" : 56,
+      "whip" : 0
+    },
+    {
+      "avg" : 0.31,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 0,
+      "hr" : 44,
+      "id" : "9E9D4A65-942D-405C-AB58-684FB0B6358D",
+      "ops" : 1.021,
+      "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
+      "rbi" : 98,
+      "whip" : 0
+    },
+    {
+      "avg" : 0.279,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 0,
+      "hr" : 16,
+      "id" : "DE3818A2-D6ED-4352-8AE5-5FAB72460B78",
+      "ops" : 0.801,
+      "playerID" : "3BD57B98-93C4-42CD-9BCA-67C2764C2422",
+      "rbi" : 58,
+      "whip" : 0
+    },
+    {
+      "avg" : 0,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 2.79,
+      "hr" : 0,
+      "id" : "ACB24DCE-5FA5-4D77-B672-5F1CF4975D88",
+      "ops" : 0,
+      "playerID" : "E9843B0A-F1F7-4FE3-967F-F5501E019267",
+      "rbi" : 0,
+      "whip" : 1.08
+    },
+    {
+      "avg" : 0.312,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 0,
+      "hr" : 7,
+      "id" : "CCFA79EF-CBF3-40C5-9680-68FF541D9986",
+      "ops" : 0.835,
+      "playerID" : "0F35A8DF-8A36-4717-8250-92CFC94B2E88",
+      "rbi" : 49,
+      "whip" : 0
+    },
+    {
+      "avg" : 0.267,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 0,
+      "hr" : 9,
+      "id" : "F7BA8A55-CAD3-40C2-9937-BC98AC7E6A14",
+      "ops" : 0.731,
+      "playerID" : "FF74FA16-236B-43FB-9827-4190589526C8",
+      "rbi" : 41,
+      "whip" : 0
+    },
+    {
+      "avg" : 0,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 2.18,
+      "hr" : 0,
+      "id" : "8F0C9EB6-040A-4299-A48C-911E52BC2E1D",
+      "ops" : 0,
+      "playerID" : "E92767AC-18B0-4DFE-A87B-06C045509965",
+      "rbi" : 0,
+      "whip" : 1.01
+    },
+    {
+      "avg" : 0.333,
+      "date" : "2026-04-02T16:00:00Z",
+      "era" : 0,
+      "hr" : 18,
+      "id" : "78744A83-0DE0-4B42-BFD8-015837D3C2B4",
+      "ops" : 0.921,
+      "playerID" : "E98D7F01-8584-4714-8BE6-7D77D6324B93",
+      "rbi" : 77,
+      "whip" : 0
+    }
+  ],
+  "stayOptions" : [
+    {
+      "address" : "West Central District, Tainan",
+      "category" : "Hotel",
+      "id" : "4A5CFB78-143C-4C7E-90CF-88BBEF6B9F36",
+      "latitude" : 22.9908,
+      "longitude" : 120.2042,
+      "name" : "Confucius Temple Area",
+      "notes" : "Best balance for walking food routes and reaching the ballpark.",
+      "stadiumID" : "975E28C3-844A-4C2F-B115-98FF210EFF34",
+      "websiteURLString" : "https:\/\/www.twtainan.net\/en\/consume\/hotels"
+    },
+    {
+      "address" : "Figueroa St, Los Angeles",
+      "category" : "Hotel",
+      "id" : "B8118958-7D79-4A3E-BAC1-533616C0A2D6",
+      "latitude" : 34.0456,
+      "longitude" : -118.257,
+      "name" : "Downtown LA Hotel Cluster",
+      "notes" : "Works well if you want transit access plus food options before the game.",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "websiteURLString" : "https:\/\/www.discoverlosangeles.com\/stay"
+    },
+    {
+      "address" : "Xitun District, Taichung",
+      "category" : "Hotel",
+      "id" : "1E866305-2B73-4187-89D5-8899A9B0CA94",
+      "latitude" : 24.1816,
+      "longitude" : 120.6469,
+      "name" : "Fengjia Hotel Area",
+      "notes" : "Good for food, shopping, and evening return after the game.",
+      "stadiumID" : "B02E388A-1594-423A-8CBD-47FFBB541426",
+      "websiteURLString" : "https:\/\/travel.taichung.gov.tw\/en-us\/consume\/hotel"
+    },
+    {
+      "address" : "Harlem, New York",
+      "category" : "Guesthouse",
+      "id" : "927FEE49-0C4D-4DB6-ABC8-B90E8460AD98",
+      "latitude" : 40.8116,
+      "longitude" : -73.9465,
+      "name" : "Harlem Short Stay",
+      "notes" : "Closer to game day transit without staying in the tourist core.",
+      "stadiumID" : "BDDB64D6-B31C-4E43-B2FC-70C7D5AA3624",
+      "websiteURLString" : "https:\/\/www.nycgo.com\/boroughs-neighborhoods\/manhattan\/harlem"
+    },
+    {
+      "address" : "Midtown Manhattan, New York",
+      "category" : "Hotel",
+      "id" : "313A4DF1-6AFA-4D1F-87B3-541F5FCAA70D",
+      "latitude" : 40.7549,
+      "longitude" : -73.984,
+      "name" : "Midtown Manhattan Base",
+      "notes" : "Simple subway ride to the Bronx and plenty of dining nearby.",
+      "stadiumID" : "BDDB64D6-B31C-4E43-B2FC-70C7D5AA3624",
+      "websiteURLString" : "https:\/\/www.nycgo.com\/places-to-stay"
+    },
+    {
+      "address" : "Nishinomiya, Hyogo",
+      "category" : "Guesthouse",
+      "id" : "8BDE6207-A392-48DE-9F46-267F0EB572E7",
+      "latitude" : 34.7377,
+      "longitude" : 135.3418,
+      "name" : "Nishinomiya Stay",
+      "notes" : "Closer and quieter option for a baseball-first overnight plan.",
+      "stadiumID" : "EE7EA182-3EF2-42CF-A908-973B5295F852",
+      "websiteURLString" : "https:\/\/www.japan.travel\/en\/destinations\/kansai\/hyogo"
+    },
+    {
+      "address" : "Umeda, Osaka",
+      "category" : "Hotel",
+      "id" : "B3DD6E44-22B2-4F33-9FDC-7B1696952BFC",
+      "latitude" : 34.7025,
+      "longitude" : 135.4959,
+      "name" : "Osaka Umeda Base",
+      "notes" : "Strong dining and transport choice if Koshien is one stop in a broader Kansai trip.",
+      "stadiumID" : "EE7EA182-3EF2-42CF-A908-973B5295F852",
+      "websiteURLString" : "https:\/\/osaka-info.jp\/en\/accommodation"
+    },
+    {
+      "address" : "Old Pasadena, CA",
+      "category" : "Apartment",
+      "id" : "B73A504A-E442-4A20-B94A-E16DF5078B75",
+      "latitude" : 34.1478,
+      "longitude" : -118.1445,
+      "name" : "Pasadena Stay",
+      "notes" : "A calmer overnight base if you do not need to stay right beside the stadium.",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "websiteURLString" : "https:\/\/www.visitpasadena.com"
+    },
+    {
+      "address" : "Wuri District, Taichung",
+      "category" : "Stay",
+      "id" : "9C345EC8-A4A7-4352-BD7B-8A7E1B1B9157",
+      "latitude" : 24.112,
+      "longitude" : 120.6153,
+      "name" : "Taichung High Speed Rail Base",
+      "notes" : "Useful if you are doing a same-day baseball trip without city-center lodging.",
+      "stadiumID" : "B02E388A-1594-423A-8CBD-47FFBB541426",
+      "websiteURLString" : "https:\/\/travel.taichung.gov.tw\/en-us"
+    },
+    {
+      "address" : "Tainan Railway Station",
+      "category" : "Hostel",
+      "id" : "E0662E1C-6D4F-43EB-8B54-61FA7EC9A459",
+      "latitude" : 22.9971,
+      "longitude" : 120.2128,
+      "name" : "Tainan Station Overnight",
+      "notes" : "A practical low-friction base if you are arriving and leaving by rail.",
+      "stadiumID" : "975E28C3-844A-4C2F-B115-98FF210EFF34",
+      "websiteURLString" : "https:\/\/www.twtainan.net\/en"
+    },
+    {
+      "address" : "Bunkyo, Tokyo",
+      "category" : "Hotel",
+      "id" : "F538D0A3-9B4D-47BE-9DDB-6B67395318A6",
+      "latitude" : 35.7058,
+      "longitude" : 139.7518,
+      "name" : "Tokyo Dome City Hotel Area",
+      "notes" : "The most efficient choice if the trip is centered on baseball.",
+      "stadiumID" : "FCA12CAE-9182-4E84-9627-63FC2E767F87",
+      "websiteURLString" : "https:\/\/www.tokyo-dome.co.jp\/en\/hotel"
+    },
+    {
+      "address" : "Ueno, Tokyo",
+      "category" : "Apartment",
+      "id" : "ADB2BA9D-077F-4DE6-840A-0D3B4BCE48E8",
+      "latitude" : 35.7138,
+      "longitude" : 139.7773,
+      "name" : "Ueno Stay",
+      "notes" : "Good rail coverage and easier cost profile than staying beside the dome.",
+      "stadiumID" : "FCA12CAE-9182-4E84-9627-63FC2E767F87",
+      "websiteURLString" : "https:\/\/www.gotokyo.org\/en"
+    },
+    {
+      "address" : "Xinyi District, Taipei",
+      "category" : "Hotel",
+      "id" : "C2430DEF-6F9D-4AA8-B929-312D09B28875",
+      "latitude" : 25.033,
+      "longitude" : 121.5654,
+      "name" : "Xinyi Hotel Base",
+      "notes" : "Best if Taipei Dome is part of a city trip rather than a fixed-team baseball stop.",
+      "stadiumID" : "228FAAE0-9D01-4D48-AF31-97FB447DEF70",
+      "websiteURLString" : "https:\/\/www.travel.taipei\/en"
+    }
+  ],
+  "teams" : [
+    {
+      "city" : "401 E. Jefferson St., Phoenix, AZ 85004, USA",
+      "divisionName" : "West",
+      "fullName" : "401 E. Jefferson St., Phoenix, AZ 85004, USA Arizona Diamondbacks 亞利桑那響尾蛇",
+      "groupName" : "National League",
+      "homeStadiumID" : "846F4872-DD0B-48B6-A627-9FFF7F68D0DB",
+      "id" : "696FB62B-C58F-41C8-ABCD-5B026FF22814",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "Arizona Diamondbacks 亞利桑那響尾蛇",
+      "ticketURLString" : "https:\/\/www.mlb.com\/dbacks\/tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/dbacks"
+    },
+    {
+      "city" : "Baltimore",
+      "divisionName" : "East",
+      "fullName" : "Baltimore Baltimore Orioles 巴爾的摩金鶯",
+      "groupName" : "American League",
+      "homeStadiumID" : "74D3575D-6516-4DE4-BC88-0553A9461E94",
+      "id" : "7D3C78CB-D212-4E12-B29C-98385DDBFDB3",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "Baltimore Orioles 巴爾的摩金鶯",
+      "ticketURLString" : "https:\/\/www.mlb.com\/orioles\/tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/orioles"
+    },
+    {
+      "city" : "Taichung",
+      "divisionName" : "",
+      "fullName" : "CTBC Brothers",
+      "groupName" : "",
+      "homeStadiumID" : "B02E388A-1594-423A-8CBD-47FFBB541426",
+      "id" : "B6AF7543-B9BB-4E26-95B6-940FF3DAED5E",
+      "leagueID" : "79848C29-33B8-49CD-8A07-1AA2C3B81B62",
+      "name" : "Brothers",
+      "ticketURLString" : "https:\/\/www.brothers.tw\/ticket.php",
+      "websiteURLString" : "https:\/\/www.brothers.tw"
+    },
+    {
+      "city" : "Chiba",
+      "divisionName" : "",
+      "fullName" : "Chiba Chiba Lotte Marines 千葉羅德海洋",
+      "groupName" : "Pacific League",
+      "homeStadiumID" : "AE251F4D-01CD-4B08-8318-32042EB525C6",
+      "id" : "D1E7B342-F7BF-48AF-9CB4-52A732EB9698",
+      "leagueID" : "84CD61F9-A5EE-455D-AAA5-B86A3FEFE99C",
+      "name" : "Chiba Lotte Marines 千葉羅德海洋",
+      "ticketURLString" : "https:\/\/www.marines.co.jp\/ticket\/",
+      "websiteURLString" : "https:\/\/www.marines.co.jp\/"
+    },
+    {
+      "city" : "Chicago",
+      "divisionName" : "Central",
+      "fullName" : "Chicago Chicago Cubs 芝加哥小熊",
+      "groupName" : "National League",
+      "homeStadiumID" : "0F157CC7-7D61-43D7-BD7B-25D019BBD205",
+      "id" : "B7987E26-0D28-4800-B66C-09C1C00E5396",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "Chicago Cubs 芝加哥小熊",
+      "ticketURLString" : "https:\/\/www.mlb.com\/cubs\/tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/cubs"
+    },
+    {
+      "city" : "Detroit, Michigan",
+      "divisionName" : "Central",
+      "fullName" : "Detroit, Michigan Detroit Tigers 底特律老虎隊",
+      "groupName" : "American League",
+      "homeStadiumID" : "47140B99-E265-4988-8E50-5601296A4941",
+      "id" : "5959640E-D6BD-4113-98B9-C523C1B8039E",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "Detroit Tigers 底特律老虎隊",
+      "ticketURLString" : "https:\/\/www.mlb.com\/tigers\/tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/tigers"
+    },
+    {
+      "city" : "Los Angeles",
+      "divisionName" : "West",
+      "fullName" : "Los Angeles Dodgers",
+      "groupName" : "National League",
+      "homeStadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "id" : "F5F4EFE5-5622-47E6-AAB3-3D055EE414C1",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "Dodgers",
+      "ticketURLString" : "https:\/\/www.mlb.com\/dodgers\/tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/dodgers"
+    },
+    {
+      "city" : "New Taipei City",
+      "divisionName" : "",
+      "fullName" : "New Taipei City Fubon Guardians 富邦悍將",
+      "groupName" : "",
+      "homeStadiumID" : "969A7728-047F-4939-9C49-AC91A447521D",
+      "id" : "57D92618-8461-4D00-A349-679398BA9E31",
+      "leagueID" : "79848C29-33B8-49CD-8A07-1AA2C3B81B62",
+      "name" : "Fubon Guardians 富邦悍將",
+      "ticketURLString" : "https:\/\/guardians.fami.life\/UTK0101_",
+      "websiteURLString" : "https:\/\/www.fubonguardians.com\/content\/masterpage\/Index"
+    },
+    {
+      "city" : "2-2-2 Jigyohama, Chuo-ku, Fukuoka, Japan",
+      "divisionName" : "",
+      "fullName" : "2-2-2 Jigyohama, Chuo-ku, Fukuoka, Japan Fukuoka SoftBank Hawks 福岡軟銀鷹",
+      "groupName" : "Pacific League",
+      "homeStadiumID" : "88E94AF4-EDAB-4925-9C4B-152D3FA64EE3",
+      "id" : "0450E23E-F756-4F7E-94BB-E59DFA93A0A1",
+      "leagueID" : "84CD61F9-A5EE-455D-AAA5-B86A3FEFE99C",
+      "name" : "Fukuoka SoftBank Hawks 福岡軟銀鷹",
+      "ticketURLString" : "https:\/\/www.viagogo.com\/ww\/Sports-Tickets\/Other-Sports\/Baseball\/Nippon-Professional-Baseball\/Fukuoka-SoftBank-Hawks-Tickets?PCID=PSROWADWHOME648155129F84B&MetroRegionID=&psc=&ps=&ps_p=0&ps_c=21270547886&ps_ag=191909525678&ps_tg=kwd-300793161976&ps_ad=793036059339&ps_adp=&ps_fi=&ps_li=&ps_lp=1012810&ps_n=g&ps_d=c&ps_ex=&pscpag=&gad_source=1&gad_campaignid=21270547886&gbraid=0AAAAAD3dCeC7T9_nGyACbXiQeKSOhq4W0&gclid=Cj0KCQjwyr3OBhD0ARIsALlo-OlBMZJOG5S7VFZheKm9nT2gdwxtJrv28sypNUD7LAVvAL3N5yLGJVIaAllQEALw_wcB",
+      "websiteURLString" : "https:\/\/www.softbankhawks.co.jp\/"
+    },
+    {
+      "city" : "Nishinomiya",
+      "divisionName" : "",
+      "fullName" : "Nishinomiya Hanshin Tigers 阪神虎",
+      "groupName" : "Central League",
+      "homeStadiumID" : "EE7EA182-3EF2-42CF-A908-973B5295F852",
+      "id" : "80B9DE15-8C9C-41B6-8CBC-E5FA8370739C",
+      "leagueID" : "84CD61F9-A5EE-455D-AAA5-B86A3FEFE99C",
+      "name" : "Hanshin Tigers 阪神虎",
+      "ticketURLString" : "https:\/\/hanshintigers.jp\/ticket",
+      "websiteURLString" : "https:\/\/hanshintigers.jp\/en\/"
+    },
+    {
+      "city" : "北海道北広島市",
+      "divisionName" : "",
+      "fullName" : "北海道北広島市 Hokkaido Nippon-Ham Fighters 北海道日本火腿鬥士隊",
+      "groupName" : "Pacific League",
+      "homeStadiumID" : "91592507-4CAE-4A8E-B55B-4671887BF203",
+      "id" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "leagueID" : "84CD61F9-A5EE-455D-AAA5-B86A3FEFE99C",
+      "name" : "Hokkaido Nippon-Ham Fighters 北海道日本火腿鬥士隊",
+      "ticketURLString" : "https:\/\/www.fighters.co.jp\/zh-tw\/ticket\/",
+      "websiteURLString" : "https:\/\/www.fighters.co.jp\/en\/"
+    },
+    {
+      "city" : "Houston, Texas",
+      "divisionName" : "West",
+      "fullName" : "Houston, Texas Houston Astros 休士頓太空人",
+      "groupName" : "American League",
+      "homeStadiumID" : "7D532AD3-2BAC-4678-800E-103DEBFDE363",
+      "id" : "8BB65842-0BCF-4791-8360-54FCCA6A94EB",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "Houston Astros 休士頓太空人",
+      "ticketURLString" : "https:\/\/www.mlb.com\/astros\/tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/astros"
+    },
+    {
+      "city" : "New York City",
+      "divisionName" : "East",
+      "fullName" : "New York City New York Mets 紐約大都會",
+      "groupName" : "National League",
+      "homeStadiumID" : "9897ED35-45EB-448B-8423-57A81E5D3D5B",
+      "id" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "New York Mets 紐約大都會",
+      "ticketURLString" : "https:\/\/www.mlb.com\/mets\/tickets\/single-game-tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/mets"
+    },
+    {
+      "city" : "Philadelphia",
+      "divisionName" : "East",
+      "fullName" : "Philadelphia Philadelphia Phillie 費城人",
+      "groupName" : "National League",
+      "homeStadiumID" : "069285A8-A7EC-4E2B-ADD0-16866854E7E0",
+      "id" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "Philadelphia Phillie 費城人",
+      "ticketURLString" : "https:\/\/www.mlb.com\/phillies\/tickets\/single-game-tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/phillies"
+    },
+    {
+      "city" : "Petersburg, FL",
+      "divisionName" : "East",
+      "fullName" : "Petersburg, FL Tampa Bay Rays｜坦帕灣光芒",
+      "groupName" : "American League",
+      "homeStadiumID" : "45A65F28-1936-485E-B26F-866EE72F8A5F",
+      "id" : "42E23737-8A68-42C2-9A48-43E22695A9D3",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "Tampa Bay Rays｜坦帕灣光芒",
+      "ticketURLString" : "https:\/\/www.mlb.com\/rays\/tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/rays"
+    },
+    {
+      "city" : "Tokyo",
+      "divisionName" : "",
+      "fullName" : "Tokyo Tokyo Giants 東京讀賣巨人",
+      "groupName" : "Central League",
+      "homeStadiumID" : "FCA12CAE-9182-4E84-9627-63FC2E767F87",
+      "id" : "8361C18C-D87F-4821-8FB6-7D341E7B9749",
+      "leagueID" : "84CD61F9-A5EE-455D-AAA5-B86A3FEFE99C",
+      "name" : "Tokyo Giants 東京讀賣巨人",
+      "ticketURLString" : "https:\/\/www.giants.jp\/en\/ticket",
+      "websiteURLString" : "https:\/\/www.giants.jp\/en"
+    },
+    {
+      "city" : "New York",
+      "divisionName" : "East",
+      "fullName" : "New York Yankees",
+      "groupName" : "American League",
+      "homeStadiumID" : "BDDB64D6-B31C-4E43-B2FC-70C7D5AA3624",
+      "id" : "5572F0D0-A49B-46D4-955B-B77467A3480A",
+      "leagueID" : "2E3FACA5-658D-4B6D-9FD8-079328ABC6A4",
+      "name" : "Yankees",
+      "ticketURLString" : "https:\/\/www.mlb.com\/yankees\/tickets",
+      "websiteURLString" : "https:\/\/www.mlb.com\/yankees"
+    },
+    {
+      "city" : "Tainan",
+      "divisionName" : "",
+      "fullName" : "Tainan 統一7-ELEVEn獅 Uni-President 7-Eleven Lions",
+      "groupName" : "",
+      "homeStadiumID" : "975E28C3-844A-4C2F-B115-98FF210EFF34",
+      "id" : "F9041EE5-473A-4737-9E11-605C09CDFA38",
+      "leagueID" : "79848C29-33B8-49CD-8A07-1AA2C3B81B62",
+      "name" : "統一7-ELEVEn獅 Uni-President 7-Eleven Lions",
+      "ticketURLString" : "https:\/\/www.uni-lions.com.tw\/ticket.asp",
+      "websiteURLString" : "https:\/\/www.uni-lions.com.tw"
+    }
+  ],
+  "travelLinks" : [
+    {
+      "id" : "CB9481A9-514C-48D4-A031-54F251AEFD4D",
+      "kind" : "Reference",
+      "stadiumID" : "47140B99-E265-4988-8E50-5601296A4941",
+      "title" : "\"GO GET 'EM, TIGERS\" (DETROIT TIGERS)",
+      "urlString" : "https:\/\/youtu.be\/oyjKaXOB73U?si=6boe1oBIo_rCsPKY"
+    },
+    {
+      "id" : "57472DB5-79FE-41C5-A999-EAA1CE5F47FB",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "5320230C-D33A-4533-B181-FA3C1EEA4145",
+      "title" : "16 minutes of Zack Wheeler's 2025 MLB highlights with the Phillies!  (2.71 ERA, 0.93 WHIP, 195 K) By MLB",
+      "urlString" : "https:\/\/youtu.be\/dmtTH_AOqYA?si=SaWQZJ6qUsj2f84B"
+    },
+    {
+      "id" : "05EFBE21-5EDF-4017-BC55-66460D652F74",
+      "kind" : "Official",
+      "playerID" : "5795FF66-BAB8-4CD4-A4C9-4FA62750F039",
+      "title" : "1B Pete Alonso Introductory Press Conference",
+      "urlString" : "https:\/\/www.youtube.com\/live\/ZzyhS9q5RtM?si=i3LS5u_-Z-_cXyXw"
+    },
+    {
+      "id" : "B0BF7D95-51B7-44DE-8DCC-5B2FC1CA0A9B",
+      "kind" : "Stadium Guide",
+      "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "title" : "2025 Mets Game Day Experience With Pre-Game Citi Field Tour by  ViewFromTheCheapSeats",
+      "urlString" : "https:\/\/youtu.be\/_BkR5hQFAZA?si=rrEjZlZDJ9bR2xfZ"
+    },
+    {
+      "id" : "95C167FF-BCAA-41BB-8EB9-D407EB78ED5C",
+      "kind" : "Game",
+      "playerID" : "5011131A-A464-4BA1-BD03-7771BF16EC12",
+      "title" : "2025.06.08 讀賣巨人 vs 東北樂天金鷲",
+      "urlString" : "https:\/\/youtu.be\/Iwja3ZYbX_U?si=D6eRywygncg6G3lA"
+    },
+    {
+      "id" : "BA2211A3-120A-4362-8D29-FE5989E71203",
+      "kind" : "Game",
+      "playerID" : "B1763E2C-9746-48C6-A1E7-C3876F570692",
+      "title" : "20260222李灝宇(老虎春訓)3B替補 by 遙控器拿來我要看棒球",
+      "urlString" : "https:\/\/youtu.be\/3H2_McRkbmA?si=B40J9QjIdcBfdTNO"
+    },
+    {
+      "id" : "306117C3-0CFB-4F72-B491-1347BAA1A7EC",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "FF74FA16-236B-43FB-9827-4190589526C8",
+      "title" : "9.20 胡金龍HU'S PARTNER 賽後引退儀式",
+      "urlString" : "https:\/\/www.youtube.com\/live\/9EEkC0m6S1M?si=Wpck7lWApXlMtBLg"
+    },
+    {
+      "id" : "38791FD3-8272-43B6-B7CF-FE89BEA7E2C2",
+      "kind" : "Game",
+      "playerID" : "C980CFD3-93EB-4725-96D3-502CF8E8AB6D",
+      "title" : "Adley Rutschman 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/i75feoLicAI?si=Sa4h_u92kCgJlRE-"
+    },
+    {
+      "id" : "305E7B4B-94B6-4984-A298-1243E60BC596",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "C370C349-64E5-4749-8E41-FBD5B83D475A",
+      "title" : "All Yandy Diaz 25 Homeruns || 2025 MLB Season Highlights",
+      "urlString" : "https:\/\/youtu.be\/2sBB3jK2AxI?si=4rmGdzVhplbidloP"
+    },
+    {
+      "id" : "963D0A0C-1E9C-4495-BB5A-DF35369F41DD",
+      "kind" : "Wiki \/ Reference",
+      "stadiumID" : "45A65F28-1936-485E-B26F-866EE72F8A5F",
+      "title" : "Award-winning ballpark food debuting at Tropicana Field for Tampa Bay Rays opening day",
+      "urlString" : "https:\/\/youtu.be\/thqwn_fDF-M?si=eWSUUn2sl9XfXcDT"
+    },
+    {
+      "id" : "941C7D33-64F4-4D69-A778-48274B34B9AC",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "74D3575D-6516-4DE4-BC88-0553A9461E94",
+      "title" : "BALTIMORE ORIOLES at Oriole Park at Camden Yards | Stadium Tour & Review",
+      "urlString" : "https:\/\/youtu.be\/3zNh-AvBoXw?si=Mxom4KSNz9fF9Yyu"
+    },
+    {
+      "id" : "D5D4B7C7-D53B-436B-9AD6-79C6B5E5E08D",
+      "kind" : "Official",
+      "stadiumID" : "47140B99-E265-4988-8E50-5601296A4941",
+      "title" : "Ball park information",
+      "urlString" : "https:\/\/www.mlb.com\/tigers\/ballpark\/information"
+    },
+    {
+      "id" : "1FD9DF61-1985-4FCB-A1DD-577E6F33F601",
+      "kind" : "Transport",
+      "stadiumID" : "47140B99-E265-4988-8E50-5601296A4941",
+      "title" : "Ball park transportation",
+      "urlString" : "https:\/\/www.mlb.com\/tigers\/ballpark\/transportation"
+    },
+    {
+      "id" : "717EBCB6-AB85-4445-8CA0-DCDEDDBF5E70",
+      "kind" : "Game",
+      "playerID" : "C1AC0390-DE3D-40BA-BFB7-2C584FBF2AE6",
+      "title" : "Best of: Francisco Alvarez",
+      "urlString" : "https:\/\/youtu.be\/6iYfzvc0KGU?si=XdERssoFoOew6UCT"
+    },
+    {
+      "id" : "5D13572E-B916-4499-9AC7-C87234E1363D",
+      "kind" : "Wiki \/ Reference",
+      "stadiumID" : "74D3575D-6516-4DE4-BC88-0553A9461E94",
+      "title" : "Boog's BBQ | Birdland Playback",
+      "urlString" : "https:\/\/youtu.be\/OkFJxHv-mOU?si=kSGpwV88Yr2a3P8o"
+    },
+    {
+      "id" : "A3C0EF76-4C57-480B-96E1-62BDE55AA6BB",
+      "kind" : "Travel",
+      "playerID" : "844E983D-4638-4572-8A1C-E94AF22C5A8E",
+      "title" : "Bronx Visitor Guide",
+      "urlString" : "https:\/\/www.nycgo.com\/boroughs-neighborhoods\/bronx"
+    },
+    {
+      "id" : "7643C3D5-2263-43D1-BB30-7C6A3ED921DE",
+      "kind" : "Source",
+      "playerID" : "0F35A8DF-8A36-4717-8250-92CFC94B2E88",
+      "title" : "Brothers Team Hub",
+      "urlString" : "https:\/\/www.brothers.tw"
+    },
+    {
+      "id" : "D2CC6590-176C-4C6E-8CAA-CA5B39C7DD85",
+      "kind" : "Ticket",
+      "stadiumID" : "B02E388A-1594-423A-8CBD-47FFBB541426",
+      "title" : "Brothers Tickets",
+      "urlString" : "https:\/\/www.brothers.tw\/ticket.php"
+    },
+    {
+      "id" : "908EFF83-2C03-423F-9CF5-58759F41340C",
+      "kind" : "Game",
+      "playerID" : "99B58878-8FF2-4A85-B4C8-309AB8E561B7",
+      "title" : "Bryce Harper CRUSHES a game-tying 2-run HR in the 8th for Team USA!",
+      "urlString" : "https:\/\/youtu.be\/Vvx7vboxYq4?si=cuATs_f9yNWgY7C0"
+    },
+    {
+      "id" : "27BC780F-11FA-4546-A39F-563D0F463E42",
+      "kind" : "Food",
+      "stadiumID" : "846F4872-DD0B-48B6-A627-9FFF7F68D0DB",
+      "title" : "Chase Field unveils new food items for the Arizona Diamondbacks 2025 season  ABC15 Arizona",
+      "urlString" : "https:\/\/youtu.be\/X5XvWte9BtA?si=z2BiRP3LlRpPt3-j"
+    },
+    {
+      "id" : "1A892033-DEC3-4989-833D-8CD4169FECB8",
+      "kind" : "Wiki \/ Reference",
+      "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "title" : "Citi Field - Do The Mets Have the BEST Food in Baseball? By  mrcheezypop",
+      "urlString" : "https:\/\/youtu.be\/D70lzNbF8JE?si=KBlUFWNH99CXNtu2"
+    },
+    {
+      "id" : "BEBAEAFB-D86E-4B16-9AFB-7BB23A0B5B4B",
+      "kind" : "Source",
+      "playerID" : "39E6415F-5ED7-41A7-A822-CD1BB69D9388",
+      "title" : "Dodgers Player Context",
+      "urlString" : "https:\/\/www.mlb.com\/dodgers"
+    },
+    {
+      "id" : "6689262C-FAF2-435E-B6B5-586692FDF947",
+      "kind" : "Ticket",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "title" : "Dodgers Tickets",
+      "urlString" : "https:\/\/www.mlb.com\/dodgers\/tickets"
+    },
+    {
+      "id" : "42BE861E-27DE-4E73-A41F-7A03FC4EE66E",
+      "kind" : "Food",
+      "stadiumID" : "45A65F28-1936-485E-B26F-866EE72F8A5F",
+      "title" : "Eat THIS at The Trop in 2024 by Concession Critics",
+      "urlString" : "https:\/\/youtu.be\/3K4ERml_M1U?si=z95nNdOb0L7UtaeI"
+    },
+    {
+      "id" : "FF5B7EA9-1910-4D13-908C-700AB0119C5E",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "0E962884-C20F-482A-BF33-693C1BAB6A56",
+      "title" : "Every Francisco Lindor Home Run in 2025",
+      "urlString" : "https:\/\/youtu.be\/eSUoyj6NIlc?si=Z3ybCI53bBGbFL_i"
+    },
+    {
+      "id" : "D2221630-F679-4E01-B0A2-D2C231084229",
+      "kind" : "Game",
+      "playerID" : "F8B65ADA-E028-4F62-82DC-67E20833C631",
+      "title" : "Every Juan Soto Home Run in 2025",
+      "urlString" : "https:\/\/youtu.be\/PiEKDaUS3tY?si=g250I5psKE0ZRW_z"
+    },
+    {
+      "id" : "B07C430C-9777-45AA-855D-57F8BED61B87",
+      "kind" : "Food",
+      "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
+      "title" : "Famous food spots at the Phillies stadium by  Tony's Famous Finds",
+      "urlString" : "https:\/\/youtu.be\/W9gNdfYi-sw?si=_-lmx6CJRrqOCs_l"
+    },
+    {
+      "id" : "7E3F5187-AB49-47A5-ACFE-551E33E14FDF",
+      "kind" : "Game",
+      "playerID" : "0E962884-C20F-482A-BF33-693C1BAB6A56",
+      "title" : "Francisco Lindor | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/M9vDeeNS3os?si=OUIqSwFRTEeg0dFQ"
+    },
+    {
+      "gameID" : "697CF89A-2D5C-449C-B7C9-F0BC92869A58",
+      "id" : "E9C32551-37F4-4BFD-8FDB-0B03CE331AEC",
+      "kind" : "Game",
+      "title" : "Game Day Ballpark Info",
+      "urlString" : "https:\/\/www.mlb.com\/dodgers\/ballpark\/information"
+    },
+    {
+      "id" : "8CFDB5F4-8911-44BD-A427-94A5467B5ED9",
+      "kind" : "Source",
+      "playerID" : "3BD57B98-93C4-42CD-9BCA-67C2764C2422",
+      "title" : "Giants Roster Info",
+      "urlString" : "https:\/\/www.giants.jp\/en\/players"
+    },
+    {
+      "id" : "C1AC4D3D-4BCE-441A-9E23-D1564797BFB6",
+      "kind" : "Source",
+      "playerID" : "E1EE690B-4E60-4FB2-AF49-0CA9F3CD7C94",
+      "title" : "Giants Team Site",
+      "urlString" : "https:\/\/www.giants.jp\/en"
+    },
+    {
+      "id" : "CCA63FF9-E62A-47DE-9918-953ACA93351B",
+      "kind" : "Ticket",
+      "stadiumID" : "FCA12CAE-9182-4E84-9627-63FC2E767F87",
+      "title" : "Giants Tickets",
+      "urlString" : "https:\/\/www.giants.jp\/en\/ticket"
+    },
+    {
+      "id" : "715C2682-C5FC-427B-BEDB-1A250FB9552D",
+      "kind" : "Blog \/ Review",
+      "stadiumID" : "7D532AD3-2BAC-4678-800E-103DEBFDE363",
+      "title" : "Going To A Houston Astros Game At Daikin Park",
+      "urlString" : "https:\/\/youtu.be\/j8_QyqYQTlw?si=79W2F61TiVuPwgdz"
+    },
+    {
+      "id" : "0A37DCD7-085F-44F5-9DCB-DCC59EC24792",
+      "kind" : "Wiki \/ Reference",
+      "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
+      "title" : "Great grub at Chickie's and Pete's for the Phillies game by FOX 29 Philadelphia",
+      "urlString" : "https:\/\/youtu.be\/R06Y7A80DDs?si=nEgowKUG11_RDgJn"
+    },
+    {
+      "id" : "8F7DF699-4B01-43C4-99A7-EAF79376B0FA",
+      "kind" : "Game",
+      "playerID" : "C980CFD3-93EB-4725-96D3-502CF8E8AB6D",
+      "title" : "Gunnar Henderson | 2025 Highlights by  Sports Productions",
+      "urlString" : "https:\/\/youtu.be\/0zbVPNvIh8Q?si=WkHcYVlxxKkU0tKn"
+    },
+    {
+      "id" : "870E12C7-8DCA-478C-BAFF-E2462026B3D4",
+      "kind" : "Food",
+      "stadiumID" : "74D3575D-6516-4DE4-BC88-0553A9461E94",
+      "title" : "Hotdog yakamein and crab smash tacos are coming to Camden Yards",
+      "urlString" : "https:\/\/youtu.be\/OQ2_Asj2aDo?si=IiIPcZPh6moABgDQ"
+    },
+    {
+      "id" : "68A82531-5CDE-4682-9BA9-544DBA03C225",
+      "kind" : "Food",
+      "stadiumID" : "7D532AD3-2BAC-4678-800E-103DEBFDE363",
+      "title" : "Houston Astros Ballpark Food Review by  @FoodNFitteds with Phil",
+      "urlString" : "https:\/\/youtu.be\/x167zrVcte8?si=Du19qqz4NasQNg1h"
+    },
+    {
+      "id" : "BDE921C6-1906-46C5-B083-B4BA63217BF2",
+      "kind" : "Official",
+      "playerID" : "E2C700E1-9C26-4FF1-AB0D-73FF117B6948",
+      "title" : "Hsu, Jo-Hsi",
+      "urlString" : "https:\/\/npb.jp\/bis\/eng\/players\/23525152.html"
+    },
+    {
+      "id" : "61FEEF0A-2A7E-45FF-B6C9-A2399583B59A",
+      "kind" : "Travel",
+      "playerID" : "36AC4EEE-97CA-4B4E-937C-02B9556AA450",
+      "title" : "Hyogo Travel",
+      "urlString" : "https:\/\/www.japan.travel\/en\/destinations\/kansai\/hyogo"
+    },
+    {
+      "id" : "4291C578-5FE0-46E1-96B1-1FF4E7971F52",
+      "kind" : "Food",
+      "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "title" : "I Ate EVERYTHING at the Mets Stadium So You Don’t Have To 🍔🌭😅 by Whistle",
+      "urlString" : "https:\/\/youtu.be\/7AZ0P6pvQP8?si=cLi_eJNkYEUlFvsE"
+    },
+    {
+      "id" : "1996A808-04E7-4EEF-8472-D8ED712154AB",
+      "kind" : "Game",
+      "playerID" : "EEBDC22A-98DF-4A61-96D7-02246EEF44AF",
+      "title" : "JUNIOR CAMINERO IS ELECTRIC! ⚡️ SOLO HOME RUN for Team Dominican Republic vs. Paul Skenes & Team USA",
+      "urlString" : "https:\/\/youtu.be\/ubgBkug6yVo?si=5cLeOnLfYJOg6SJA"
+    },
+    {
+      "id" : "42319B03-E9F4-4A26-852D-6DD5396D21EC",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "232832A3-E305-472A-910B-658DC3F27188",
+      "title" : "Jackson Holliday | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/evor6XfmzpM?si=e-iymydoOcd5x4he"
+    },
+    {
+      "id" : "9A134C5A-754D-46D4-AD21-D75F324F4B42",
+      "kind" : "Wiki \/ Reference",
+      "stadiumID" : "74D3575D-6516-4DE4-BC88-0553A9461E94",
+      "title" : "John Denver - Thank God I'm A Country Boy (Orioles Singalong Song)",
+      "urlString" : "https:\/\/youtu.be\/QRuCPS_-_IA?si=3H87ID6JKrmpsHgv"
+    },
+    {
+      "id" : "40F68228-6A93-462E-B2E4-6F0B94CA7BDC",
+      "kind" : "Game",
+      "playerID" : "760888F6-410A-489A-9391-1DDAE3C7E95C",
+      "title" : "Jonathan Aranda | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/LZYH1s3qqj8?si=8lXEXyx1IaDdhBsI"
+    },
+    {
+      "id" : "1F36B645-D3CF-4C3E-8178-4E6C77405AC2",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "EEBDC22A-98DF-4A61-96D7-02246EEF44AF",
+      "title" : "Junior Caminero | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/WwZTYKSmzGM?si=th_cbR-JD840MN4G"
+    },
+    {
+      "id" : "95598EBA-1FCB-4F34-9CCB-9A57BBFCD624",
+      "kind" : "Travel",
+      "stadiumID" : "EE7EA182-3EF2-42CF-A908-973B5295F852",
+      "title" : "Kansai Day Trip Ideas",
+      "urlString" : "https:\/\/www.japan.travel\/en\/destinations\/kansai\/hyogo"
+    },
+    {
+      "id" : "284F1DEE-ACF7-4216-A3A1-D459C5AB0E7A",
+      "kind" : "Travel",
+      "playerID" : "E92767AC-18B0-4DFE-A87B-06C045509965",
+      "title" : "Kansai Rail Trip Ideas",
+      "urlString" : "https:\/\/www.japan.travel\/en\/uk\/inspiration\/kansai-by-rail"
+    },
+    {
+      "id" : "03F6F6CA-0F74-430C-97F8-7038750149E7",
+      "kind" : "Game",
+      "playerID" : "F40DE30A-1F6C-4DA1-8A91-9107DFEA1B28",
+      "title" : "Kodai Senga struck out 7 for the Mets! 👻 | MLB Highlights | 千賀滉大ハイライト",
+      "urlString" : "https:\/\/youtu.be\/yl_vAWUV21Q?si=U28TbI8ryZ9zgmDF"
+    },
+    {
+      "id" : "38EDB310-D347-41CB-A1D0-D1A30379E806",
+      "kind" : "Game",
+      "playerID" : "F40DE30A-1F6C-4DA1-8A91-9107DFEA1B28",
+      "title" : "Kodai Senga's 2025 highlight reel with the Mets! 👻 | 千賀滉大ハイライト",
+      "urlString" : "https:\/\/youtu.be\/VfLxK7YTdGU?si=e7EbP9nwDo85ucbk"
+    },
+    {
+      "id" : "6A988438-FB64-4556-A5A3-EA85F6F6ABBA",
+      "kind" : "Stadium",
+      "stadiumID" : "EE7EA182-3EF2-42CF-A908-973B5295F852",
+      "title" : "Koshien Guide",
+      "urlString" : "https:\/\/koshien.hanshin.co.jp"
+    },
+    {
+      "id" : "A561EE69-A1AF-4807-8383-3BB43D79DAAF",
+      "kind" : "Travel",
+      "playerID" : "39E6415F-5ED7-41A7-A822-CD1BB69D9388",
+      "title" : "LA Neighborhood Guide",
+      "urlString" : "https:\/\/www.discoverlosangeles.com\/visit\/la-neighborhoods"
+    },
+    {
+      "gameID" : "697CF89A-2D5C-449C-B7C9-F0BC92869A58",
+      "id" : "5653F4C0-D821-4579-89BB-02C34D90DA09",
+      "kind" : "Travel",
+      "title" : "LA Trip Planning",
+      "urlString" : "https:\/\/www.discoverlosangeles.com\/things-to-do"
+    },
+    {
+      "id" : "02E43839-A5AF-47AD-B4CD-F14D63F937A5",
+      "kind" : "Source",
+      "playerID" : "FF74FA16-236B-43FB-9827-4190589526C8",
+      "title" : "Lions Club Info",
+      "urlString" : "https:\/\/www.uni-lions.com.tw"
+    },
+    {
+      "id" : "9C39612A-ABF5-4F3D-BB27-331E40CCE4DE",
+      "kind" : "Source",
+      "playerID" : "E98D7F01-8584-4714-8BE6-7D77D6324B93",
+      "title" : "Lions Team Site",
+      "urlString" : "https:\/\/www.uni-lions.com.tw\/team.php"
+    },
+    {
+      "id" : "FD21A27E-7ABA-479D-BFF0-56342441BAC1",
+      "kind" : "Ticket",
+      "stadiumID" : "975E28C3-844A-4C2F-B115-98FF210EFF34",
+      "title" : "Lions Tickets",
+      "urlString" : "https:\/\/www.uni-lions.com.tw\/ticket.asp"
+    },
+    {
+      "id" : "5285FB85-921A-4A4A-B5BC-740642B57146",
+      "kind" : "Source",
+      "playerID" : "844E983D-4638-4572-8A1C-E94AF22C5A8E",
+      "title" : "MLB Player Profile",
+      "urlString" : "https:\/\/www.mlb.com\/player\/aaron-judge-592450"
+    },
+    {
+      "id" : "E77BA73A-0F00-4F46-BEB1-6D11CA0DF591",
+      "kind" : "Source",
+      "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
+      "title" : "MLB Player Profile",
+      "urlString" : "https:\/\/www.mlb.com\/player\/shohei-ohtani-660271"
+    },
+    {
+      "id" : "40C410BB-8409-41A2-8D57-DC328726C930",
+      "kind" : "Wiki \/ Reference",
+      "stadiumID" : "AE251F4D-01CD-4B08-8318-32042EB525C6",
+      "title" : "Map",
+      "urlString" : "https:\/\/maps.apple\/p\/sF7_mVaAvW~E6p"
+    },
+    {
+      "id" : "656EFE99-9BDF-406C-9BE7-DED41F7AAB37",
+      "kind" : "Game",
+      "playerID" : "F8B65ADA-E028-4F62-82DC-67E20833C631",
+      "title" : "NEW CAREER HIGH! 🤩 All 42 of Juan Soto's home runs for the New York Mets this season! 🍎",
+      "urlString" : "https:\/\/youtu.be\/CJLMIs-xRdA?si=ptvibDFnP1W0aAze"
+    },
+    {
+      "id" : "E23D0B04-D904-4AFB-A118-5BB2ED9296A6",
+      "kind" : "Travel",
+      "playerID" : "E9843B0A-F1F7-4FE3-967F-F5501E019267",
+      "title" : "NYC Transit Tips",
+      "urlString" : "https:\/\/new.mta.info\/guides"
+    },
+    {
+      "id" : "ACD1E949-875F-4503-9206-270D8F8DB93D",
+      "kind" : "Food",
+      "stadiumID" : "45A65F28-1936-485E-B26F-866EE72F8A5F",
+      "title" : "New food being offered at Tropicana Field this season",
+      "urlString" : "https:\/\/youtu.be\/SkFmAPmziXU?si=2QVnhjetqK3yBO9h"
+    },
+    {
+      "id" : "DFE708B7-0BF5-4A9B-9006-0DE6F0504C27",
+      "kind" : "Food",
+      "stadiumID" : "47140B99-E265-4988-8E50-5601296A4941",
+      "title" : "New food items coming to Comerica Park in 2026 by  WXYZ-TV Detroit | Channel 7",
+      "urlString" : "https:\/\/youtu.be\/kH-Dma_E8TM?si=MHoKwpdOMhyzYhdu"
+    },
+    {
+      "id" : "F90A0C79-F0A1-4765-96C9-97D7FEA81EBC",
+      "kind" : "Food",
+      "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
+      "title" : "New food options for Phillies fans this season at Citizens Bank Park by  6abc Philadelphia",
+      "urlString" : "https:\/\/youtu.be\/5LJ3Rp7XCYI?si=yrkuZ38NxjmI58-U"
+    },
+    {
+      "id" : "9D726297-7C2D-4183-9245-DEB4461B369F",
+      "kind" : "Stadium",
+      "stadiumID" : "B02E388A-1594-423A-8CBD-47FFBB541426",
+      "title" : "Official Brothers Venue",
+      "urlString" : "https:\/\/www.brothers.tw"
+    },
+    {
+      "id" : "D7B6FD22-82E6-4CDD-81AA-6892806357B6",
+      "kind" : "Stadium",
+      "stadiumID" : "975E28C3-844A-4C2F-B115-98FF210EFF34",
+      "title" : "Official Lions Info",
+      "urlString" : "https:\/\/www.uni-lions.com.tw"
+    },
+    {
+      "id" : "6C3B9AD4-C287-444F-B5B1-4D715BB641E6",
+      "kind" : "Stadium",
+      "stadiumID" : "BDDB64D6-B31C-4E43-B2FC-70C7D5AA3624",
+      "title" : "Official Stadium Site",
+      "urlString" : "https:\/\/www.mlb.com\/yankees\/ballpark"
+    },
+    {
+      "id" : "30733A0E-EFD7-4799-93D5-4B63DCC39091",
+      "kind" : "Stadium",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "title" : "Official Stadium Site",
+      "urlString" : "https:\/\/www.mlb.com\/dodgers\/ballpark"
+    },
+    {
+      "id" : "09A30B4D-E6F4-42D9-8E56-B3F494482491",
+      "kind" : "Official",
+      "stadiumID" : "88E94AF4-EDAB-4925-9C4B-152D3FA64EE3",
+      "title" : "Official Website for 福岡軟銀鷹",
+      "urlString" : "https:\/\/npb.jp\/bis\/eng\/teams\/index_h.html"
+    },
+    {
+      "id" : "B63376D5-4092-41E7-BDBD-3F82ACF537F9",
+      "kind" : "Game",
+      "playerID" : "5795FF66-BAB8-4CD4-A4C9-4FA62750F039",
+      "title" : "Pete Alonso crushes his first Orioles home run! 🐻‍❄️ (Off former teammate Jacob deGrom! 👀)",
+      "urlString" : "https:\/\/youtu.be\/cTbET2iRAGk?si=aU8Cz0Z85mHg5diT"
+    },
+    {
+      "id" : "BF156437-2B18-4402-B12F-A50859A200B3",
+      "kind" : "Food",
+      "stadiumID" : "47140B99-E265-4988-8E50-5601296A4941",
+      "title" : "Previewing the new food at Comerica Park by Click On Detroit | Local 4 | WDIV",
+      "urlString" : "https:\/\/youtu.be\/P0C6-RQbnf4?si=11Sb4UD8fS5-rj7C"
+    },
+    {
+      "id" : "FE0E87CB-A735-428D-B512-D07C78A3A467",
+      "kind" : "Game",
+      "teamID" : "42E23737-8A68-42C2-9A48-43E22695A9D3",
+      "title" : "Shane McClanahan is the REAL DEAL! The Rays ace has breakout season! (Is All-Star, 6th in CY voting)",
+      "urlString" : "https:\/\/youtu.be\/icFh6ZgShLg?si=wS9yJzne2qN2h9_w"
+    },
+    {
+      "id" : "7804CA29-66C6-4FDF-8861-0EA740A0CB38",
+      "kind" : "Transit",
+      "stadiumID" : "BDDB64D6-B31C-4E43-B2FC-70C7D5AA3624",
+      "title" : "Subway and Access Guide",
+      "urlString" : "https:\/\/new.mta.info"
+    },
+    {
+      "id" : "3D023AB9-8B7E-4BF8-B836-155F9C449A6B",
+      "kind" : "Travel",
+      "playerID" : "0F35A8DF-8A36-4717-8250-92CFC94B2E88",
+      "title" : "Taichung Food Spots",
+      "urlString" : "https:\/\/travel.taichung.gov.tw\/en-us\/Attractions\/List"
+    },
+    {
+      "id" : "CEA4D2A6-A2D1-4CA2-8DC6-C5E934CA8C06",
+      "kind" : "Travel",
+      "stadiumID" : "B02E388A-1594-423A-8CBD-47FFBB541426",
+      "title" : "Taichung Tourism",
+      "urlString" : "https:\/\/travel.taichung.gov.tw"
+    },
+    {
+      "id" : "398BD593-5B08-4B97-BC04-8A7D34B4018B",
+      "kind" : "Travel",
+      "playerID" : "FF74FA16-236B-43FB-9827-4190589526C8",
+      "title" : "Tainan Eats Guide",
+      "urlString" : "https:\/\/www.twtainan.net\/en\/attractions"
+    },
+    {
+      "id" : "C1D4D1CC-F55F-4A73-9E39-278B8B9533E1",
+      "kind" : "Travel",
+      "playerID" : "E98D7F01-8584-4714-8BE6-7D77D6324B93",
+      "title" : "Tainan Old Town Guide",
+      "urlString" : "https:\/\/www.twtainan.net\/en"
+    },
+    {
+      "id" : "256F9CFD-5C22-4834-B2E1-844B9DB7323E",
+      "kind" : "Travel",
+      "stadiumID" : "975E28C3-844A-4C2F-B115-98FF210EFF34",
+      "title" : "Tainan Travel",
+      "urlString" : "https:\/\/www.twtainan.net"
+    },
+    {
+      "id" : "D534AE25-AD6B-4CAF-BB06-E21C05F9149B",
+      "kind" : "Stadium",
+      "stadiumID" : "228FAAE0-9D01-4D48-AF31-97FB447DEF70",
+      "title" : "Taipei Dome Guide",
+      "urlString" : "https:\/\/www.taipeidome.com.tw"
+    },
+    {
+      "id" : "093B9490-AA68-4810-80FA-2F470FD0DC48",
+      "kind" : "Travel",
+      "stadiumID" : "228FAAE0-9D01-4D48-AF31-97FB447DEF70",
+      "title" : "Taipei Travel",
+      "urlString" : "https:\/\/www.travel.taipei\/en"
+    },
+    {
+      "id" : "AD1A0D06-C951-4FF3-A7A4-34A6B9011BAF",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "5795FF66-BAB8-4CD4-A4C9-4FA62750F039",
+      "title" : "The Mets Home Run King 👑 is reportedly headed to the Orioles! (Pete Alonso career highlights! 🐻‍❄️)",
+      "urlString" : "https:\/\/youtu.be\/bYxCAWhhL50?si=_dE-xxKv6DJ7c4SC"
+    },
+    {
+      "id" : "B66961F1-06EB-4D94-BE5D-0B447B120FE7",
+      "kind" : "Transport",
+      "stadiumID" : "EE7EA182-3EF2-42CF-A908-973B5295F852",
+      "title" : "Three ways to the ball park",
+      "urlString" : "https:\/\/www.japansportsticket.com\/stadium-access-info\/%E2%9A%BEtigers-%2F-koshien-stadium"
+    },
+    {
+      "id" : "1063B126-C453-4566-8137-DEEEDC3F7245",
+      "kind" : "Source",
+      "playerID" : "E92767AC-18B0-4DFE-A87B-06C045509965",
+      "title" : "Tigers Roster Info",
+      "urlString" : "https:\/\/hanshintigers.jp\/eng\/team"
+    },
+    {
+      "id" : "D7DBBE1B-0FB5-4540-BA86-A8D925002347",
+      "kind" : "Source",
+      "playerID" : "36AC4EEE-97CA-4B4E-937C-02B9556AA450",
+      "title" : "Tigers Team Site",
+      "urlString" : "https:\/\/hanshintigers.jp\/eng"
+    },
+    {
+      "id" : "67BE6077-3FB9-439A-9180-D9780EE3B292",
+      "kind" : "Ticket",
+      "stadiumID" : "EE7EA182-3EF2-42CF-A908-973B5295F852",
+      "title" : "Tigers Tickets",
+      "urlString" : "https:\/\/hanshintigers.jp\/ticket"
+    },
+    {
+      "id" : "86AE75E6-63BE-4336-9222-437806884A7F",
+      "kind" : "Travel",
+      "playerID" : "E1EE690B-4E60-4FB2-AF49-0CA9F3CD7C94",
+      "title" : "Tokyo City Guide",
+      "urlString" : "https:\/\/www.gotokyo.org\/en"
+    },
+    {
+      "gameID" : "E4969D35-3629-4F3A-9E59-0CF70F32B84F",
+      "id" : "A3A5456F-0109-4429-BD7B-D01980B65502",
+      "kind" : "Travel",
+      "title" : "Tokyo Dome Area Guide",
+      "urlString" : "https:\/\/www.gotokyo.org\/en\/spot\/42\/index.html"
+    },
+    {
+      "id" : "92F984F0-EC95-4EDF-BD09-DE2941C428C6",
+      "kind" : "Travel",
+      "playerID" : "3BD57B98-93C4-42CD-9BCA-67C2764C2422",
+      "title" : "Tokyo Dome Area Guide",
+      "urlString" : "https:\/\/www.gotokyo.org\/en\/destinations\/central-tokyo\/korakuen-and-iidabashi\/index.html"
+    },
+    {
+      "id" : "92295568-B0D2-4358-87A4-BC0D6E58CC6B",
+      "kind" : "Stadium",
+      "stadiumID" : "FCA12CAE-9182-4E84-9627-63FC2E767F87",
+      "title" : "Tokyo Dome City",
+      "urlString" : "https:\/\/www.tokyo-dome.co.jp\/en"
+    },
+    {
+      "gameID" : "E4969D35-3629-4F3A-9E59-0CF70F32B84F",
+      "id" : "5BA3E1BB-B8FE-49F5-A083-F720F60E71D9",
+      "kind" : "Game",
+      "title" : "Tokyo Dome Visitor Info",
+      "urlString" : "https:\/\/www.tokyo-dome.co.jp\/en\/tourists"
+    },
+    {
+      "id" : "2F2205C1-5BAC-419B-88C0-64B2DDFA6E48",
+      "kind" : "Travel",
+      "stadiumID" : "FCA12CAE-9182-4E84-9627-63FC2E767F87",
+      "title" : "Tokyo Transit",
+      "urlString" : "https:\/\/www.gotokyo.org\/en"
+    },
+    {
+      "id" : "ACDFEE2E-93CF-4C28-BECE-311DC3CCC55A",
+      "kind" : "Transit",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "title" : "Transit to Dodger Stadium",
+      "urlString" : "https:\/\/www.mlb.com\/dodgers\/ballpark\/transportation"
+    },
+    {
+      "id" : "D4109736-1F97-470B-8381-2D08548CAD25",
+      "kind" : "Travel",
+      "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
+      "title" : "Travel Guide to LA",
+      "urlString" : "https:\/\/www.discoverlosangeles.com"
+    },
+    {
+      "id" : "CE05F205-9DB5-431F-83D8-5794F975A058",
+      "kind" : "Food",
+      "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "title" : "Trying All The New Foods At Citi Field *2026* by Jshock",
+      "urlString" : "https:\/\/youtu.be\/-UX-nYGIRUg?si=h51VQAAyuRp9Q24W"
+    },
+    {
+      "id" : "7F158D2A-02C6-47BA-868F-302D9EC85891",
+      "kind" : "Food",
+      "stadiumID" : "0F157CC7-7D61-43D7-BD7B-25D019BBD205",
+      "title" : "Trying NEW FOOD At Chicago's Wrigley Field by inknhoney",
+      "urlString" : "https:\/\/youtu.be\/CqiT-UHnuZw?si=s05_-BeyJQYtJoG2"
+    },
+    {
+      "id" : "90F39A76-A1A0-4252-BF67-95AFBC41B4CF",
+      "kind" : "Food",
+      "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "title" : "Trying The Most Popular New York Mets Food At Citi Field | Delish",
+      "urlString" : "https:\/\/youtu.be\/eBwDrVTxfwA?si=kbx6wOtlwanBNa3B"
+    },
+    {
+      "id" : "FEE3B571-33A1-460C-9C95-A523B24BE2DC",
+      "kind" : "Food",
+      "stadiumID" : "74D3575D-6516-4DE4-BC88-0553A9461E94",
+      "title" : "Trying famous food spots at the Baltimore Orioles Stadium by Tony's Famous Finds",
+      "urlString" : "https:\/\/youtu.be\/zTzSQVBwgfw?si=x7JcI7X-3BO-tcgu"
+    },
+    {
+      "id" : "94BF1941-5F5B-4C85-943C-53FC6D1B98B6",
+      "kind" : "Food",
+      "stadiumID" : "74D3575D-6516-4DE4-BC88-0553A9461E94",
+      "title" : "Trying out the new food at Oriole Park",
+      "urlString" : "https:\/\/youtu.be\/dF8bYJgd4lY?si=RBwCq5WAuoutSt1O"
+    },
+    {
+      "id" : "0EE5DC2C-95F4-46A5-8476-C503C7DCB152",
+      "kind" : "Wiki \/ Reference",
+      "stadiumID" : "846F4872-DD0B-48B6-A627-9FFF7F68D0DB",
+      "title" : "Valley Metro Light Rail",
+      "urlString" : "https:\/\/www.mlb.com\/dbacks\/ballpark\/transportation\/valley-metro-rail"
+    },
+    {
+      "id" : "BA7072D9-B39F-47F3-92EA-7775861AF3E7",
+      "kind" : "Game",
+      "title" : "Yandy Díaz is DOMINATING! He hit five homers and had fourteen RBI in the month of May!",
+      "urlString" : "https:\/\/youtu.be\/ZBnUx4FysNk?si=7HJg11qmPF6W8o7g"
+    },
+    {
+      "id" : "B0EAD736-74B9-428C-9DFD-21E30C644BF5",
+      "kind" : "Game",
+      "title" : "Yandy Díaz | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/92_j6f-4qu4?si=Eayh6JpAxgo9CrJc"
+    },
+    {
+      "id" : "0B6F635D-DA22-42D6-908C-CA08C998CB46",
+      "kind" : "Game",
+      "title" : "Yandy Díaz | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/92_j6f-4qu4?si=Eayh6JpAxgo9CrJc"
+    },
+    {
+      "id" : "F58DC6A9-44DD-4AEB-B13E-2D41FB11CE5F",
+      "kind" : "Game",
+      "playerID" : "C370C349-64E5-4749-8E41-FBD5B83D475A",
+      "title" : "Yandy Díaz | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/92_j6f-4qu4?si=Q7xNq6DYYMBfENyh"
+    },
+    {
+      "id" : "F7A5ECDC-ED5E-43AB-BAB6-B8661612D049",
+      "kind" : "Source",
+      "playerID" : "E9843B0A-F1F7-4FE3-967F-F5501E019267",
+      "title" : "Yankees Club Info",
+      "urlString" : "https:\/\/www.mlb.com\/yankees"
+    },
+    {
+      "id" : "43403321-F1B6-4443-B94E-B880EF674701",
+      "kind" : "Ticket",
+      "stadiumID" : "BDDB64D6-B31C-4E43-B2FC-70C7D5AA3624",
+      "title" : "Yankees Tickets",
+      "urlString" : "https:\/\/www.mlb.com\/yankees\/tickets"
+    },
+    {
+      "id" : "97787075-A2A3-4E6C-B9AB-625C5EB1F378",
+      "kind" : "Wiki \/ Reference",
+      "stadiumID" : "AE251F4D-01CD-4B08-8318-32042EB525C6",
+      "title" : "【日本看球】如何到日本看球EP.4 --｜ZOZOマリンスタジアム｜球場內食物多到眼花撩亂｜ TAKA野球筆記",
+      "urlString" : "https:\/\/youtu.be\/MpzOiLTfNYI?si=MXKcBtny_O4L5fi1"
+    },
+    {
+      "id" : "8EA4F1B6-E66B-4F3A-B56C-167523583BF9",
+      "kind" : "Stadium Guide",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "title" : "亞洲最頂球場體驗｜把溫泉搬進球場裡 by  TAKA野球筆記",
+      "urlString" : "https:\/\/youtu.be\/3ZUNkcVofpw?si=OPA4QuxjnH92jGbc"
+    },
+    {
+      "id" : "9BBBDC3B-4C74-4086-8B50-F57AF30703FB",
+      "kind" : "Game",
+      "stadiumID" : "88E94AF4-EDAB-4925-9C4B-152D3FA64EE3",
+      "title" : "來去 #軟體銀行鷹 Pay Pay Dome by  跟著Kobe不BLUE",
+      "urlString" : "https:\/\/youtu.be\/tqZIpiEQcg4?si=Ogo3JlXKBAT57sPX"
+    },
+    {
+      "id" : "8A0C285E-2D05-4D99-AA99-05C3185C72E5",
+      "kind" : "Wiki \/ Reference",
+      "teamID" : "80B9DE15-8C9C-41B6-8CBC-E5FA8370739C",
+      "title" : "來甲子園不能錯過的三大美食 by  這裡很無聊",
+      "urlString" : "https:\/\/youtu.be\/oVgY4EXbHaY?si=Mzw_JrEisrhitjUG"
+    },
+    {
+      "id" : "0C077B9B-BE82-40F2-BEAA-CE29CFD8E249",
+      "kind" : "Stadium Guide",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "title" : "來看古林睿煬一定要參加的球場導覽！ By  台南Josh",
+      "urlString" : "https:\/\/youtu.be\/58-Sr3_u1Yc?si=aI0JNAXPe7LPCiAZ"
+    },
+    {
+      "id" : "D7EF693C-7709-4E5A-96FF-FFF159B88664",
+      "kind" : "Stadium Guide",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "title" : "前往北海道看古林、易磊以及家正婦 by TG 首湛創意",
+      "urlString" : "https:\/\/youtu.be\/-gMh8EComJw?si=8WKmQd1KuHiYFGvs"
+    },
+    {
+      "id" : "0AAB2547-19D8-4F86-BAD7-1B65AD7B0324",
+      "kind" : "Wiki \/ Reference",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "title" : "北海道日本火腿鬥士主場開箱 by  瑪茲一 Matsui",
+      "urlString" : "https:\/\/youtu.be\/kfzl8qJSpGQ?si=0cC9Q1eVwOFHgJQJ"
+    },
+    {
+      "id" : "81119031-B6F7-4848-8FC7-A15BD5E98F01",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "AE251F4D-01CD-4B08-8318-32042EB525C6",
+      "title" : "千葉羅德ZOZO海洋球場｜搭乘 #千葉單軌電車 初體驗",
+      "urlString" : "https:\/\/youtu.be\/A0-e9LkNu0A?si=g59gWP8vdwzdyHC6"
+    },
+    {
+      "id" : "9FF3B1B7-44FF-46D3-B3E5-D3729BCCAD83",
+      "kind" : "Game",
+      "teamID" : "F9041EE5-473A-4737-9E11-605C09CDFA38",
+      "title" : "台南亞太棒球場，中華職棒歷史首戰！ By  Taiwan Wanderer 台灣亂流散步",
+      "urlString" : "https:\/\/youtu.be\/h9rJ5CEYXP0?si=sVJWhHZAE2gnBhjg"
+    },
+    {
+      "id" : "52DFB314-46B6-4797-BE8A-5259337178D5",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "F5A7369D-0B8C-4191-BC7F-41F0304C2E0E",
+      "title" : "史瓦伯單場四響砲 成史上第21人 愛爾達體育家族 ELTA Sports",
+      "urlString" : "https:\/\/youtu.be\/IMAL9GtwW9w?si=G3IUQv4ji1fmyDWe"
+    },
+    {
+      "id" : "444AB853-A42D-4D9B-8590-D656C2B9BE72",
+      "kind" : "Official",
+      "stadiumID" : "88E94AF4-EDAB-4925-9C4B-152D3FA64EE3",
+      "title" : "官方旅遊指南",
+      "urlString" : "https:\/\/gofukuoka.jp\/articles\/detail\/b5e8cde0-3e6c-437d-bd5c-b2c62b80b96b"
+    },
+    {
+      "id" : "2BAB2D5D-C78F-4A6B-990A-6A66330B8EF3",
+      "kind" : "Transport",
+      "teamID" : "57D92618-8461-4D00-A349-679398BA9E31",
+      "title" : "官方餐飲交通資訊",
+      "urlString" : "https:\/\/www.fubonguardians.com\/content\/stadium\/Index?tab=traffic"
+    },
+    {
+      "id" : "21AA3000-D1AD-4929-BF45-6E387D3F4F44",
+      "kind" : "Transport",
+      "stadiumID" : "88E94AF4-EDAB-4925-9C4B-152D3FA64EE3",
+      "title" : "搭福岡市地下鐵到 唐人町站，從 3 號出口步行約 15 分鐘 可到球場",
+      "urlString" : "https:\/\/www.softbankhawks.co.jp\/stadium\/access.html"
+    },
+    {
+      "id" : "71599D80-936D-44ED-BFE7-A175451A0849",
+      "kind" : "Game",
+      "playerID" : "EA5E8320-9D58-484D-B0D9-C7CDE657CF71",
+      "title" : "擅長滑壘的球員",
+      "urlString" : "https:\/\/youtube.com\/shorts\/xDg96S-2bKk?si=xNKLw7ecVplZwpT9"
+    },
+    {
+      "id" : "E45AEC32-657B-4AF2-B493-F3966ABB9879",
+      "kind" : "Game",
+      "playerID" : "C980CFD3-93EB-4725-96D3-502CF8E8AB6D",
+      "title" : "效力金鶯隊Gunnar Henderson 一棒敲出右外野方向全壘打 幫助美國隊追平｜2026 WBC世界棒球經典賽",
+      "urlString" : "https:\/\/youtu.be\/zS0QTzOR76g?si=y4VtPQZaJG7uqCMB"
+    },
+    {
+      "id" : "EC2B8AD1-6073-4EEF-9DD6-3EBD6B4DA349",
+      "kind" : "Food",
+      "stadiumID" : "969A7728-047F-4939-9C49-AC91A447521D",
+      "title" : "新莊七間高評價美食懶人包 by 跟著Kobe不BLUE",
+      "urlString" : "https:\/\/youtu.be\/1tStZyhAo9w?si=EZJXLj5SL1gDzRaX"
+    },
+    {
+      "id" : "7D6B262F-B012-430B-963F-06396EE42B04",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "E98D7F01-8584-4714-8BE6-7D77D6324B93",
+      "title" : "最帥的台灣隊長陳傑憲 獲選本屆12強賽會MVP ｜ 世界12強棒球賽",
+      "urlString" : "https:\/\/youtu.be\/_VD_0GUlCLA?si=zsvDYKtdem-FLF6V"
+    },
+    {
+      "id" : "31C1FBBE-EB6D-475D-8A95-3A1AEAA043C0",
+      "kind" : "Food",
+      "stadiumID" : "FCA12CAE-9182-4E84-9627-63FC2E767F87",
+      "title" : "東京巨蛋也能吃buffet | 亞冠賽觀戰全紀錄 by KAKU 旅",
+      "urlString" : "https:\/\/youtu.be\/WOudWCUpzXs?si=LAS8qIpB33xftMLN"
+    },
+    {
+      "id" : "5499EF9C-C2E0-4110-9F8E-628E8FB2E7FA",
+      "kind" : "Food",
+      "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "title" : "火腿隊球場美食 官方介紹",
+      "urlString" : "https:\/\/www.fighters.co.jp\/expansion\/gourmet\/"
+    },
+    {
+      "id" : "0FF09228-C548-4DEE-A94A-D68A06D1679D",
+      "kind" : "Wiki \/ Reference",
+      "stadiumID" : "88E94AF4-EDAB-4925-9C4B-152D3FA64EE3",
+      "title" : "福岡軟銀鷹球場 中文版",
+      "urlString" : "https:\/\/www.softbankhawks.co.jp\/global\/traditional-c\/"
+    },
+    {
+      "id" : "05BBF87E-708B-4266-8DD5-8786ADF0A814",
+      "kind" : "Wiki \/ Reference",
+      "stadiumID" : "91592507-4CAE-4A8E-B55B-4671887BF203",
+      "title" : "給台灣人的球場資訊",
+      "urlString" : "https:\/\/www.fighters.co.jp\/global\/taiwanese\/stadium01.html"
+    },
+    {
+      "id" : "D014B47D-0800-48CA-B5A3-60A49CFFEC09",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "E98D7F01-8584-4714-8BE6-7D77D6324B93",
+      "title" : "統一獅 × 陳傑憲 應援曲｜Uni-Lions Cheer Song Lyrics – Chen Chieh-Hsien",
+      "urlString" : "https:\/\/youtu.be\/wy1aD9rCL-M?si=3oN21rvg49ml_n39"
+    },
+    {
+      "id" : "602779D3-EF30-4479-8AF6-48BC25D8C98C",
+      "kind" : "Blog \/ Review",
+      "teamID" : "80B9DE15-8C9C-41B6-8CBC-E5FA8370739C",
+      "title" : "阪神虎甲子園球場觀賽攻略 by  跟著Kobe不BLUE",
+      "urlString" : "https:\/\/youtu.be\/PIsy3SAnhw8?si=Xmq_hCudK7GBTGJN"
+    }
+  ]
+}

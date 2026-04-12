@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baseball Fan Notebook</title>
+  <meta
+    name="description"
+    content="Baseball Fan Notebook is a baseball tracking app for organizing leagues, teams, players, ballparks, game visits, and personal notes."
+  >
+  <link rel="icon" type="image/png" href="assets/app-icon.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav class="topbar">
+      <a class="brand" href="index.html">
+        <img class="brand-icon" src="assets/app-icon.png" alt="Baseball Fan Notebook app icon">
+        <span>Baseball Fan Notebook</span>
+      </a>
+      <div class="nav-links">
+        <a href="#features">Features</a>
+        <a href="#scenes">Use Cases</a>
+        <a href="privacy.html">Privacy</a>
+      </div>
+    </nav>
+
+    <div class="hero-content hero-layout">
+      <div class="hero-copy-block">
+        <p class="eyebrow">For baseball fans who track everything</p>
+        <h1>A notebook app to explore teams, players, ballparks, and travel notes.</h1>
+        <p class="hero-copy">
+          Turn teams, players, ballparks, and game memories into your personal baseball notebook.
+        </p>
+        <div class="hero-actions">
+          <a class="button primary" href="privacy.html">View Privacy Policy</a>
+          <a class="button secondary" href="#sample">View Sample Data</a>
+        </div>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <img class="hero-art" src="assets/hero-art.png" alt="">
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Product overview</p>
+        <h2>A virtual trip through baseball stadiums and key players.</h2>
+      </div>
+      <div class="grid two-up">
+        <article class="card">
+          <h3>Explore teams through their home stadiums</h3>
+          <p>
+            Move across leagues and teams through their home ballparks to create a virtual stadium-to-stadium baseball tour.
+          </p>
+        </article>
+        <article class="card">
+          <h3>See the key players behind each team</h3>
+          <p>
+            Pair each team with player highlights, roles, and notes so the experience is not just about places, but also people.
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section alt" id="sample">
+      <div class="section-heading">
+        <p class="eyebrow">Sample data</p>
+        <h2>Current sample backup included for preview.</h2>
+        <p>
+          This site currently references a sample backup uploaded on April 12, 2026 at 10:08 AM (+0800).
+          It will be replaced later with a more complete dataset.
+        </p>
+        <div class="sample-actions">
+          <a
+            class="button primary"
+            href="data/BaseballNotebookBackup-2026-04-12-100843.json"
+            download="BaseballNotebookBackup-2026-04-12-100843.json"
+          >
+            Download Sample Backup
+          </a>
+        </div>
+      </div>
+      <div class="sample-layout">
+        <article class="sample-panel sample-highlight">
+          <p class="sample-label">Sample backup snapshot</p>
+          <div class="sample-stats">
+            <div>
+              <strong>3</strong>
+              <span>Leagues</span>
+            </div>
+            <div>
+              <strong>18</strong>
+              <span>Teams</span>
+            </div>
+            <div>
+              <strong>19</strong>
+              <span>Ballparks</span>
+            </div>
+            <div>
+              <strong>50</strong>
+              <span>Players</span>
+            </div>
+            <div>
+              <strong>2</strong>
+              <span>Games</span>
+            </div>
+            <div>
+              <strong>6</strong>
+              <span>Notes</span>
+            </div>
+          </div>
+        </article>
+
+        <article class="sample-panel">
+          <p class="sample-label">Included teams</p>
+          <ul class="sample-list">
+            <li>Arizona Diamondbacks -> Chase Field</li>
+            <li>Baltimore Orioles -> Oriole Park at Camden Yards</li>
+            <li>Brothers -> Taichung Intercontinental Baseball Stadium</li>
+            <li>Chiba Lotte Marines -> ZOZO Marine Stadium</li>
+          </ul>
+        </article>
+
+        <article class="sample-panel">
+          <p class="sample-label">Favorite players in this sample</p>
+          <ul class="sample-list">
+            <li>Aaron Judge</li>
+            <li>Shohei Ohtani</li>
+            <li>Chen Chieh-Hsien</li>
+          </ul>
+        </article>
+
+        <article class="sample-panel">
+          <p class="sample-label">Example notes</p>
+          <ul class="sample-list">
+            <li>Transit notes for ballpark visits</li>
+            <li>Seat and view recommendations</li>
+            <li>Player observation notes</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="features">
+      <div class="section-heading">
+        <p class="eyebrow">Core features</p>
+        <h2>Core features</h2>
+      </div>
+      <div class="grid features">
+        <article class="feature-card">
+          <span class="feature-index">01</span>
+          <h3>League and team organization</h3>
+          <p>Track MLB or other leagues and structure teams, divisions, and home ballpark information clearly.</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-index">02</span>
+          <h3>Ballpark and travel planning</h3>
+          <p>Save ballpark locations, transportation notes, wishlist visits, stay options, and related travel links.</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-index">03</span>
+          <h3>Players and favorites</h3>
+          <p>Follow favorite players, jersey numbers, positions, birthplace details, and personal notes in one list.</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-index">04</span>
+          <h3>Visits and calendar notes</h3>
+          <p>Record ballpark visits, scores, matchups, and daily notes so each game experience stays complete.</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-index">05</span>
+          <h3>JSON export and import</h3>
+          <p>Export your data as JSON backups and restore it later, reducing the risk of losing your personal archive.</p>
+        </article>
+        <article class="feature-card">
+          <span class="feature-index">06</span>
+          <h3>Built for personal tracking</h3>
+          <p>Designed around personal records, collections, and review rather than public social feeds or rankings.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section alt" id="scenes">
+      <div class="section-heading">
+        <p class="eyebrow">Use cases</p>
+        <h2>Useful for these baseball routines</h2>
+      </div>
+      <div class="grid three-up">
+        <article class="card">
+          <h3>Ballpark trips</h3>
+          <p>Plan which home parks to visit next and keep transportation, lodging, and trip ideas together.</p>
+        </article>
+        <article class="card">
+          <h3>Following teams and players</h3>
+          <p>Keep favorite teams, players, and related game records together instead of scattered across apps.</p>
+        </article>
+        <article class="card">
+          <h3>Saving game memories</h3>
+          <p>Store more than the final score by keeping impressions, notes, and context from each day.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="cta">
+        <div>
+          <p class="eyebrow">Privacy</p>
+          <h2>This site includes a dedicated privacy policy page.</h2>
+          <p>
+            The privacy page explains that data is primarily created and managed by the user, and covers backups,
+            imports, external links, and map-opening behavior.
+          </p>
+        </div>
+        <a class="button primary" href="privacy.html">Open Privacy Policy</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© 2026 Baseball Fan Notebook</p>
+    <a href="privacy.html">Privacy Policy</a>
+  </footer>
+</body>
+</html>
