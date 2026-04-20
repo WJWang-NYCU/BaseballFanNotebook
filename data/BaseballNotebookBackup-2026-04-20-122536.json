@@ -43,6 +43,306 @@
   ],
   "notes" : [
     {
+      "content" : "New Taipei Xinzhuang Baseball Stadium 新莊棒球場是新北市最具代表性的職業棒球場之一，位於新北市新莊區和興街 66 號，現為 Fubon Guardians 富邦悍將的重要主場。球場於 1997 年落成，之後經過多次整建與擴建，目前約有 12,500 席，也曾舉辦世界棒球經典賽資格賽與世大運等國際賽事，因此在大台北地區的棒球場館中具有相當重要的地位。\n\n這座球場最大的特色之一，是它兼具市區便利性與近距離觀賽感。富邦悍將自 2017 年進駐後，球場持續更新，包括大型 LED 全彩計分板、內野環形螢幕、音響燈光、熱區座椅、餐桌區、商店與公共空間等，都讓整體進場體驗更完整，也讓新莊棒球場形成很鮮明的主場娛樂氛圍。\n\n對台灣球迷而言，新莊棒球場的一大優勢是大眾運輸相當方便，可由台北捷運中和新蘆線新莊站步行前往，也有多條公車可直達球場周邊，因此很適合下班後或週末輕鬆進場看球。\n\n對旅客來說，白天也可以順道安排新莊老街、廟街夜市或台北市區行程，傍晚再進場觀賽，是很有都會節奏感的北台灣棒球體驗。",
+      "date" : "2026-04-20T04:24:56Z",
+      "id" : "F9484BC2-CA3E-4C01-94D7-BC2DB817EE52",
+      "stadiumID" : "969A7728-047F-4939-9C49-AC91A447521D"
+    },
+    {
+      "content" : "Rakuten Taoyuan Baseball Stadium 樂天桃園棒球場是台灣北部最具人氣的職業棒球場之一，位於桃園市中壢區青埔地區，長期作為 Rakuten Monkeys 樂天桃猿隊主場，也是中華職棒最具主場特色與娛樂氣氛的代表球場之一。\n\n球場最大的魅力之一，是桃猿隊長年打造的主場文化，包括熱情應援、啦啦隊表演、音樂節奏與高度互動感，使比賽日現場氣氛非常鮮明，也吸引許多年輕球迷與家庭觀眾。\n\n球場鄰近高鐵桃園站、桃園機場捷運 A19 桃園體育園區站，對台灣球迷與外地旅客而言交通十分便利，是全台最容易利用大眾運輸前往的球場之一。\n\n對旅客而言，白天可安排華泰名品城、Xpark、水族館、青埔商圈或桃園市區行程，傍晚再進場看球，是相當完整的北台灣棒球旅行方式。\n\n對旅遊型球迷而言，樂天桃園棒球場是結合中華職棒主場娛樂文化、交通便利性與現代城市休閒感的重要熱門觀賽地點。",
+      "date" : "2026-04-20T04:19:34Z",
+      "id" : "6C6AE1D0-67D6-4787-BB91-C038A0C0C005",
+      "stadiumID" : "9A786A07-A9E4-49C5-BC0A-F023EF3F4496"
+    },
+    {
+      "content" : "陳傑憲的慣用手：\n打擊：左打\n投球：右投",
+      "date" : "2026-04-20T04:18:10Z",
+      "id" : "5401257A-857D-4A07-BCDB-7665B28949E1",
+      "playerID" : "E98D7F01-8584-4714-8BE6-7D77D6324B93"
+    },
+    {
+      "content" : "Asia-Pacific International Baseball Stadium Main Stadium 亞太棒球中心主球場是台灣近年最新的重要國際級棒球場之一，位於台南市安南區，屬於臺南亞太國際棒球訓練中心核心場館，也是 Uni-Lions 統一 7-ELEVEn 獅隊重要賽事與大型活動的主要場地之一。\n\n球場最大的特色之一，是以國際賽規格打造，整體設施新穎，包含完善觀眾席、球員空間與現代化場館機能，能承辦國際賽事、職棒例行賽與各級棒球活動。由於台南向來被視為台灣棒球重鎮之一，這座新球場也象徵南台灣棒球發展進入新階段。\n\n對台灣球迷而言，可由台南市區、高鐵台南站或台南火車站轉乘公車、計程車與接駁方式前往，交通安排逐步完善中。\n\n對旅客而言，白天可安排台南古蹟、美食巡禮、安平老街、奇美博物館或國華街小吃行程，傍晚再進場看球，是非常有地方特色的棒球旅行方式。\n\n對旅遊型球迷而言，亞太棒球中心主球場是結合台灣新世代棒球場館、台南歷史文化與美食城市魅力的重要觀賽地點。",
+      "date" : "2026-04-20T04:16:22Z",
+      "id" : "8C3ABC74-16C8-41A5-BD7D-5E406CDAB698",
+      "stadiumID" : "975E28C3-844A-4C2F-B115-98FF210EFF34"
+    },
+    {
+      "content" : "Taichung Intercontinental Baseball Stadium 臺中洲際棒球場是台灣最具代表性的國際級棒球場之一，位於台中市北屯區，長期舉辦中華職棒重要賽事與多項國際棒球比賽，也是 CTBC Brothers 中信兄弟隊的重要主場之一。\n\n球場最大的特色之一，是場地規模完整、座位數充足，具備大型賽事氛圍，曾承辦世界棒球經典賽資格賽、12 強賽及亞洲重要棒球賽事，因此對台灣球迷具有特殊地位。洲際棒球場外野視野開闊，主場應援氣氛熱烈，特別是兄弟象系統延續而來的高人氣球迷文化，使比賽日現場十分有能量。\n\n對台灣球迷而言，可利用台中捷運綠線至文心崇德站、松竹站後轉乘公車、計程車或接駁前往，交通便利性逐年提升。\n\n對旅客而言，白天可安排逢甲夜市、中央公園、審計新村、高美濕地或台中國家歌劇院等行程，傍晚再進場看球，是結合中部城市觀光與棒球體驗的熱門安排。對旅遊型球迷而言，臺中洲際棒球場是融合中華職棒激情、國際賽記憶與台中城市魅力的重要觀賽地點。",
+      "date" : "2026-04-20T04:07:57Z",
+      "id" : "F07B4ECE-3AD4-42B8-B33C-78F43BB9B2CC",
+      "stadiumID" : "B02E388A-1594-423A-8CBD-47FFBB541426"
+    },
+    {
+      "content" : "Chengcing Lake Baseball Stadium 高雄澄清湖棒球場是台灣南部最具代表性的職業棒球場之一，位於高雄市鳥松區澄清湖風景區旁，長期舉辦中華職棒重要賽事，也是 TSG Hawks 台鋼雄鷹隊的重要主場之一。\n\n球場最大的特色之一，是座落於綠意豐富的澄清湖周邊環境，擁有較開闊的空間感與南台灣特有的熱情氛圍。球場規模完整，座位數較多，適合大型賽事與主題活動，也曾承辦國際棒球比賽。\n\n對台灣球迷而言，可利用高雄捷運至衛武營站、鳳山西站或其他周邊站點後轉乘公車、計程車或接駁方式前往，交通仍具便利性。對旅客而言，白天可安排澄清湖風景區、衛武營藝術中心、駁二藝術特區、愛河灣或高雄港區行程，傍晚再進場看球，是很有南部城市特色的棒球體驗。\n\n對旅遊型球迷而言，高雄澄清湖棒球場是結合中華職棒、高雄城市觀光、熱帶氣候與大型球場氣氛的重要觀賽地點。",
+      "date" : "2026-04-20T04:03:46Z",
+      "id" : "C78C15E9-AA88-4C09-B5ED-98CC3D919B8F",
+      "stadiumID" : "0F967FF2-F536-4CFA-A47A-61B446CB21E5"
+    },
+    {
+      "content" : "Taipei Tianmu Baseball Stadium 天母棒球場是台北市具代表性的職業棒球場之一，位於台北市士林區天母生活圈，長期作為中華職棒重要比賽場地，也是 Wei Chuan Dragons 味全龍隊近年的主要主場之一。\n\n球場最大的特色之一，是位於市區且交通便利，周邊擁有成熟的天母商圈、餐廳、咖啡館與異國生活氛圍，讓看球可以自然結合城市休閒行程。天母棒球場座位距離球場較近，觀賽視角親切，能清楚感受球員守備、打擊與現場應援節奏，是許多球迷喜歡的近距離觀賽球場。\n\n對台灣球迷而言，雖然球場本身沒有捷運站直接相連，但可從捷運芝山站、石牌站或士林站轉乘公車、計程車或 YouBike 抵達，使用大眾運輸前往仍相當方便。\n\n對旅客而言，白天可安排天母商圈、士林官邸、故宮博物院或陽明山行程，傍晚再進場看球，是相當方便的台北城市棒球體驗。對旅遊型球迷而言，天母棒球場是結合中華職棒、台北生活感、美食散步與都會便利性的熱門觀賽地點。",
+      "date" : "2026-04-20T03:16:47Z",
+      "id" : "4338113C-3A16-4B84-9958-D24BFFAEF867",
+      "stadiumID" : "FA38ACD9-47B1-4C07-BC79-1C2ECA577130"
+    },
+    {
+      "content" : "Kyocera Dome Osaka 京瓷巨蛋大阪（京セラドーム大阪）是 Orix Buffaloes 歐力士猛牛隊的重要主場球場，位於日本大阪市西區千代崎，交通方便，從關西常見旅遊區域前往都很順。\n\n這座球場最大的特色之一，是大型室內巨蛋設計，不受下雨、炎熱或寒冷天氣影響，對旅客安排日本職棒行程特別方便。京瓷巨蛋大阪本身不只是棒球場，也經常舉辦演唱會與大型活動，因此整體空間感與都市娛樂氣息都很強。 \n\n對台灣旅客來說，它很適合和大阪市區觀光排在同一天，白天可以先去心齋橋、道頓堀、難波、美國村或大阪城一帶活動，傍晚再進場看球，行程安排相當順。球場內也有官方商店、餐飲與見學導覽等設施，讓看球不只是比賽本身，也是一種完整的城市娛樂體驗。 \n\n對旅遊型球迷而言，Kyocera Dome Osaka 是結合大阪都會觀光、日本職棒主場氣氛與室內舒適觀賽體驗的重要熱門球場。",
+      "date" : "2026-04-20T02:24:05Z",
+      "id" : "4172360A-E5B5-416A-97A4-B6995BB5A946",
+      "stadiumID" : "FDDD7909-7C1B-4775-BFEE-43C5F2D8D08E"
+    },
+    {
+      "content" : "ZOZO Marine Stadium（ZOZOマリンスタジアム）是 Chiba Lotte Marines 千葉羅德海洋隊的主場球場，位於日本千葉市美濱區幕張海濱一帶，從 JR 京葉線海濱幕張站步行約 15 分鐘可達，對東京出發的一日行程相當方便。\n\n這座球場最大的特色之一，是日本職棒少見的臨海戶外球場，靠近東京灣，常能感受到海風與開闊的海濱氣氛，也因此形成很有辨識度的觀賽體驗。\n\n由於球場鄰近幕張 Messe、海濱購物區與飯店群，對海外旅客尤其友善；許多台灣旅客會安排白天逛幕張 Outlet、Aeon Mall 幕張新都心，或順道去千葉海濱區散步，傍晚再進場看球，是很順的旅遊節奏。\n\nZOZO Marine Stadium 也是千葉羅德主場應援文化的重要舞台，現場加油氣氛熱烈，夏季活動與主題賽事也很多，球場官方近年持續更新票務與活動內容。對旅遊型球迷而言，這裡是結合東京近郊旅行、海濱景觀與日本職棒主場應援文化的熱門朝聖球場。",
+      "date" : "2026-04-20T02:17:35Z",
+      "id" : "EA635D53-3D4C-47EA-80F4-450102CCB749",
+      "stadiumID" : "AE251F4D-01CD-4B08-8318-32042EB525C6"
+    },
+    {
+      "content" : "MIZUHO PayPay Dome FUKUOKA 瑞穗 PayPay 巨蛋福岡（みずほPayPayドーム福岡）是 Fukuoka SoftBank Hawks 福岡軟銀鷹隊的主場球場，位於日本福岡市海濱區域，自 1993 年啟用，是日本職棒最具人氣與代表性的巨蛋球場之一。\n\n球場最大的特色之一，是大型室內巨蛋設計，不受天氣影響，無論夏季炎熱、下雨或冬季寒冷都能舒適觀賽，也非常適合旅客安排行程。\n\n球場鄰近福岡塔、海濱百道（Momochi）、購物中心與海邊景點，整體區域兼具觀光與休閒氛圍。對台灣旅客而言，福岡一直是距離近、航班多且熱門的日本城市，從博多或天神前往球場交通便利，很適合安排白天逛運河城、太宰府、天神商圈，傍晚再進場欣賞日本職棒比賽。\n\n軟銀鷹隊長年戰績強勢，主場氣氛熱烈，球迷應援文化成熟，也是體驗日職人氣球隊的重要地點。對旅遊型球迷而言，MIZUHO PayPay Dome FUKUOKA 是結合日本職棒、九州觀光、都市便利性與巨蛋舒適觀賽體驗的熱門朝聖球場。",
+      "date" : "2026-04-20T02:09:50Z",
+      "id" : "BBDCBC3A-5B6B-4541-8B12-65A419D5741B",
+      "stadiumID" : "88E94AF4-EDAB-4925-9C4B-152D3FA64EE3"
+    },
+    {
+      "content" : "ES CON FIELD HOKKAIDO（エスコンフィールドHOKKAIDO）是 Hokkaido Nippon-Ham Fighters 北海道日本火腿鬥士隊的主場球場，位於北海道北廣島市，自 2023 年啟用，是日本近年最受矚目的新世代棒球場之一。\n\n這座球場最大的特色是結合北美風格球場設計、可開合屋頂、大面積玻璃採光與高度現代化觀賽空間，被視為日本職棒場館進入新時代的重要代表。\n\n球場所在的 F Village 不只是球場，而是一整個結合飯店、溫泉、餐廳、商店、散步空間與娛樂設施的複合園區，讓看球變成完整旅遊體驗。\n\n對台灣旅客而言，從札幌出發交通便利，可搭 JR 前往北廣島，再轉接駁或步行抵達，非常適合安排北海道旅行時順道朝聖。白天可遊覽札幌市區、小樽、北海道自然景點，傍晚再進場看球。\n\n球場內餐飲品質高，也能感受到北海道食材與地方特色。對旅遊型球迷而言，ES CON FIELD HOKKAIDO 是結合日本職棒、北海道旅行、美食休閒與最新球場設計的頂級熱門朝聖地。",
+      "date" : "2026-04-20T02:04:38Z",
+      "id" : "24ABBBED-4E7E-4782-8C4C-640728521209",
+      "stadiumID" : "91592507-4CAE-4A8E-B55B-4671887BF203"
+    },
+    {
+      "content" : "Belluna Dome（ベルーナドーム）是 Saitama Seibu Lions 埼玉西武獅隊的主場球場，位於日本埼玉縣所澤市，自 1979 年啟用，是關東地區極具特色的職棒球場之一。\n\n球場最大的魅力，在於它不是傳統完全密閉式巨蛋，而是保有開放側面的半開放式屋頂設計，讓球迷同時享受屋頂遮蔽與自然空氣流動，被許多人視為日本最有個性的球場之一。\n\nBelluna Dome 坐落於狹山丘陵綠意環境中，周邊自然感強烈，與都市型球場氣氛截然不同。對台灣旅客而言，從東京出發相當方便，可由池袋、新宿一帶搭乘西武鐵道前往，約 40 至 60 分鐘可抵達，很適合安排東京近郊一日棒球旅行。白天可先遊覽所澤航空紀念公園、川越小江戶，或在東京市區觀光後傍晚進場看球。\n\n球場內餐飲選擇豐富，近年也持續整修升級，提升觀賽舒適度。對旅遊型球迷而言，Belluna Dome 是結合日本職棒、東京近郊旅行與獨特球場建築體驗的重要熱門球場。",
+      "date" : "2026-04-20T02:02:29Z",
+      "id" : "BC0C12BB-CC37-4824-8181-5C4E50E34C12",
+      "stadiumID" : "4364808B-042C-4206-9F01-14B4D63968B9"
+    },
+    {
+      "content" : "Rakuten Mobile Park Miyagi 樂天行動球場宮城（楽天モバイルパーク宮城）是東北樂天金鷲隊的主場球場，位於日本宮城縣仙台市，自 2005 年起成為樂天金鷲的專屬主場，也承載東北地區職棒文化的重要地位。\n\n這座球場最大的特色之一，是它不像典型巨蛋那樣完全封閉，而是保有戶外球場的開放感，同時又經過多次整修，形成很有生活感與親子感的觀賽空間；其中左外野後方的 Smile Glico Park 設有摩天輪與遊樂設施，是日本職棒球場中相當有辨識度的景觀。\n\n對台灣旅客來說，這裡也很適合和仙台、東北觀光安排在一起，從仙台站出發交通方便，搭 JR 到宮城野原站很快，球場步行可達；白天可以先逛仙台市區、仙台城跡、定禪寺通，或延伸到松島等東北景點，傍晚再進場看球。\n\n球場內也常能感受到東北地方色彩與在地美食氛圍，因此對旅遊型球迷而言，Rakuten Mobile Park Miyagi 是結合日本職棒、仙台城市散步與東北旅行節奏的很實用也很有特色的朝聖球場。",
+      "date" : "2026-04-20T01:57:55Z",
+      "id" : "CA7786A0-1C99-40F6-B39C-86C16B0B3779",
+      "stadiumID" : "55F98DB9-D4A3-4765-B343-0E5B7271F3CD"
+    },
+    {
+      "content" : "Tokyo Dome 東京巨蛋（東京ドーム）是 Yomiuri Giants 讀賣巨人隊的主場球場，位於東京都文京區後樂，自 1988 年啟用，是日本最具代表性、國際知名度也最高的巨蛋球場之一。\n\n球場位在東京市中心，交通非常方便，鄰近 JR 水道橋站、東京 Metro 後樂園站與都營春日站，對海外旅客尤其友善。\n\n東京巨蛋最大的特色之一是室內巨蛋設計，不受天氣影響，無論炎熱夏天或下雨天都能舒適觀賽；同時它也是許多日本職棒重要賽事、國際棒球賽與大型演唱會的經典場地。\n\n對台灣旅客來說，東京巨蛋很適合和東京觀光排在同一天，白天可安排東京車站、秋葉原、上野、神保町或後樂園一帶行程，傍晚再進場看球。球場周邊的 Tokyo Dome City 還有遊樂設施、餐廳、商店與溫泉設施，讓整體行程不只是看比賽，更像一個完整的東京娛樂體驗。\n\n對旅遊型球迷而言，Tokyo Dome 是結合日本職棒人氣、東京城市便利性與都會觀光節奏的重要朝聖球場。",
+      "date" : "2026-04-20T01:29:23Z",
+      "id" : "0B819F2C-1E0A-4E4D-84A1-C10F8FF8E3E2",
+      "stadiumID" : "FCA12CAE-9182-4E84-9627-63FC2E767F87"
+    },
+    {
+      "content" : "MAZDA Zoom-Zoom Stadium Hiroshima 廣島球場（MAZDA Zoom-Zoom スタジアム広島）是 Hiroshima Toyo Carp 廣島東洋鯉魚隊的主場球場，位於日本廣島市中心，鄰近 JR 廣島站，自 2009 年啟用，是日本職棒最具人氣與現代感的開放式球場之一。\n\n球場最大的特色之一，是充滿熱情與整齊節奏感的 Carp 球迷文化，廣島主場比賽時紅色應援海洋極具震撼力，也被視為日本職棒最具代表性的主場氣氛之一。\n\n球場採開放式設計，能感受自然光線與戶外觀賽氛圍，並設有多樣化觀賽區域，包括露台座位、家庭席與特色包廂，讓觀賽方式更豐富。\n\n對台灣旅客而言，交通非常方便，可從廣島站步行或短程移動抵達，適合安排白天參觀原爆圓頂館、和平紀念公園、宮島嚴島神社，傍晚再進場欣賞日職比賽。球場內也可品嚐廣島燒等在地美食。\n\n對旅遊型球迷而言，這裡是結合棒球熱情、城市歷史、人文景點與日本地方球迷文化的重要朝聖球場。",
+      "date" : "2026-04-20T01:17:21Z",
+      "id" : "926E4A75-68CE-40ED-B4B3-69F4F3F204F6",
+      "stadiumID" : "26BFB671-B815-48B7-B620-195FD4843F86"
+    },
+    {
+      "content" : "Hanshin Koshien Stadium 阪神甲子園球場（阪神甲子園球場）是 Hanshin Tigers 阪神虎隊的主場球場，位於日本兵庫縣西宮市，介於大阪與神戶之間，自 1924 年啟用，是日本歷史最悠久、最具傳奇地位的棒球場之一。\n\n甲子園不僅是阪神虎主場，也是日本全國高中棒球錦標賽（春季選拔與夏季甲子園）的象徵舞台，因此在日本棒球文化中具有特殊地位。\n\n球場最著名的特色之一，是內野黑土與傳統天然草皮所呈現的經典球場風貌，許多球迷將甲子園黑土視為日本高中棒球夢想的象徵。球場旁設有甲子園歷史館（Koshien History Museum），展示阪神虎隊史、甲子園大會歷史，以及歷代名將與珍貴文物，對棒球迷相當值得造訪。\n\n對台灣旅客而言，甲子園也有特別情感連結，因為嘉義農林棒球隊曾在 1931 年闖進甲子園決賽，其故事後來成為電影《KANO》的原型背景，讓許多台灣球迷來到此地時別具意義。\n\n交通方面可從大阪梅田、難波或神戶方向搭乘阪神電車直達，十分便利。對旅遊型球迷而言，甲子園球場是結合日本棒球歷史、台灣記憶、熱血應援文化與關西觀光的頂級朝聖聖地。",
+      "date" : "2026-04-20T01:09:19Z",
+      "id" : "50F60685-D616-4967-A349-E370DDCF0155",
+      "stadiumID" : "EE7EA182-3EF2-42CF-A908-973B5295F852"
+    },
+    {
+      "content" : "Vantelin Dome Nagoya 萬特林巨蛋名古屋（バンテリンドーム ナゴヤ）是 Chunichi Dragons 中日龍隊的主場球場，位於日本愛知縣名古屋市，自 1997 年啟用，是日本職棒中部地區最具代表性的巨蛋球場之一。\n\n球場採室內設計，不受天氣影響，夏季炎熱或下雨時仍能舒適觀賽，對旅客相當方便。\n\n由於位於名古屋市區，交通便利，可搭乘地鐵前往，對海外旅客十分友善。許多台灣旅客會安排白天造訪名古屋城、大須商店街、榮商圈、熱田神宮，或品嚐味噌豬排、鰻魚飯、手羽先等名古屋名物，傍晚再進場觀看日本職棒比賽，是非常順暢的旅行行程。\n\nVantelin Dome Nagoya 擁有典型日式巨蛋球場氣氛，中日龍球迷應援文化鮮明，現場節奏感十足。對旅遊型球迷而言，這裡是結合名古屋城市觀光、美食文化與日本職棒體驗的重要熱門球場。",
+      "date" : "2026-04-20T00:58:09Z",
+      "id" : "27C43317-0E0F-4C8A-A2A3-215216426DB5",
+      "stadiumID" : "56964ADD-26F7-47DE-A166-14FD17327E0B"
+    },
+    {
+      "content" : "Meiji Jingu Stadium 明治神宮野球場（明治神宮野球場）是 Tokyo Yakult Swallows 東京養樂多燕子隊的主場球場，位於日本東京都新宿區與港區交界的神宮外苑地區，自 1926 年啟用，是日本歷史最悠久、最具代表性的戶外棒球場之一。\n\n球場最大的魅力在於濃厚的傳統氣息與東京都心位置，從澀谷、表參道、新宿、青山等熱門區域前往都相當方便，對海外旅客尤其友善。許多台灣旅客會安排白天逛原宿、表參道、明治神宮或新宿商圈，傍晚再進場欣賞日本職棒比賽，是非常經典的東京行程。\n\n明治神宮野球場以熱情應援文化聞名，養樂多球迷的加油歌與整齊應援氣氛極具特色，現場參與感很強。由於是戶外球場，春夏夜晚觀賽特別有東京城市風情，也能感受到不同於現代巨蛋球場的開放感與歷史感。\n\n對旅遊型球迷而言，明治神宮野球場是結合東京觀光、都會夜景、日職文化與經典棒球歷史的重要朝聖球場。",
+      "date" : "2026-04-20T00:42:47Z",
+      "id" : "FD7D6541-1646-468E-953E-C605E98733D4",
+      "stadiumID" : "65F66376-84BC-4FD2-9301-3BBA7AB23F32"
+    },
+    {
+      "content" : "Yokohama Stadium 橫濱球場（横浜スタジアム）是 Yokohama DeNA BayStars 橫濱 DeNA BayStars 的主場球場，位於日本神奈川縣橫濱市中心的關內地區，自 1978 年啟用，是日本職棒最具人氣與都市觀光便利性的球場之一。\n\n球場緊鄰橫濱公園，步行即可抵達 JR 關內站與港未來地區，交通十分方便，對海外旅客尤其友善。\n\n橫濱球場最大的魅力之一，是能將看球與城市散步自然結合；白天可先造訪紅磚倉庫、山下公園、中華街、港未來摩天輪與海灣夜景，傍晚再進場欣賞日本職棒比賽，是許多台灣旅客非常喜歡的行程安排。\n\n球場氣氛熱鬧活潑，橫濱球迷應援文化鮮明，主場比賽常充滿節奏感與參與感。場內餐飲選擇豐富，也能感受到橫濱港都城市的開放與時尚氣息。\n\n對旅遊型球迷而言，Yokohama Stadium 是結合日本職棒體驗、海港城市景觀、美食購物與交通便利性的熱門朝聖球場。",
+      "date" : "2026-04-20T00:37:58Z",
+      "id" : "94DEA983-FF00-4E22-9FB9-D8B0CC6FEF1F",
+      "stadiumID" : "B61BB3AA-CD4F-4460-AFD0-BB2E3899EAF5"
+    },
+    {
+      "content" : "T-Mobile Park 是 Seattle Mariners 西雅圖水手隊的主場球場，位於美國華盛頓州西雅圖（Seattle, Washington），自 1999 年啟用，是一座結合現代設計、舒適觀賽環境與西北太平洋城市風格的代表性球場。\n\n球場最著名的特色之一是可伸縮屋頂（retractable roof），能在多雨的西雅圖氣候下提供穩定的觀賽體驗，同時保留戶外球場的開放感。\n\nT-Mobile Park 以視野良好、座位舒適及高品質餐飲選擇聞名，場內也能感受到西雅圖在地海港城市文化與咖啡城市特色。\n\n球場鄰近市中心與海濱區域，交通便利，適合與 Pike Place Market、海灣景點及城市觀光一同安排。對旅遊型球迷而言，T-Mobile Park 是結合棒球、城市景觀與西北太平洋氛圍的重要朝聖球場。",
+      "date" : "2026-04-20T00:29:29Z",
+      "id" : "060EA7E2-7211-4E22-8E39-0DE44D115A3C",
+      "stadiumID" : "D1276407-B08E-4D39-BB4E-8717F0627840"
+    },
+    {
+      "content" : "Angel Stadium 是 Los Angeles Angels 洛杉磯天使隊的主場球場，位於美國加州安那翰（Anaheim, California），自 1966 年啟用，是美國職棒歷史悠久且仍持續使用的重要球場之一。\n\n球場最具代表性的特色之一，是外野區域醒目的岩石瀑布造景與大型紅帽標誌，成為天使隊的象徵畫面。Angel Stadium 採開放式設計，結合南加州溫暖乾爽的氣候，讓球迷能在陽光與舒適晚風中享受比賽。\n\n由於鄰近 Disneyland Resort、Orange County 景點與洛杉磯都會區，交通與旅遊安排相當方便。這裡也承載天使隊多位明星球員時代，包括 Mike Trout 與 Shohei Ohtani 的精彩記憶。\n\n對旅遊型球迷而言，Angel Stadium 是結合棒球、南加州度假氛圍與家庭旅行行程的熱門球場。",
+      "date" : "2026-04-20T00:25:48Z",
+      "id" : "AE54B689-5EDA-4FF4-8D60-D0F1BA1A3F7D",
+      "stadiumID" : "44D3D420-764C-4BED-90CF-F1D0AA44E350"
+    },
+    {
+      "content" : "Daikin Park 是 Houston Astros 休士頓太空人隊的主場球場，位於美國德州休士頓市中心（Houston, Texas）。這座球場原名 Minute Maid Park，近年更名為 Daikin Park，仍延續其作為太空人主場的重要地位。\n\n球場最大的特色之一是可開合屋頂設計，對炎熱潮濕且夏季高溫明顯的休士頓氣候特別實用，讓球迷能在舒適環境中觀賽。\n\nDaikin Park 也以左外野特色區域與城市景觀聞名，結合現代化設施與熱烈主場氣氛。這裡見證太空人近年多次季後賽與世界大賽時期，是球隊黃金年代的重要舞台。\n\n對旅遊型球迷而言，Daikin Park 很適合與休士頓市中心、太空中心及德州城市行程一同安排，體驗南方大城市的棒球文化。",
+      "date" : "2026-04-20T00:18:24Z",
+      "id" : "7C295971-536C-4520-8A8B-DA25501DEF1F",
+      "stadiumID" : "7D532AD3-2BAC-4678-800E-103DEBFDE363"
+    },
+    {
+      "content" : "Coors Field 是 Colorado Rockies 科羅拉多洛磯隊的主場球場，位於美國科羅拉多州丹佛市中心（Denver, Colorado），自 1995 年啟用，是美國職棒最具特色的高海拔球場之一。\n\n由於丹佛海拔約一英里（5,280 英尺），空氣較稀薄，球的飛行距離通常較遠，因此 Coors Field 以高得分、全壘打較多的比賽風格聞名，對喜歡進攻型棒球的球迷特別有吸引力。\n\n球場也設有著名的「紫色座位」，標示一英里高度的位置，成為代表性打卡景點。\n\nCoors Field 位於熱鬧的 LoDo（Lower Downtown）區域，周邊餐廳、酒吧與城市夜生活豐富。對旅遊型球迷而言，這裡是結合高原城市風景、熱鬧市區氛圍與獨特棒球環境的重要朝聖球場。",
+      "date" : "2026-04-20T00:13:55Z",
+      "id" : "FD25A7F4-560F-4536-8C07-FEC5D63B9F71",
+      "stadiumID" : "38871DF4-763D-4503-B23F-E441BEE589BF"
+    },
+    {
+      "content" : "Sutter Health Park 是 Sacramento River Cats（沙加緬度河貓隊，MiLB）長期使用的主場球場，位於美國加州西沙加緬度（West Sacramento, California），緊鄰沙加緬度市中心與 Sacramento River 河岸。\n\n這座球場自 2000 年啟用，以舒適親近的觀賽距離、開放式視野與加州陽光氣候聞名，是小聯盟中評價相當高的球場之一。\n\n由於位置鄰近州政府所在地與市中心區域，球迷可以同時享受棒球比賽與城市河岸景觀。近年球場也因大聯盟臨時使用計畫而受到更多關注，使其知名度大幅提升。\n\n對旅遊型球迷而言，Sutter Health Park 很適合安排北加州行程時順道造訪，體驗較輕鬆、貼近球迷的小聯盟棒球文化與加州首府城市氛圍。",
+      "date" : "2026-04-20T00:11:08Z",
+      "id" : "38C57B8D-E595-4EF9-BB05-2B30F9D428E0",
+      "stadiumID" : "D4503BBF-1452-4CF8-9FE9-F73582B60FFC"
+    },
+    {
+      "content" : "Target Field 是 Minnesota Twins 明尼蘇達雙城隊的主場球場，位於美國明尼蘇達州明尼阿波利斯市中心（Minneapolis, Minnesota），自 2010 年啟用，是一座結合現代設計、開放式觀賽體驗與城市景觀的代表性球場。\n\n球場採露天設計，讓球迷在春夏季節能感受明尼蘇達清爽的戶外氣候與自然光線，也能欣賞市中心天際線作為比賽背景。\n\nTarget Field 以交通便利著稱，可透過輕軌與市中心步行路線輕鬆抵達，對旅客相當友善。球場內設施現代化，餐飲選擇豐富，並融入在地文化與北方城市特色。\n\n對旅遊型球迷而言，Target Field 很適合與明尼阿波利斯市區、湖區公園與雙子城文化行程一同安排，體驗舒適而現代的棒球觀賽氛圍。",
+      "date" : "2026-04-19T23:55:37Z",
+      "id" : "C1B23F59-0444-4B15-BE16-0D2EA0ADA577",
+      "stadiumID" : "C2F24961-EAF6-4816-962C-F430B63016D0"
+    },
+    {
+      "content" : "Kauffman Stadium 是 Kansas City Royals 堪薩斯市皇家隊的主場球場，位於美國密蘇里州堪薩斯市（Kansas City, Missouri），自 1973 年啟用至今，是美國職棒中極具辨識度的經典球場之一。\n\n這座球場最著名的特色就是外野後方壯觀的噴泉景觀（outfield fountains），不但成為球場象徵，也讓整體觀賽氣氛更具開闊感與城市特色。\n\nKauffman Stadium 以視野良好、環境舒適與較具傳統感的棒球體驗聞名，讓人感受到與大型都會球場不同的中西部球迷文化。\n\n球場也承載皇家隊多次重要時期與冠軍記憶，對當地球迷具有深厚意義。對旅遊型球迷而言，Kauffman Stadium 是結合經典球場設計、噴泉地標與中西部棒球氛圍的重要朝聖地。",
+      "date" : "2026-04-19T23:53:58Z",
+      "id" : "B6CA0292-C06D-40CD-8706-9C7A511BD611",
+      "stadiumID" : "96863E19-BB5C-4FFE-9CF1-466933C160DA"
+    },
+    {
+      "content" : "Comerica Park 是 Detroit Tigers 底特律老虎隊的主場球場，位於美國密西根州底特律市中心（Detroit, Michigan），自 2000 年啟用，是一座結合城市復興氛圍與傳統棒球文化的代表性球場。\n\n球場最具特色之一，是大量老虎與棒球歷史主題裝飾，包括入口區的老虎雕像、旋轉木馬與摩天輪，讓整體觀賽體驗帶有家庭娛樂氣氛。\n\nComerica Park 視野開闊，外野區域可欣賞底特律市中心天際線，也讓城市景觀成為比賽背景。這裡見證老虎隊多位明星球員時代與多次季後賽歷程，對球迷具有深厚情感價值。\n\n對旅遊型球迷而言，Comerica Park 很適合與底特律市中心、汽車文化景點與音樂歷史行程一同安排，體驗這座城市獨特的運動與工業文化。",
+      "date" : "2026-04-19T23:39:44Z",
+      "id" : "C7EDC196-2A66-4F46-8824-AB5A7BF910B5",
+      "stadiumID" : "47140B99-E265-4988-8E50-5601296A4941"
+    },
+    {
+      "content" : "Progressive Field 是 Cleveland Guardians 克里夫蘭守護者隊的主場球場，位於美國俄亥俄州克里夫蘭市中心（Cleveland, Ohio），自 1994 年啟用，是一座結合現代化設施與中西部城市棒球文化的代表性球場。\n\n球場坐落於市中心娛樂區，鄰近餐廳、酒吧與其他運動場館，讓比賽日前後的氣氛相當熱鬧。\n\nProgressive Field 以視野良好、觀賽舒適及親切球迷文化聞名，近年也持續進行整修升級，增加社交區域與現代化設施。\n\n這裡見證了守護者隊多次競爭季後賽的重要時期，也承載克里夫蘭球迷深厚的地方認同感。對旅遊型球迷而言，Progressive Field 很適合與克里夫蘭市中心、搖滾名人堂與伊利湖周邊行程一同安排，體驗美國中西部棒球文化。",
+      "date" : "2026-04-19T23:38:18Z",
+      "id" : "D14D8E36-96BE-47AC-BE86-F1DDFBECF849",
+      "stadiumID" : "B13B77E1-99DC-438E-91FD-78B576CAE1AC"
+    },
+    {
+      "content" : "Rate Field 是 Chicago White Sox 芝加哥白襪隊的主場球場，位於美國伊利諾州芝加哥南區（Chicago, Illinois）。\n\n這座球場自 1991 年啟用以來曾多次更名，先後以 Comiskey Park、U.S. Cellular Field 與 Guaranteed Rate Field 等名稱為球迷熟知，如今簡稱為 Rate Field。\n\n球場以寬敞視野、現代化設施與直接熱烈的南區球迷文化聞名，呈現與芝加哥北區 Wrigley Field 不同的觀賽氛圍。\n\n這裡也以經典球場美食受到歡迎，例如 Chicago-style hot dog、波蘭香腸與各類在地餐點。\n\n由於交通便利，可搭乘芝加哥捷運 Red Line 抵達，對旅遊型球迷而言，Rate Field 是體驗芝加哥另一面城市性格與美式棒球文化的重要地點。",
+      "date" : "2026-04-19T23:37:00Z",
+      "id" : "C8436D8E-3314-4E12-9D5D-95113985BFD3",
+      "stadiumID" : "C1A87934-187C-4B00-9914-2E9AC06C2B6E"
+    },
+    {
+      "content" : "Tropicana Field 是 Tampa Bay Rays 坦帕灣光芒隊的主場球場，位於美國佛羅里達州聖彼得堡（St. Petersburg, Florida），自 1990 年啟用，是一座固定式屋頂的室內球場。\n\n由於佛州氣候炎熱潮濕，且夏季常有午後雷陣雨與颶風季影響，室內空調環境讓球迷能在穩定舒適的條件下觀賽，這也是球場最大的實用特色。\n\nTropicana Field 內部空間寬敞，曾以館內飼養魟魚展示區與獨特室內觀賽氛圍聞名，呈現與傳統戶外棒球場不同的體驗。這裡見證了光芒隊從小市場球隊逐步成長為具競爭力球隊的重要歷程，也承載多次季後賽記憶。\n\n對旅遊型球迷而言，Tropicana Field 很適合與坦帕灣海岸、海灘與佛州度假行程一同安排，體驗不同風格的棒球文化。",
+      "date" : "2026-04-19T23:32:58Z",
+      "id" : "10C0A1C9-93A0-4518-81E2-22161EEE0F9E",
+      "stadiumID" : "45A65F28-1936-485E-B26F-866EE72F8A5F"
+    },
+    {
+      "content" : "Rogers Centre 是 Toronto Blue Jays 多倫多藍鳥隊的主場球場，位於加拿大安大略省多倫多市中心（Toronto, Ontario），自 1989 年啟用，是北美最具代表性的多功能球場之一，也是 MLB 唯一位於加拿大的現役主場球場。\n\n球場最著名的特色是可開合屋頂，能依照天氣狀況開啟或關閉，讓球迷在寒冷、下雨或氣候多變的情況下仍能舒適觀賽。\n\nRogers Centre 緊鄰著名的 CN Tower 與多倫多市中心娛樂區，交通便利，周邊餐廳、景點與城市活動豐富，非常適合安排旅遊行程。\n\n近年球場也進行多次整修升級，增加現代化觀賽空間與社交區域。對旅遊型球迷而言，Rogers Centre 是結合國際城市風貌、加拿大棒球文化與現代球場體驗的重要目的地。",
+      "date" : "2026-04-19T23:30:09Z",
+      "id" : "44C0D569-C7D4-44E3-A4AC-AA4936455297",
+      "stadiumID" : "9F36C230-E382-4A80-9780-6DD090D6397B"
+    },
+    {
+      "content" : "Yankee Stadium 是 New York Yankees 紐約洋基隊的主場球場，位於美國紐約市布朗克斯（The Bronx, New York City），現址球場於 2009 年啟用，接替了 1923 年啟用的舊洋基球場。\n\n它最大的特色之一，是承接了洋基隊厚重的歷史與傳統，同時保有現代化球場的設施與規模。球場外觀與內部設計都帶有向舊球場致敬的意味，並設有展示洋基歷史的區域與球場導覽活動。\n\n由於位在紐約市，交通相當便利，可搭乘地鐵與 Metro-North 抵達，也讓它成為觀光與看球可以一起安排的熱門地點。對旅遊型球迷而言，Yankee Stadium 不只是看比賽的地方，更是體驗紐約城市能量、洋基傳統文化與美國棒球歷史的重要朝聖球場。",
+      "date" : "2026-04-19T23:24:15Z",
+      "id" : "94E2F195-B164-4BE8-BBD8-D9C31CC25342",
+      "stadiumID" : "BDDB64D6-B31C-4E43-B2FC-70C7D5AA3624"
+    },
+    {
+      "content" : "enway Park 是 Boston Red Sox（波士頓紅襪隊）的主場球場，位於美國麻薩諸塞州波士頓（Boston, Massachusetts），自 1912 年啟用至今，是美國職棒歷史最悠久、仍持續使用中的經典球場之一。\n\n這座球場最著名的特色就是左外野高聳的綠色怪物牆（Green Monster），它不只是 Fenway Park 的象徵，也讓比賽呈現出非常獨特的球場風格。\n\nFenway Park 以濃厚歷史感、緊密的看台設計與極具辨識度的復古氛圍聞名，讓球迷能感受到與現代大型球場不同的親近感與傳統氣息。\n\n由於紅襪隊歷史悠久、球迷文化深厚，這裡一直被視為棒球迷最重要的朝聖球場之一。對旅遊型球迷而言，Fenway Park 不只是看球的地方，更是體驗波士頓城市歷史與美國棒球傳統的重要地標。",
+      "date" : "2026-04-19T23:14:06Z",
+      "id" : "FF7D8EB5-B9A7-4D11-865A-A86A8AD249A3",
+      "stadiumID" : "B83E85F5-B346-4246-ADCC-6FE809086B42"
+    },
+    {
+      "content" : "Oriole Park at Camden Yards 是 Baltimore Orioles（巴爾的摩金鶯隊）的主場球場，位於美國馬里蘭州巴爾的摩（Baltimore, Maryland），自 1992 年啟用以來，一直被視為現代復古風格棒球場的代表作，也影響了後來許多 MLB 球場的設計方向。\n\n球場最具代表性的特色之一，是右外野後方極具辨識度的 B&O Warehouse 紅磚倉庫，以及連接球場與倉庫之間、充滿節慶感的 Eutaw Street；街道地面上還嵌有銅製棒球標記，紀錄曾飛越右外野落到街上的全壘打位置。\n\n球場距離巴爾的摩 Inner Harbor 步行約 12 分鐘，兼具城市景觀、歷史感與步行便利性。\n\n對旅遊型球迷而言，Camden Yards 不只是看球的地方，更是結合巴爾的摩城市風貌、棒球歷史與經典球場建築美學的重要朝聖地。",
+      "date" : "2026-04-19T23:04:02Z",
+      "id" : "949EA595-A2CF-4315-86BF-B126D7B60EAF",
+      "stadiumID" : "74D3575D-6516-4DE4-BC88-0553A9461E94"
+    },
+    {
+      "content" : "Chase Field 是 Arizona Diamondbacks 亞利桑那響尾蛇隊的主場球場，位於美國亞利桑那州鳳凰城（Phoenix, Arizona），自 1998 年啟用，是美國職棒最早一批採用可開合屋頂與完善空調系統的現代化球場之一。\n\n由於鳳凰城夏季氣溫極高，室內冷氣環境讓球迷即使在炎熱天氣下也能舒適觀賽，是球場最重要的特色之一。Chase Field 內部空間寬敞，視野良好，並曾以外野泳池區聞名，形成相當具有話題性的觀賽體驗。\n\n這裡也是響尾蛇隊於 2001 年奪得世界大賽冠軍的重要主場，對球迷具有特殊歷史意義。\n\n對旅遊型球迷而言，Chase Field 很適合與鳳凰城市區、沙漠景觀及亞利桑那旅行行程一同安排，體驗與其他 MLB 城市不同的西南部棒球文化。",
+      "date" : "2026-04-19T14:52:34Z",
+      "id" : "7B3E3BEF-7A1E-470C-8D63-09D96B338DAA",
+      "stadiumID" : "846F4872-DD0B-48B6-A627-9FFF7F68D0DB"
+    },
+    {
+      "content" : "Dodger Stadium 是 Los Angeles Dodgers 洛杉磯道奇隊的主場球場，位於美國加州洛杉磯（Los Angeles, California），自 1962 年啟用，是美國職棒歷史最悠久且仍持續使用中的經典球場之一。\n\n球場坐落於山坡地形之上，擁有俯瞰洛杉磯市區與夕陽景色的獨特視野，傍晚比賽時特別具有代表性。\n\nDodger Stadium 以龐大座位容量、濃厚傳統氣氛與忠實球迷文化聞名，也是 MLB 最具人氣的球場之一。\n\n場內著名的 Dodger Dog 等經典球場美食，也是不少球迷造訪時的重要體驗。\n\n由於道奇隊長年具競爭力，加上洛杉磯的國際城市魅力，Dodger Stadium 被視為全球棒球迷最值得朝聖的球場之一。",
+      "date" : "2026-04-19T14:51:28Z",
+      "id" : "E28123BB-4BAD-44FF-A6D6-E1393EAEB29C",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F"
+    },
+    {
+      "content" : "etco Park 是 San Diego Padres 聖地牙哥教士隊的主場球場，位於美國加州聖地牙哥市中心（San Diego, California），自 2004 年啟用，是結合城市景觀、舒適氣候與現代觀賽體驗的代表性球場之一。\n\n球場最大的魅力之一，是聖地牙哥全年宜人的天氣與開放式設計，讓球迷能在陽光與海風中享受比賽。\n\nPetco Park 周邊緊鄰熱鬧的 Gaslamp Quarter，餐廳、酒吧與娛樂場所眾多，使比賽日前後都充滿活力。\n\n球場內也保留歷史建築 Western Metal Supply Co.，成為外野區域極具特色的視覺地標。\n\n對旅遊型球迷而言，Petco Park 是結合棒球、海岸城市風格與度假氛圍的熱門朝聖球場。",
+      "date" : "2026-04-19T14:50:19Z",
+      "id" : "4A481980-6678-4C35-92D3-47D061DCEC98",
+      "stadiumID" : "94F681A0-B33D-45AE-A405-BA9899AE2F24"
+    },
+    {
+      "content" : "Oracle Park 是 San Francisco Giants 舊金山巨人隊的主場球場，位於美國加州舊金山市海灣旁（San Francisco, California），自 2000 年啟用，是美國職棒最具代表性與景觀價值的球場之一。\n\n球場坐落於舊金山灣邊，外野右側緊鄰海港水域，著名的 McCovey Cove 經常可見球迷划船等待接全壘打球，形成極具特色的景象。\n\nOracle Park 以優美海景、城市天際線與清新的海風聞名，也因靠近海灣而常有較涼的氣候，成為觀賽時的獨特體驗。\n\n球場內餐飲品質與在地特色也受到好評，結合舊金山多元城市文化。\n\n對旅遊型球迷而言，Oracle Park 是融合棒球、海灣景色與城市魅力的朝聖級球場。",
+      "date" : "2026-04-19T14:49:13Z",
+      "id" : "D010DA6F-D34F-4B3F-918D-B8FA55AD52EE",
+      "stadiumID" : "0E9D2992-D962-4C6D-8ACD-0B50C54F82DA"
+    },
+    {
+      "content" : "Globe Life Field 是 Texas Rangers 德州遊騎兵隊的主場球場，位於美國德州阿靈頓（Arlington, Texas），自 2020 年啟用，是一座以現代化設施與舒適觀賽體驗著稱的新世代球場。\n\n球場最大的特色之一是可開合屋頂與完善空調系統，對炎熱的德州夏季特別重要，讓球迷在高溫天氣下仍能舒適看球。\n\nGlobe Life Field 內部空間寬敞、座位視野良好，並提供多樣化餐飲與家庭友善設施。這裡也是德州遊騎兵奪得隊史首座世界大賽冠軍的重要主場，因此對球迷具有特殊紀念意義。\n\n對旅遊型球迷而言，Globe Life Field 很適合與鄰近的娛樂區、NFL 球場及達拉斯—沃斯堡都會區行程一同安排。",
+      "date" : "2026-04-19T14:47:55Z",
+      "id" : "F4BFA457-DB00-4789-8B83-D2D09FBF8D5D",
+      "stadiumID" : "48EFF5B8-83AB-445C-BE48-F88B07B7DDB3"
+    },
+    {
+      "content" : "Truist Park 是 Atlanta Braves 亞特蘭大勇士隊的主場球場，位於美國喬治亞州亞特蘭大都會區科布郡（Cobb County, Georgia），自 2017 年啟用，是一座結合現代球場設計與娛樂生活圈概念的代表性場館。\n\n球場周邊的 The Battery Atlanta 是其最大特色之一，集合餐廳、酒吧、商店、旅館與活動空間，使比賽日前後都十分熱鬧。\n\nTruist Park 擁有舒適的觀賽視野、現代化設施與濃厚南方棒球文化，現場氣氛活躍且家庭友善。由於勇士隊近年長期保持競爭力，球場也常有高人氣與熱烈主場氛圍。\n\n對旅遊型球迷而言，Truist Park 是結合看球、美食、購物與亞特蘭大城市體驗的熱門目的地。",
+      "date" : "2026-04-19T14:37:09Z",
+      "id" : "D1DE707E-7519-4CB8-A688-6F06667E7AA6",
+      "stadiumID" : "6B20920F-3A0D-45A8-9AA6-774FF7D1A4DC"
+    },
+    {
+      "content" : "loanDepot park 是 Miami Marlins 邁阿密馬林魚隊的主場球場，位於美國佛羅里達州邁阿密（Miami, Florida），自 2012 年啟用，是一座具現代感與熱帶城市風格的室內球場。\n\n球場最大的特色之一是可開合屋頂與空調設計，讓球迷在炎熱、潮濕或午後雷陣雨頻繁的南佛州氣候下，仍能舒適觀賽。\n\nloanDepot park 的設計充滿明亮色彩與拉丁文化氛圍，反映邁阿密多元國際城市特色。\n\n場館內部空間寬敞、視野良好，也提供多樣化餐飲與家庭友善設施。對旅遊型球迷而言，這裡很適合與邁阿密海灘、市區藝術區與加勒比風情行程一同安排，體驗與其他 MLB 城市截然不同的棒球文化。",
+      "date" : "2026-04-19T14:31:36Z",
+      "id" : "BDA7F094-4DEE-44A8-9237-C9B9B60D900A",
+      "stadiumID" : "255DFBBA-AF21-4707-8C07-4F3EE9CA7BDD"
+    },
+    {
+      "content" : "Citi Field 是 New York Mets 紐約大都會隊的主場球場，位於美國紐約市皇后區（Queens, New York），自 2009 年啟用，是一座結合現代設施與紐約棒球歷史元素的代表性球場。\n\n球場設計靈感部分來自昔日知名球場 Ebbets Field，入口外觀具有復古風格，同時內部則提供舒適且現代化的觀賽環境。\n\nCiti Field 以豐富的餐飲選擇聞名，能品嚐到紐約多元文化特色美食，也是許多球迷喜歡的亮點之一。由於位於皇后區，交通便利，可搭乘地鐵快速抵達，也適合與紐約市區觀光行程安排在一起。\n\n對旅遊型球迷而言，Citi Field 是體驗紐約棒球文化、城市活力與現代球場氛圍的重要地點。",
+      "date" : "2026-04-19T14:22:55Z",
+      "id" : "CFAAFB3F-DEB2-43ED-AD00-8492B6F0F833",
+      "stadiumID" : "9897ED35-45EB-448B-8423-57A81E5D3D5B"
+    },
+    {
+      "content" : "Citizens Bank Park 是 Philadelphia Phillies 費城費城人隊的主場球場，位於美國賓夕法尼亞州費城（Philadelphia, Pennsylvania），自 2004 年啟用，以熱情球迷文化、強烈主場氣氛與全壘打友善球場特性聞名。\n\n費城球迷向來以投入、直接且充滿激情著稱，因此比賽日的現場氣氛相當有能量，是體驗東岸棒球文化的重要地點之一。\n\n球場視野開闊，外野區域可欣賞費城市區天際線，也設有許多適合家庭與球迷互動的空間。\n\nCitizens Bank Park 的餐飲選擇也很受歡迎，包括費城經典起司牛肉三明治（Philly cheesesteak）等在地特色美食。\n\n對旅遊型球迷而言，這裡是結合歷史城市、熱血球迷文化與現代觀賽體驗的代表性球場。",
+      "date" : "2026-04-19T14:20:02Z",
+      "id" : "AEFC239B-E942-456B-AE95-97EC76B3ADDA",
+      "stadiumID" : "0F47120B-07A3-4D18-8A52-7E2EBCBD318B"
+    },
+    {
+      "content" : "Nationals Park 是 Washington Nationals 華盛頓國民隊的主場球場，位於美國首都華盛頓特區東南區（Washington, D.C.），自 2008 年啟用，是一座結合現代設計、便利交通與城市更新概念的球場。\n\n球場鄰近 Anacostia River，周邊區域近年發展快速，聚集許多餐廳、商業設施與步行空間，使比賽日氣氛相當熱鬧。\n\nNationals Park 視野開闊、觀賽舒適，並擁有現代化餐飲與家庭友善設施，適合各類型球迷造訪。作為華盛頓國民隊於 2019 年世界大賽奪冠時期的重要主場，這裡也承載球隊近代最輝煌的歷史記憶。",
+      "date" : "2026-04-19T14:17:49Z",
+      "id" : "762A50BB-BA82-46A9-BE69-F03BCF9155E1",
+      "stadiumID" : "0F47120B-07A3-4D18-8A52-7E2EBCBD318B"
+    },
+    {
+      "content" : "Busch Stadium 是 St. Louis Cardinals 聖路易紅雀隊的主場球場，位於美國密蘇里州聖路易市中心（St. Louis, Missouri），自 2006 年啟用，是現代化設計與傳統棒球文化結合的代表球場之一。\n\n球場最具特色的景觀，是外野方向可清楚望見著名的 Gateway Arch（聖路易拱門），讓城市天際線成為比賽背景，辨識度極高。\n\n紅雀隊擁有全美最忠誠、最具歷史感的球迷文化之一，因此 Busch Stadium 的比賽日氣氛一向熱烈而充滿傳統感。\n\n球場周邊也有 Ballpark Village 等娛樂區域，結合餐飲、酒吧與球迷活動空間，讓觀賽體驗更加完整。\n\n對旅遊型球迷而言，Busch Stadium 是結合棒球歷史、城市地標與熱情球迷文化的重要朝聖球場。",
+      "date" : "2026-04-19T14:09:07Z",
+      "id" : "3A53CDC3-E10A-40E8-8A07-D96340E12CFE",
+      "stadiumID" : "B983D1A5-EEE5-4E17-A48D-38F10960C76E"
+    },
+    {
+      "content" : "Wrigley Field 是 Chicago Cubs 芝加哥小熊隊的主場球場，位於美國伊利諾州芝加哥（Chicago, Illinois），自 1914 年啟用至今，是美國職棒歷史最悠久、最具代表性的球場之一。\n球場最著名的特色包括外野牆上的常春藤（ivy-covered walls）、手動計分板，以及充滿傳統氣息的觀賽環境，讓人感受到經典棒球文化。\nWrigley Field 周邊的 Wrigleyville 社區也十分熱鬧，聚集許多酒吧、餐廳與球迷活動場所，比賽日氣氛特別鮮明。\n由於其深厚歷史、獨特外觀與忠實球迷文化，Wrigley Field 被視為許多棒球迷一生至少要造訪一次的朝聖球場。",
+      "date" : "2026-04-19T14:07:45Z",
+      "id" : "ADFCB5D9-1E61-424F-9B33-9133936822B9",
+      "stadiumID" : "0F157CC7-7D61-43D7-BD7B-25D019BBD205"
+    },
+    {
+      "content" : "Great American Ball Park 是 Cincinnati Reds（辛辛那提紅人隊）的主場球場，位於美國俄亥俄州辛辛那提（Cincinnati, Ohio），座落於市中心河岸旁，鄰近 Ohio River，擁有開闊的城市與河景視野。\n這座球場自 2003 年啟用，以友善打者的球場特性與熱鬧的觀賽氣氛聞名，經常出現全壘打場面，因此對喜歡進攻型比賽的球迷特別有吸引力。球場內也融入紅人隊悠久歷史，展示球隊作為美國職業棒球最早傳統球隊之一的文化背景。\n對旅遊型球迷而言，Great American Ball Park 不僅適合觀賞比賽，也很適合結合辛辛那提市中心、河岸步道與在地美食一起體驗。",
+      "date" : "2026-04-19T12:28:44Z",
+      "id" : "1A1613A1-92BD-4477-9074-9F9B4ECEBD60",
+      "stadiumID" : "A1603852-E51E-4C6B-9E56-953D9FCB2E42"
+    },
+    {
+      "content" : "American Family Field 是 Milwaukee Brewers（密爾瓦基釀酒人隊）的主場球場，位於美國威斯康辛州的密爾瓦基（Milwaukee, Wisconsin）。\n這座球場過去名為 Miller Park，因此直到現在仍有不少球迷習慣使用舊名稱來稱呼它。American Family Field 最具代表性的特色之一，就是可開合屋頂（retractable roof）。\n球場可以依照天氣狀況決定是否開啟或關閉屋頂，這對威斯康辛州來說特別實用，因為當地冬季寒冷，春季與秋季的天氣也常有變化。這樣的設計不但提升了觀賽舒適度，也讓球迷在不同天候條件下，仍然能享受穩定而完整的棒球比賽體驗。",
+      "date" : "2026-04-19T12:02:39Z",
+      "id" : "CF963049-544A-4BE5-8937-0F98278FEE93",
+      "stadiumID" : "9F54B19F-F84E-4A5E-BF5F-1FDBAF6D8D34"
+    },
+    {
+      "content" : "PNC Park 是 Pittsburgh Pirates 匹茲堡海盜隊的主場球場。\n位於美國賓州匹茲堡（Pittsburgh, Pennsylvania）。\n\n這座球場非常有名，因為：\n\n面向匹茲堡市中心天際線景觀\n靠近河岸，視野漂亮\nMLB 公認最美球場之一\n很適合旅遊型球迷朝聖",
+      "date" : "2026-04-19T11:32:28Z",
+      "id" : "04F5AF5C-C90C-46E2-A041-8B2CA5BACA16",
+      "stadiumID" : "D20B5BEE-7923-4362-A790-C4858EF8BFC6"
+    },
+    {
+      "content" : "Now with the Arizona Diamondbacks.\n目前已加入亞利桑那響尾蛇。",
+      "date" : "2026-04-19T10:35:18Z",
+      "id" : "FC21F8CA-97FE-4E64-8C89-9DE12A772A97",
+      "playerID" : "DC7E6252-5DAD-4442-941B-7A1729365887"
+    },
+    {
       "content" : "曾旅美效力波士頓紅襪體系\n中華職棒知名外野手\n富邦悍將重要資深球員\n曾入選國家隊與國際賽事",
       "date" : "2026-04-18T01:00:14Z",
       "id" : "E8C69CB0-AA8A-4955-B0F8-450D4621A73E",
@@ -152,6 +452,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nStar third baseman with power, consistency, and everyday lineup value.\n明星三壘手，具備長打能力、穩定輸出與日常先發價值。\n\nWhy he stands out \/ 看點：\nHe is a core hitter in the Braves lineup and one of the team’s most reliable stars.\n他是勇士打線核心打者之一，也是球隊最穩定的明星球員之一。",
+      "heightCentimeters" : 0,
+      "id" : "3AE24146-B345-4F87-959F-2E2A782DD61E",
+      "isFavorite" : false,
+      "name" : "Austin Riley",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "26BA3CE3-F33F-4D9F-B4E8-3E42C514D73A",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2000,
       "birthplace" : "",
       "careerSummary" : "MLB 官方球員頁顯示他出生於 2000 年 6 月 14 日，2019 年選秀第 2 順位進入皇家；\n2026 年官方開季打線與先發名單都把他放在游擊核心位置。",
@@ -177,6 +492,21 @@
       "number" : 0,
       "position" : "CF",
       "teamID" : "78267CCB-E747-4DA8-AF00-A10B119439D6",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1995,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nReliable switch-hitting outfielder with power and consistency.\n穩定的左右開弓外野手，具備長打能力與高穩定性。\n\nWhy he stands out \/ 看點：\nA longtime Pirates core player and key middle-order bat.\n他是海盜長期核心球員，也是中心打線主力。",
+      "heightCentimeters" : 0,
+      "id" : "6E195795-9508-48C2-AEC2-C78C9374A340",
+      "isFavorite" : false,
+      "name" : "Bryan Reynolds",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "79B4786E-5E4E-4113-8DAA-06DB15A27493",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -212,6 +542,36 @@
     },
     {
       "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAthletic shortstop with speed, range, and dynamic offensive ability.\n運動能力出色的游擊手，具備速度、守備範圍與動態進攻能力。\n\nWhy he stands out \/ 看點：\nHe remains one of Washington’s most recognizable everyday players and an important part of the infield core.\n他仍然是國民隊最具代表性的日常先發球員之一，也是內野核心成員。",
+      "heightCentimeters" : 0,
+      "id" : "BD6C65C1-1926-4327-BEDB-BDC8B8DD3916",
+      "isFavorite" : false,
+      "name" : "CJ Abrams C.J.",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "9EB4B264-59F4-4F28-A742-622E5BF88346",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1996,
+      "birthplace" : "",
+      "careerSummary" : "特色：主戰捕手、長打能力佳、攻守兼具。\n看點：在 2026 開季預計打線中排在前段，是水手重要的中心球員。\n\nProfile: Starting catcher with strong power hitting, solid defense, and all-around value.\nWhy he stands out: Projected to bat near the top of the lineup in 2026 and an important core player for the Mariners.",
+      "heightCentimeters" : 0,
+      "id" : "CF48232C-E980-4C3D-9113-478B6AD082F4",
+      "isFavorite" : false,
+      "name" : "Cal Raleigh",
+      "number" : 0,
+      "position" : "C",
+      "teamID" : "6A1CC17D-EF5C-43C0-A529-77932B643425",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2001,
       "birthplace" : "",
       "careerSummary" : "Rising young star and top prospect on the MLB roster.",
@@ -227,6 +587,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1991,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nVeteran star outfielder with strong hitting ability, experience, and leadership.\n資深明星外野手，具備優秀打擊能力、豐富經驗與領導價值。\n\nWhy he stands out \/ 看點：\nHe remains the Brewers’ most recognizable star and a longtime face of the franchise.\n他仍然是釀酒人隊最具代表性的明星球員，也是球隊長期門面人物。",
+      "heightCentimeters" : 0,
+      "id" : "C2805034-AED3-474C-AA37-E76062AC3C26",
+      "isFavorite" : false,
+      "name" : "Christian Yelich",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "435FA8ED-7433-401B-9406-E61E21676F44",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2000,
       "birthplace" : "",
       "careerSummary" : "万波中正是火腿隊的重要長打型外野手，擁有出色的身材條件與全壘打能力，是球隊目前最具代表性的年輕球星之一。\n\nChusei Mannami is a power-hitting outfielder for the Fighters. He is one of the team’s most recognizable young stars thanks to his size, strength, and home run ability.",
@@ -237,6 +612,21 @@
       "number" : 0,
       "position" : "OF",
       "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1988,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nLegendary left-handed pitcher with elite career résumé and veteran leadership.\n傳奇左投，擁有頂尖生涯成就與資深領袖地位。\n\nWhy he stands out \/ 看點：\nOne of the greatest pitchers in Dodgers history and still highly respected.\n他是道奇隊史最偉大的投手之一，至今仍備受尊敬。",
+      "heightCentimeters" : 0,
+      "id" : "BFFDBA92-5AAA-4BD4-9909-50BC99E1B12C",
+      "isFavorite" : false,
+      "name" : "Clayton Kershaw",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "F5F4EFE5-5622-47E6-AAB3-3D055EE414C1",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -302,6 +692,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1994,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nStar shortstop with elite hitting ability, strong power, and proven leadership.\n頂尖打擊能力的明星游擊手，具備優秀長打火力與成熟領導氣質。\n\nWhy he stands out \/ 看點：\nOne of the Rangers’ most recognizable superstars and a cornerstone of the lineup.\n他是德州遊騎兵最具代表性的超級球星之一，也是球隊打線的重要核心。",
+      "heightCentimeters" : 0,
+      "id" : "915110F2-2B41-4401-ABA4-121F093C5E17",
+      "isFavorite" : false,
+      "name" : "Corey Seager",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "D1ED9264-BE52-419C-AB67-0F43994956A0",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1991,
       "birthplace" : "",
       "careerSummary" : "2014 年中央聯盟新人王；\n2024 年投出無安打比賽，是廣島代表性的先發投手之一。",
@@ -347,6 +752,36 @@
     },
     {
       "bats" : "",
+      "birthYear" : 2002,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nDynamic young superstar with elite speed, power, arm strength, and game-changing athleticism.\n充滿爆發力的年輕超級新星，兼具頂尖速度、長打能力、臂力與改變比賽的天賦。\n\nWhy he stands out \/ 看點：\nHe is the Reds’ most exciting star and one of the most talked-about young players in baseball.\n他是紅人隊最受矚目的明星球員，也是全聯盟討論度最高的年輕球員之一。",
+      "heightCentimeters" : 0,
+      "id" : "8CFFB1A9-6CF9-447D-9D05-7820840E524B",
+      "isFavorite" : false,
+      "name" : "Elly De La Cruz",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "7402087C-70B0-4189-BC4F-6F158C349257",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2003,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nYoung power pitcher with elite size, electric stuff, and major long-term upside.\n年輕強投，具備出色身材條件、爆發性球威與高度長期潛力。\n\nWhy he stands out \/ 看點：\nHe is one of the Marlins’ most exciting young pitchers and a major part of the team’s future.\n他是馬林魚最受期待的年輕投手之一，也是球隊未來的重要核心。",
+      "heightCentimeters" : 0,
+      "id" : "1214E12A-2F20-48B0-8F04-D4AF0742F542",
+      "isFavorite" : false,
+      "name" : "Eury Pérez",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "0D4EC066-D4FD-4DE2-8986-4612D5ACDD8C",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2001,
       "birthplace" : "",
       "careerSummary" : "年輕核心球星；曾獲 Gold Glove，被視為球隊重建主軸之一。",
@@ -357,6 +792,21 @@
       "number" : 0,
       "position" : "SS",
       "teamID" : "78267CCB-E747-4DA8-AF00-A10B119439D6",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1999,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nDynamic star outfielder with power, speed, athleticism, and game-changing ability.\n充滿爆發力的明星外野手，兼具長打、速度、運動能力與改變比賽的本事。\n\nWhy he stands out \/ 看點：\nHe is one of the Padres’ most recognizable superstars and a centerpiece of the lineup.\n他是教士最具代表性的超級球星之一，也是球隊打線的重要核心。",
+      "heightCentimeters" : 0,
+      "id" : "1A6C3B4D-3A8F-433E-9CBC-36CA38EA3065",
+      "isFavorite" : false,
+      "name" : "Fernando Tatis Jr.",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "7BB46791-C765-4060-9B7F-17E0EB5A4E33",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -407,6 +857,36 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1989,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nConsistent hitter with elite contact skills, power, and veteran presence.\n穩定高水準打者，具備頂尖擊球能力、長打火力與資深價值。\n\nWhy he stands out \/ 看點：\nOne of the Dodgers’ most reliable offensive leaders and fan favorites.\n他是道奇最穩定的進攻領袖之一，也是球迷喜愛的明星球員。",
+      "heightCentimeters" : 0,
+      "id" : "DC42136A-0911-45B8-BC63-B7770C34FEEE",
+      "isFavorite" : false,
+      "name" : "Freddie Freeman",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "F5F4EFE5-5622-47E6-AAB3-3D055EE414C1",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1996,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nStrikeout-focused starter with swing-and-miss stuff and front-line rotation value.\n高三振型先發投手，擁有強大球威與輪值前段價值。\n\nWhy he stands out \/ 看點：\nHe is one of Milwaukee’s most important pitchers and a leader of the rotation.\n他是密爾瓦基最重要的投手之一，也是先發輪值的重要領袖。",
+      "heightCentimeters" : 0,
+      "id" : "CB3315CB-E24F-415C-BD8D-257ED3E05180",
+      "isFavorite" : false,
+      "name" : "Freddy Peralta",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "435FA8ED-7433-401B-9406-E61E21676F44",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1999,
       "birthplace" : "",
       "careerSummary" : "Ace-level starter and the Red Sox’s top projected player.\n\nMLB 官方把 Crochet 列為紅襪 2026 年的隊內最高預測球員，並指出他 2025 年拿下 5.8 WAR、2.59 ERA、255 次三振",
@@ -432,6 +912,21 @@
       "number" : 0,
       "position" : "SS, OF",
       "teamID" : "41E54783-5A85-48C4-AED5-99808B00DECE",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1999,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nSwitch-hitting shortstop with solid defense, athleticism, and reliable infield value.\n左右開弓的游擊手，具備穩定守備、運動能力與內野戰術價值。\n\nWhy he stands out \/ 看點：\nHe is an important everyday infielder for the Diamondbacks and part of the team’s younger core.\n他是響尾蛇重要的日常先發內野手，也是球隊較年輕核心的一部分。",
+      "heightCentimeters" : 0,
+      "id" : "84DC86E7-86BE-4568-A314-4708E6D69AED",
+      "isFavorite" : false,
+      "name" : "Geraldo Perdomo",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "696FB62B-C58F-41C8-ABCD-5B026FF22814",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -497,6 +992,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1999,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nYoung outfielder with power, athleticism, and growing importance in the lineup.\n年輕外野手，兼具長打能力、運動天賦，且在打線中的重要性逐漸提升。\n\nWhy he stands out \/ 看點：\nHe represents the Giants’ younger core and is one of the more exciting outfield talents on the roster.\n他代表巨人隊年輕世代的核心戰力，也是陣中相當值得關注的外野新秀型主力。",
+      "heightCentimeters" : 0,
+      "id" : "1CB36928-B54A-45DB-BEDB-465555D45360",
+      "isFavorite" : false,
+      "name" : "Heliot Ramos",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "F3BA12F7-58F9-443D-9AC8-28DD08D9E8C0",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1997,
       "birthplace" : "",
       "careerSummary" : "伊藤大海是北海道日本火腿鬥士最具代表性的先發投手之一，具備王牌等級的定位，也是球隊近年最重要的本土投手戰力。若放進 app，很適合標成「Ace」或「Starting Pitcher」。\n\nHiromi Ito is one of the most important starting pitchers for the Fighters and is widely viewed as an ace-level arm on the roster. He represents the team’s core domestic pitching strength in recent seasons.",
@@ -527,6 +1037,36 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1999,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nPower pitcher with elite fastball velocity, strikeout ability, and ace potential.\n力量型投手，擁有頂尖速球球速、三振能力與王牌潛力。\n\nWhy he stands out \/ 看點：\nHe is one of the Reds’ most important pitchers and the leader of the rotation.\n他是紅人隊最重要的投手之一，也是先發輪值領袖。",
+      "heightCentimeters" : 0,
+      "id" : "B3789394-08CC-4C64-A88A-ED03909539D2",
+      "isFavorite" : false,
+      "name" : "Hunter Greene",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "7402087C-70B0-4189-BC4F-6F158C349257",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2004,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nDynamic young outfielder with speed, power, and elite athletic potential.\n充滿爆發力的年輕外野手，兼具速度、長打與頂尖運動天賦。\n\nWhy he stands out \/ 看點：\nHe is one of the Brewers’ most exciting young stars and a key part of the team’s future.\n他是釀酒人最受期待的年輕球星之一，也是球隊未來核心。",
+      "heightCentimeters" : 0,
+      "id" : "3F13DAA0-C41C-45D4-B98E-282F4C675475",
+      "isFavorite" : false,
+      "name" : "Jackson Chourio",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "435FA8ED-7433-401B-9406-E61E21676F44",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2003,
       "birthplace" : "",
       "careerSummary" : "About: 金鶯最受矚目的年輕球星之一，2026 年開季正式進入開幕名單。\nSpecial: MLB 官方開季名單新聞寫到，他靠春訓 13 場打出 .314、2 轟、7 分打點、OPS .848，拿下開季名單位置",
@@ -537,6 +1077,66 @@
       "number" : 0,
       "position" : "2B",
       "teamID" : "7D3C78CB-D212-4E12-B29C-98385DDBFDB3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2003,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nYoung outfielder with advanced hitting ability, athleticism, and major long-term upside.\n年輕外野手，具備成熟打擊能力、優秀運動天賦與高度發展潛力。\n\nWhy he stands out \/ 看點：\nHe is already part of the Padres’ starting outfield and one of the team’s most exciting young stars.\n他已經是教士先發外野的一員，也是球隊最受期待的年輕球星之一。",
+      "heightCentimeters" : 0,
+      "id" : "F328C883-C581-423C-9CC5-CAD9235F34C5",
+      "isFavorite" : false,
+      "name" : "Jackson Merrill",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "7BB46791-C765-4060-9B7F-17E0EB5A4E33",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1988,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAce starting pitcher with elite stuff, strikeout ability, and top-of-the-rotation presence.\n王牌先發投手，擁有頂尖球威、優秀三振能力，以及輪值前段的壓制力。\n\nWhy he stands out \/ 看點：\nHe remains one of the Rangers’ most important pitchers and a major difference-maker when healthy.\n只要健康出賽，他仍然是遊騎兵最重要的投手之一，也是足以改變比賽走向的關鍵戰力。",
+      "heightCentimeters" : 0,
+      "id" : "A2338A14-08D4-4E70-A43E-C9A961D2105D",
+      "isFavorite" : false,
+      "name" : "Jacob deGrom",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "D1ED9264-BE52-419C-AB67-0F43994956A0",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nReliable starting pitcher with size, durability, and rotation value.\n可靠的先發投手，具備身材條件、耐投性與輪值價值。\n\nWhy he stands out \/ 看點：\nHe is part of the Nationals’ projected 2026 rotation and one of the more important starters on the staff.\n他是國民隊 2026 預計輪值的一員，也是投手群中較重要的先發戰力之一。",
+      "heightCentimeters" : 0,
+      "id" : "2D215082-7FC1-488E-A14C-1EB719B32E2F",
+      "isFavorite" : false,
+      "name" : "Jake Irvin",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "9EB4B264-59F4-4F28-A742-622E5BF88346",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2002,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nYoung power-hitting outfielder with size, athleticism, and major star potential.\n年輕強打外野手，兼具身材條件、運動能力與高度明星潛力。\n\nWhy he stands out \/ 看點：\nHe is one of the Nationals’ most exciting young stars and a key part of the team’s future lineup.\n他是國民隊最受矚目的年輕球星之一，也是球隊未來打線的重要核心。",
+      "heightCentimeters" : 0,
+      "id" : "84C4A19C-5D9C-4EC1-8947-02F2D2FBD2F0",
+      "isFavorite" : false,
+      "name" : "James Wood",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "9EB4B264-59F4-4F28-A742-622E5BF88346",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -617,6 +1217,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 2002,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nYoung outfielder with power, athleticism, and major long-term upside.\n年輕外野手，具備長打能力、運動天賦與高度未來潛力。\n\nWhy he stands out \/ 看點：\nHe represents the Cardinals’ next generation and is one of their most exciting young talents.\n他代表紅雀隊的新世代戰力，也是最受期待的年輕球員之一。",
+      "heightCentimeters" : 0,
+      "id" : "FDA17A11-FB9D-40E4-A6BE-111F95443F83",
+      "isFavorite" : false,
+      "name" : "Jordan Walker",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "A5AB836B-5E92-4DF3-B129-FB99BEED6D9D",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1990,
       "birthplace" : "",
       "careerSummary" : "2017 AL MVP；多次 All-Star；太空人黃金時代代表人物。",
@@ -627,6 +1242,21 @@
       "number" : 0,
       "position" : "2B",
       "teamID" : "8BB65842-0BCF-4791-8360-54FCCA6A94EB",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "Profile: Starting third baseman with power potential and a key role in the infield.\nWhy he stands out: He remains one of the Rangers’ notable young core position players on the depth chart.",
+      "heightCentimeters" : 0,
+      "id" : "AB35ADD2-5F8E-4912-B234-26964667C1B8",
+      "isFavorite" : false,
+      "name" : "Josh Jung",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "D1ED9264-BE52-419C-AB67-0F43994956A0",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -664,6 +1294,21 @@
       "bats" : "",
       "birthYear" : 1998,
       "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nPower right-handed starter with strong stuff and front-of-the-rotation upside.\n力量型右投先發，具備優秀球威與輪值前段潛力。\n\nWhy he stands out \/ 看點：\nHe was named the Angels’ 2026 Opening Day starter, showing how important he is to the rotation.\n他被指定為天使隊 2026 年開幕戰先發，顯示他在先發輪值中的重要性。",
+      "heightCentimeters" : 0,
+      "id" : "040A18DB-35F6-432E-95AE-C35D9C2F6778",
+      "isFavorite" : false,
+      "name" : "José Soriano",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "F316BD14-CAB7-4242-AE19-14E10FC55D4B",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
       "careerSummary" : "Juan Soto is the Mets’ biggest offensive star. \nOfficial MLB coverage called him the team’s most important player for 2026, and the Mets’ projected lineup placed him near the top of the order as a middle-of-the-lineup force. \nHe is currently on the IL with a calf strain, but he remains a centerpiece player.",
       "heightCentimeters" : 0,
       "id" : "F8B65ADA-E028-4F62-82DC-67E20833C631",
@@ -672,6 +1317,36 @@
       "number" : 0,
       "position" : "LF",
       "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "Profile: The face of the Mariners, a dynamic all-around outfielder with power, speed, and strong star appeal.\nWhy he stands out: One of Seattle’s most recognizable superstars and a key centerpiece of the lineup.\n\n特色：球隊門面、全能型外野手、人氣高。\n看點：是水手目前最具代表性的超級球星之一，也是球隊打線核心。",
+      "heightCentimeters" : 0,
+      "id" : "D7AB2DF3-708A-42EC-A4AB-A144D345D4E0",
+      "isFavorite" : false,
+      "name" : "Julio Rodríguez",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "6A1CC17D-EF5C-43C0-A529-77932B643425",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nSkilled outfielder with contact ability, speed, and strong all-around athleticism.\n技術型外野手，具備優秀擊球能力、速度與全面運動能力。\n\nWhy he stands out \/ 看點：\nHe is one of the Giants’ most notable international stars and a key part of the outfield mix.\n他是巨人隊最受矚目的國際球星之一，也是外野陣容的重要成員。",
+      "heightCentimeters" : 0,
+      "id" : "E4FCF011-0445-44F1-BB97-36C12DB71C87",
+      "isFavorite" : false,
+      "name" : "Jung Hoo Lee 李政厚",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "F3BA12F7-58F9-443D-9AC8-28DD08D9E8C0",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -747,6 +1422,36 @@
       "number" : 0,
       "position" : "SP",
       "teamID" : "D1E7B342-F7BF-48AF-9CB4-52A732EB9698",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nElite defensive third baseman with athleticism and infield leadership.\n頂尖守備型三壘手，具備運動能力與內野領導價值。\n\nWhy he stands out \/ 看點：\nKnown as one of MLB’s best defensive third basemen.\n被公認為 MLB 最佳守備三壘手之一。",
+      "heightCentimeters" : 0,
+      "id" : "FD37F784-C2E5-4FF5-8BB0-EFC8160938D7",
+      "isFavorite" : false,
+      "name" : "Ke'Bryan Hayes",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "79B4786E-5E4E-4113-8DAA-06DB15A27493",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nStarting catcher with switch-hitting ability, steady defense, and everyday value.\n主戰捕手，具備左右開弓能力、穩定守備與日常先發價值。\n\nWhy he stands out \/ 看點：\nHe is one of the Nationals’ key lineup regulars and an important piece behind the plate.\n他是國民隊打線的重要固定成員之一，也是本壘後方的重要戰力。",
+      "heightCentimeters" : 0,
+      "id" : "52ADE4FE-DAAD-4AEE-8D60-A85E6AA0F1D2",
+      "isFavorite" : false,
+      "name" : "Keibert Ruiz",
+      "number" : 0,
+      "position" : "C",
+      "teamID" : "9EB4B264-59F4-4F28-A742-622E5BF88346",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -887,6 +1592,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nPower-hitting outfielder with run-producing ability and middle-of-the-order potential.\n具備長打火力的外野手，擁有帶動打點的能力與中軸打線潛力。\n\nWhy he stands out \/ 看點：\nHe was described by MLB as an All-Star outfielder and was set to make his 2026 season debut on April 19 after returning from the injured list.\nMLB 近期報導稱他為全明星外野手，並指出他將在 2026 年 4 月 19 日自傷兵名單歸隊、迎來本季初登場。",
+      "heightCentimeters" : 0,
+      "id" : "99529C62-F5EE-4F9E-8EB7-92F761FE93F0",
+      "isFavorite" : false,
+      "name" : "Kyle Stowers",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "0D4EC066-D4FD-4DE2-8986-4612D5ACDD8C",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2000,
       "birthplace" : "",
       "careerSummary" : "千葉羅德代表性的年輕外野手。NPB 官方列他為外野手、左投左打，生於 2000 年 5 月 6 日。",
@@ -897,6 +1617,51 @@
       "number" : 0,
       "position" : "OF",
       "teamID" : "D1E7B342-F7BF-48AF-9CB4-52A732EB9698",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "特色：先發王牌、身材條件佳、穩定輪值核心。\n看點：2026 年開幕戰先發由他擔任，代表他目前仍是水手最重要的先發投手之一。\n\nProfile: Ace starting pitcher with excellent size, durability, and a stable presence at the front of the rotation.\nWhy he stands out: Chosen as the 2026 Opening Day starter, showing he remains one of the Mariners’ most important pitchers.",
+      "heightCentimeters" : 0,
+      "id" : "6F2F1FC0-908D-4166-B827-E4A8F8E0759C",
+      "isFavorite" : false,
+      "name" : "Logan Gilbert",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "6A1CC17D-EF5C-43C0-A529-77932B643425",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nStarting catcher with power potential, steady defense, and strong long-term value.\n主戰捕手，具備長打潛力、穩定守備，以及長期發展價值。\n\nWhy he stands out \/ 看點：\nHe is one of the Angels’ key young position players and an important part of the lineup.\n他是天使隊重要的年輕野手之一，也是打線中的關鍵成員。",
+      "heightCentimeters" : 0,
+      "id" : "B6783D20-703B-4234-A66D-C484DA68E428",
+      "isFavorite" : false,
+      "name" : "Logan O'Hoppe",
+      "number" : 0,
+      "position" : "C",
+      "teamID" : "F316BD14-CAB7-4242-AE19-14E10FC55D4B",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1996,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAce starting pitcher with durability, strong command, and a steady presence at the front of the rotation.\n王牌先發投手，具備耐投性、穩定控球，以及輪值前段的領導地位。\n\nWhy he stands out \/ 看點：\nHe remains one of the Giants’ most important pitchers and a clear leader of the starting rotation.\n他仍然是巨人隊最重要的投手之一，也是先發輪值最具代表性的核心人物。",
+      "heightCentimeters" : 0,
+      "id" : "4881A9E6-B103-4DDF-A161-03F88E309920",
+      "isFavorite" : false,
+      "name" : "Logan Webb",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "F3BA12F7-58F9-443D-9AC8-28DD08D9E8C0",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -917,6 +1682,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1992,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nVeteran third baseman with power, experience, and elite infield presence.\n資深三壘手，兼具長打火力、豐富經驗與強大的內野存在感。\n\nWhy he stands out \/ 看點：\nHe remains a cornerstone player for San Diego and one of the team’s most important veteran leaders.\n他仍然是教士最重要的核心球員之一，也是球隊極具份量的資深領袖。",
+      "heightCentimeters" : 0,
+      "id" : "EE0536CB-FF51-452F-85A0-AC036E494632",
+      "isFavorite" : false,
+      "name" : "Manny Machado",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "7BB46791-C765-4060-9B7F-17E0EB5A4E33",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1998,
       "birthplace" : "",
       "careerSummary" : "以守備見長；曾獲中央聯盟金手套獎，2024 年還寫下 單一打席 22 球 的日職紀錄。",
@@ -932,6 +1712,66 @@
     },
     {
       "bats" : "",
+      "birthYear" : 2002,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nDynamic shortstop with speed, defense, and improving offensive skills.\n充滿活力的游擊手，具備速度、守備能力與持續成長的打擊技巧。\n\nWhy he stands out \/ 看點：\nHe is becoming an important everyday player and a future core infielder.\n他正逐漸成為每日先發的重要主力，也是未來內野核心。",
+      "heightCentimeters" : 0,
+      "id" : "43F353B6-E818-4A7A-8E07-79C75A68D6BC",
+      "isFavorite" : false,
+      "name" : "Masyn Winn",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "A5AB836B-5E92-4DF3-B129-FB99BEED6D9D",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nElite defensive third baseman with power hitting, experience, and strong infield value.\n頂尖守備型三壘手，兼具長打火力、比賽經驗與內野穩定性。\n\nWhy he stands out \/ 看點：\nHe is one of the Giants’ most recognizable infield stars and an important middle-of-the-order bat.\n他是巨人隊最具代表性的內野明星之一，也是打線中段的重要火力來源。",
+      "heightCentimeters" : 0,
+      "id" : "327ABA1E-4898-437E-ABC6-3056E6C1023F",
+      "isFavorite" : false,
+      "name" : "Matt Chapman",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "F3BA12F7-58F9-443D-9AC8-28DD08D9E8C0",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1999,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAthletic infielder with strong bat speed, versatility, and everyday lineup value.\n具運動能力的內野手，擁有優秀揮棒速度、多功能性與先發價值。\n\nWhy he stands out \/ 看點：\nHe is a key young core player and an important part of Cincinnati’s future lineup.\n他是紅人隊重要的年輕核心球員，也是未來打線的重要成員。",
+      "heightCentimeters" : 0,
+      "id" : "2B0B0ABB-DD73-492B-BE1B-B2718BFC2513",
+      "isFavorite" : false,
+      "name" : "Matt McLain",
+      "number" : 0,
+      "position" : "2B",
+      "teamID" : "7402087C-70B0-4189-BC4F-6F158C349257",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1994,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nPower-hitting first baseman with strong defense and middle-order presence.\n強打型一壘手，具備長打火力、穩定守備與中心打線價值。\n\nWhy he stands out \/ 看點：\nHe is one of Atlanta’s top run producers and a key source of home run power.\n他是勇士隊主要打點來源之一，也是全壘打火力的重要代表。",
+      "heightCentimeters" : 0,
+      "id" : "4DB50940-0E10-4843-B26F-0A50274A72A1",
+      "isFavorite" : false,
+      "name" : "Matt Olson",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "26BA3CE3-F33F-4D9F-B4E8-3E42C514D73A",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1994,
       "birthplace" : "",
       "careerSummary" : "Max Fried 是洋基目前最重要的先發左投之一。\n2026 年官方預測輪值把他排在最前段，而 MLB Top 100 team-by-team 同樣把他列為洋基核心球星。",
@@ -942,6 +1782,36 @@
       "number" : 0,
       "position" : "SP",
       "teamID" : "5572F0D0-A49B-46D4-955B-B77467A3480A",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1988,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nVeteran starting pitcher with experience, strong command, and a steady role in the rotation.\n資深先發投手，具備豐富經驗、穩定控球，以及可靠的輪值定位。\n\nWhy he stands out \/ 看點：\nHe has remained an important part of Arizona’s pitching staff and is one of the team’s trusted veteran arms.\n他一直是響尾蛇投手群的重要成員之一，也是球隊相當倚重的資深先發。",
+      "heightCentimeters" : 0,
+      "id" : "0237D661-45B5-4E38-ABE6-C7CBC5E3AF83",
+      "isFavorite" : false,
+      "name" : "Merrill Kelly",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "696FB62B-C58F-41C8-ABCD-5B026FF22814",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1991,
+      "birthplace" : "",
+      "careerSummary" : "Elite veteran outfielder with power, experience, and franchise-level star appeal.\n頂尖資深外野手，兼具長打火力、豐富經驗與球隊門面等級的明星魅力。\n\nWhy he stands out \/ 看點：\nHe remains the Angels’ most recognizable superstar and one of the most respected players in baseball.\n他仍然是天使隊最具代表性的超級球星，也是全聯盟最受尊敬的球員之一。",
+      "heightCentimeters" : 0,
+      "id" : "BC2F0A8A-7F8A-4DF4-A7B1-6C9893C94994",
+      "isFavorite" : false,
+      "name" : "Mike Trout",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "F316BD14-CAB7-4242-AE19-14E10FC55D4B",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -977,6 +1847,66 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1991,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nElite third baseman with Gold Glove defense, power hitting, and veteran leadership.\n頂尖三壘手，具備金手套級守備、長打火力與資深領導能力。\n\nWhy he stands out \/ 看點：\nHe remains one of the Cardinals’ most recognizable stars and a cornerstone of the infield.\n他仍然是紅雀隊最具代表性的明星之一，也是內野的重要核心。",
+      "heightCentimeters" : 0,
+      "id" : "DC7E6252-5DAD-4442-941B-7A1729365887",
+      "isFavorite" : false,
+      "name" : "Nolan Arenado",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "A5AB836B-5E92-4DF3-B129-FB99BEED6D9D",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nRare athlete with huge power, speed, and elite arm strength.\n罕見天賦型球員，兼具驚人長打、速度與超強臂力。\n\nWhy he stands out \/ 看點：\nOne of the Pirates’ most electric stars and a highlight-reel player.\n他是海盜最具爆發力的明星球員之一，也是精彩鏡頭製造機。",
+      "heightCentimeters" : 0,
+      "id" : "3C79B851-83BA-49B7-AE48-A353AD64E382",
+      "isFavorite" : false,
+      "name" : "Oneil Cruz",
+      "number" : 0,
+      "position" : "SS, OF",
+      "teamID" : "79B4786E-5E4E-4113-8DAA-06DB15A27493",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nSwitch-hitting infielder with speed, energy, and all-around offensive value.\n左右開弓內野手，具備速度、活力與全面進攻價值。\n\nWhy he stands out \/ 看點：\nHe brings balance, athleticism, and excitement to the Braves infield.\n他為勇士內野帶來平衡性、運動能力與比賽活力。",
+      "heightCentimeters" : 0,
+      "id" : "5D6DA600-B55F-468A-8499-F3BB9F75D728",
+      "isFavorite" : false,
+      "name" : "Ozzie Albies",
+      "number" : 0,
+      "position" : "2B",
+      "teamID" : "26BA3CE3-F33F-4D9F-B4E8-3E42C514D73A",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2002,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nPower ace pitcher with elite velocity, strikeout ability, and superstar potential.\n強力王牌投手，具備頂尖球速、三振能力與超級球星潛力。\n\nWhy he stands out \/ 看點：\nHe is one of the most exciting young pitchers in baseball and the future face of the Pirates.\n他是全聯盟最受矚目的年輕投手之一，也是海盜未來門面。",
+      "heightCentimeters" : 0,
+      "id" : "07EAFB20-73CB-4D1D-A9FC-8B316B971269",
+      "isFavorite" : false,
+      "name" : "Paul Skenes",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "79B4786E-5E4E-4113-8DAA-06DB15A27493",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1994,
       "birthplace" : "",
       "careerSummary" : "2026 年金鶯陣中最有名的重砲型一壘手之一，官方預測開季打線排第 3 棒。\nSpecial: 他的 MLB 官方頁面列出綽號是 Polar Bear，而且他本身就是聯盟知名長打者\n\nMiddle-of-the-order slugger and one of the Orioles’ biggest power threats.",
@@ -992,6 +1922,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nPower-hitting first baseman with experience and run-producing ability.\n強打型一壘手，具備經驗與優秀打點能力。\n\nWhy he stands out \/ 看點：\nHe adds veteran power and middle-order presence to the Brewers lineup.\n他為釀酒人打線帶來資深火力與中心棒次價值。",
+      "heightCentimeters" : 0,
+      "id" : "1369C339-4CBF-42CA-BDC6-41D7B1F43401",
+      "isFavorite" : false,
+      "name" : "Rhys Hoskins",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "435FA8ED-7433-401B-9406-E61E21676F44",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2000,
       "birthplace" : "",
       "careerSummary" : "One of the Tigers’ young star hitters. In 2025, he won his first AL Silver Slugger, made his second straight All-Star team, and hit 36 home runs with 111 RBIs.\n\n老虎隊年輕世代的重要強打者之一。他在 2025 年拿下生涯首座美聯 Silver Slugger，連續第二年入選明星賽，並繳出 36 支全壘打、111 分打點的成績。",
@@ -1002,6 +1947,21 @@
       "number" : 0,
       "position" : "LF",
       "teamID" : "5959640E-D6BD-4113-98B9-C523C1B8039E",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nExplosive superstar outfielder with elite power, speed, and game-changing athleticism.\n爆發力十足的超級明星外野手，兼具頂尖長打、速度與改變比賽的運動能力。\n\nWhy he stands out \/ 看點：\nHe is the face of the Braves and one of the most exciting stars in Major League Baseball.\n他是勇士隊門面人物，也是大聯盟最具觀賞性的球星之一。",
+      "heightCentimeters" : 0,
+      "id" : "D8A3BF08-B250-4E3E-BD5E-82FC61225C89",
+      "isFavorite" : false,
+      "name" : "Ronald Acuña Jr.",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "26BA3CE3-F33F-4D9F-B4E8-3E42C514D73A",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -1062,6 +2022,21 @@
       "number" : 0,
       "position" : "C",
       "teamID" : "C0BAD60B-9780-4935-A0D4-193467BFB42D",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1995,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAce starting pitcher with power stuff, durability, and front-of-the-rotation presence.\n王牌先發投手，擁有強勁球威、耐投性，以及輪值前段的壓制力。\n\nWhy he stands out \/ 看點：\nHe remains one of the Marlins’ most recognizable stars and a key leader of the pitching staff.\n他仍然是馬林魚最具代表性的球星之一，也是投手群的重要領袖。",
+      "heightCentimeters" : 0,
+      "id" : "76923C7D-6C5D-46E5-B73C-863608A63C57",
+      "isFavorite" : false,
+      "name" : "Sandy Alcantara",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "0D4EC066-D4FD-4DE2-8986-4612D5ACDD8C",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -1129,11 +2104,11 @@
       "bats" : "L",
       "birthYear" : 1994,
       "birthplace" : "Oshu, Iwate, Japan",
-      "careerSummary" : "Two-way superstar who moved from NPB to MLB and became one of baseball's defining international talents.",
+      "careerSummary" : "Two-way superstar who moved from NPB to MLB and became one of baseball's defining international talents.\n\nProfile \/ 特色：\nGlobal superstar with elite power, speed, and two-way talent.\n世界級超級球星，兼具頂尖長打、速度與二刀流天賦。\n\nWhy he stands out \/ 看點：\nHe is one of baseball’s biggest stars and the face of the Dodgers’ modern era.\n他是當今棒球界最具代表性的巨星之一，也是道奇新時代門面人物。",
       "heightCentimeters" : 193,
       "id" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
       "isFavorite" : true,
-      "name" : "Shohei Ohtani",
+      "name" : "Shohei Ohtani 大谷翔平",
       "number" : 17,
       "position" : "SP, DH",
       "teamID" : "F5F4EFE5-5622-47E6-AAB3-3D055EE414C1",
@@ -1217,6 +2192,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1989,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nExperienced ace starter with command, strikeout ability, and rotation leadership.\n經驗豐富的王牌先發，具備控球能力、三振能力與輪值領導地位。\n\nWhy he stands out \/ 看點：\nHe is one of the Cardinals’ most important pitchers and a leader of the starting staff.\n他是紅雀隊最重要的投手之一，也是先發輪值領袖。",
+      "heightCentimeters" : 0,
+      "id" : "CF0C4111-5E3E-4A04-9592-9CA3FC8A58F1",
+      "isFavorite" : false,
+      "name" : "Sonny Gray",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "A5AB836B-5E92-4DF3-B129-FB99BEED6D9D",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1993,
       "birthplace" : "",
       "careerSummary" : "1993 年出生、內野手、右投左打；\n NPB 2026 團隊打擊頁顯示他在 4 月 11 日時打擊率為 .270。",
@@ -1227,6 +2217,21 @@
       "number" : 0,
       "position" : "SS",
       "teamID" : "A19352C3-4046-4CDC-A3CB-EEEB4953A0EB",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nVersatile hitter with power, consistency, and multiple-position value.\n多功能打者，具備長打能力、穩定表現與多守位價值。\n\nWhy he stands out \/ 看點：\nHe gives the Reds lineup flexibility and dependable production.\n他為紅人隊打線帶來彈性與穩定火力輸出。",
+      "heightCentimeters" : 0,
+      "id" : "81A795C3-6A48-41D5-AA72-4AE15FF3FC84",
+      "isFavorite" : false,
+      "name" : "Spencer Steer",
+      "number" : 0,
+      "position" : "CF, OF",
+      "teamID" : "7402087C-70B0-4189-BC4F-6F158C349257",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -1337,6 +2342,81 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAll-around catcher with power, strong arm, and offensive consistency.\n全方位捕手，具備長打能力、優秀傳球能力與穩定打擊表現。\n\nWhy he stands out \/ 看點：\nHe is one of the best catchers in baseball and an important middle-order bat.\n他是大聯盟頂尖捕手之一，也是球隊中心打線的重要火力來源。",
+      "heightCentimeters" : 0,
+      "id" : "4CCFE324-043F-4B5E-8A52-7C91E1590CD2",
+      "isFavorite" : false,
+      "name" : "William Contreras",
+      "number" : 0,
+      "position" : "C",
+      "teamID" : "435FA8ED-7433-401B-9406-E61E21676F44",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1992,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nPowerful veteran hitter with strong energy, versatility, and middle-of-the-order value.\n強打型資深球員，具備活力、多功能性與中心打線價值。\n\nWhy he stands out \/ 看點：\nHe is one of the Cardinals’ key run producers and an important veteran presence.\n他是紅雀隊重要的得分製造者之一，也是球隊重要的資深戰力。",
+      "heightCentimeters" : 0,
+      "id" : "0B30885C-5439-43BC-BB7D-BF19B100B211",
+      "isFavorite" : false,
+      "name" : "Willson Contreras",
+      "number" : 0,
+      "position" : "C, 1B",
+      "teamID" : "A5AB836B-5E92-4DF3-B129-FB99BEED6D9D",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2001,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nYoung outfielder with power, athleticism, and major upside.\n年輕外野手，兼具長打能力、運動天賦與高度發展潛力。\n\nWhy he stands out \/ 看點：\nA key part of the Rangers’ next generation and an important bat in the lineup.\n他是遊騎兵新世代的重要成員，也是打線中值得關注的主力打者。",
+      "heightCentimeters" : 0,
+      "id" : "D10238CD-9C15-41FA-ACA0-625938D33943",
+      "isFavorite" : false,
+      "name" : "Wyatt Langford",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "D1ED9264-BE52-419C-AB67-0F43994956A0",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1992,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nExperienced shortstop with strong bat control, steady defense, and everyday value.\n經驗豐富的游擊手，具備優秀擊球能力、穩定守備與每日先發價值。\n\nWhy he stands out \/ 看點：\nHe is a key everyday infielder and an important part of the Padres’ veteran core.\n他是教士重要的日常先發內野手，也是球隊資深核心的一部分。",
+      "heightCentimeters" : 0,
+      "id" : "C390F8F4-80DA-4F10-A7E6-81DF365DF043",
+      "isFavorite" : false,
+      "name" : "Xander Bogaerts",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "7BB46791-C765-4060-9B7F-17E0EB5A4E33",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1999,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nSwitch-hitting infielder with speed, contact ability, and everyday value.\n左右開弓的內野手，具備速度、擊球能力與每日先發價值。\n\nWhy he stands out \/ 看點：\nHe is part of Miami’s regular infield mix and one of the team’s notable young position players.\n他是邁阿密固定內野陣容的一部分，也是球隊值得關注的年輕野手之一。",
+      "heightCentimeters" : 0,
+      "id" : "3DED3C0B-CDF6-40D4-8C15-66018BBC2657",
+      "isFavorite" : false,
+      "name" : "Xavier Edwards",
+      "number" : 0,
+      "position" : "2B",
+      "teamID" : "0D4EC066-D4FD-4DE2-8986-4612D5ACDD8C",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1991,
       "birthplace" : "",
       "careerSummary" : "Veteran middle-of-the-order hitter and former AL batting champion.",
@@ -1362,6 +2442,21 @@
       "number" : 0,
       "position" : "OF, DH",
       "teamID" : "8BB65842-0BCF-4791-8360-54FCCA6A94EB",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAce-level pitcher with command, movement, and strikeout ability.\n王牌級先發投手，具備精準控球、球路變化與三振能力。\n\nWhy he stands out \/ 看點：\nA major international star and an important part of the Dodgers rotation.\n國際級明星投手，也是道奇先發輪值的重要核心。",
+      "heightCentimeters" : 0,
+      "id" : "86BCC2B9-C309-45A5-89D2-C023C87E1FB9",
+      "isFavorite" : false,
+      "name" : "Yoshinobu Yamamoto 山本由伸",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "F5F4EFE5-5622-47E6-AAB3-3D055EE414C1",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -1397,6 +2492,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 2001,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAthletic shortstop with strong infield defense, energy, and everyday lineup value.\n具備運動能力的游擊手，擁有穩定內野守備、活力與日常先發價值。\n\nWhy he stands out \/ 看點：\nHe is one of the Angels’ important young core players and a key everyday infielder.\n他是天使隊重要的年輕核心之一，也是內野的重要先發主力。",
+      "heightCentimeters" : 0,
+      "id" : "45159566-A8E1-47FC-B32C-0EE0C690A0F5",
+      "isFavorite" : false,
+      "name" : "Zach Neto",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "F316BD14-CAB7-4242-AE19-14E10FC55D4B",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1990,
       "birthplace" : "",
       "careerSummary" : "Wheeler 是費城人最重要的先發投手之一。40 人名單顯示他出生於 1990 年 5 月 30 日；\n官方交易紀錄顯示他在 2026 年 3 月因右肩手術進入傷兵名單，之後又在 3 月 28 日被送往復健賽，另外開季名單新聞也提到他可能在 4 月重返輪值。\n雖然季初不在正常輪值裡，但如果做球隊頁面，他仍很適合放在 Ace-level Pitcher 類別，因為官方仍把他視為回歸後的重要輪值戰力。",
@@ -1407,6 +2517,21 @@
       "number" : 0,
       "position" : "SP",
       "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nYoung corner infielder with power potential and strong future upside.\n年輕內野主力，具備長打潛力與高度成長空間。\n\nWhy he stands out \/ 看點：\nHe represents the next generation of Dragons hitters and an important infield core player.\n他代表味全龍新世代打者，也是重要內野核心。",
+      "heightCentimeters" : 0,
+      "id" : "A7037875-E19B-44DA-94ED-BF17C0F54554",
+      "isFavorite" : false,
+      "name" : "劉基鴻（Liu Ji-Hong）",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "41F0BD47-924D-4EBE-A9F2-FF028A0DCE34",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -1427,6 +2552,51 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1994,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nPower hitter with strong run-producing ability and middle-of-the-order presence.\n重砲型打者，具備優秀長打火力與中心打線價值。\n\nWhy he stands out \/ 看點：\nHe is one of the Dragons’ biggest offensive stars and a key lineup centerpiece.\n他是味全龍最具代表性的打擊球星之一，也是打線核心。",
+      "heightCentimeters" : 0,
+      "id" : "21A82ED5-99A9-46FA-9B3B-C76E28FA038B",
+      "isFavorite" : false,
+      "name" : "吉力吉撈．鞏冠（Giljegiljaw Kungkuan）",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "41F0BD47-924D-4EBE-A9F2-FF028A0DCE34",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nVersatile player with solid hitting skills, defensive flexibility, and overseas experience.\n全方位球員，具備穩定打擊能力、多守位價值與旅日經驗。\n\nWhy he stands out \/ 看點：\nHe brings veteran leadership and valuable experience to the Hawks roster.\n他為台鋼雄鷹帶來資深領導力與寶貴經驗。",
+      "heightCentimeters" : 0,
+      "id" : "0DFDDB16-D042-4B31-8FB1-B83FFA1DD1CF",
+      "isFavorite" : false,
+      "name" : "吳念庭（Wu Nien-Ting）",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "348F3B00-2965-47F8-88D3-7BFB5B215ACD",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2001,
+      "birthplace" : "",
+      "careerSummary" : "特色：高人氣年輕投手、先發潛力高。\n看點：曾是日本高中明星投手，受到許多球迷關注。",
+      "heightCentimeters" : 0,
+      "id" : "33CEB7A7-5284-4539-8C87-3EDC6D06B231",
+      "isFavorite" : false,
+      "name" : "奥川恭伸（Yasunobu Okugawa）",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "BCDAE722-6911-4074-A501-F5DCBB75C9B4",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2005,
       "birthplace" : "",
       "careerSummary" : "孫易磊是近年很受期待的台灣年輕投手。火腿在 2023 年與他簽下育成合約，球團當時就形容他是「台灣的寶物」；之後在 2025 年升格為支配下選手，代表他已正式進入日職一軍體系的重要名單。\n\nSpecial \/ 貢獻特色：\n\n2023 年加盟火腿時為育成合約，2025 年升格 支配下選手，背號改為 96。\n2026 年 4 月 5 日在日職二軍先發 5 局無失分、5 次三振、最快 153 公里，拿下本季二軍首勝。",
@@ -1437,6 +2607,66 @@
       "number" : 0,
       "position" : "RP",
       "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1992,
+      "birthplace" : "",
+      "careerSummary" : "特色\n台灣旅日代表投手之一\n控球穩定，具豐富後援經驗\n能擔任中繼、布局、終結者角色\n長期在日本職棒一軍出賽，穩定度高\n看點\n\n宋家豪是近年台灣球迷熟悉的旅外投手之一，\n長年效力東北樂天金鷲，在日本職棒累積許多出賽經驗。\n對台灣球迷來說，他是追蹤 NPB 很重要的代表人物。",
+      "heightCentimeters" : 0,
+      "id" : "7097D399-A6C1-4280-B810-E5AF551F33CE",
+      "isFavorite" : false,
+      "name" : "宋家豪 Sung Chia-Hao",
+      "number" : 0,
+      "position" : "RP",
+      "teamID" : "8F72EB30-9D0E-4023-BF82-74DB4B2338A3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2001,
+      "birthplace" : "",
+      "careerSummary" : "特色：左投王牌、控球穩定、話題性高。\n看點：歐力士近年的代表性先發投手之一，也是球隊最具辨識度的明星球員之一。",
+      "heightCentimeters" : 0,
+      "id" : "BB8C70A5-DEBD-4276-870F-2E02C998D9BA",
+      "isFavorite" : false,
+      "name" : "宮城大弥（Hiroya Miyagi）",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "A948FE3D-56E1-4B9C-B856-0DE63BAB96B8",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1992,
+      "birthplace" : "",
+      "careerSummary" : "特色：經驗豐富、攻守全能、球隊精神領袖。\n看點：多年來都是燕子隊招牌球員，知名度高，具明星地位。",
+      "heightCentimeters" : 0,
+      "id" : "277A390F-EDAB-40DD-BBC2-C4254082BA83",
+      "isFavorite" : false,
+      "name" : "山田哲人（Tetsuto Yamada）",
+      "number" : 0,
+      "position" : "2B",
+      "teamID" : "BCDAE722-6911-4074-A501-F5DCBB75C9B4",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2002,
+      "birthplace" : "",
+      "careerSummary" : "特色：年輕主力、速度與守備兼具、未來性高。\n看點：屬於中日龍年輕世代最有代表性的球員之一，辨識度很高。",
+      "heightCentimeters" : 0,
+      "id" : "74C861ED-DCFE-4666-81B6-1BD69F3DAE52",
+      "isFavorite" : false,
+      "name" : "岡林勇希（Yuki Okabayashi）",
+      "number" : 0,
+      "position" : "CF",
+      "teamID" : "70EDFBB1-A743-4B82-9533-DD27714E98D0",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -1472,6 +2702,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nYoung infielder with athleticism, speed, and strong future potential.\n年輕內野手，具備運動能力、速度與高度發展潛力。\n\nWhy he stands out \/ 看點：\nHe represents the next generation of the Hawks and is one of the team’s key young players.\n他代表台鋼雄鷹的新世代戰力，也是球隊重要年輕主力之一。",
+      "heightCentimeters" : 0,
+      "id" : "774AC383-6BAA-401B-96C2-DD72C2FE475F",
+      "isFavorite" : false,
+      "name" : "曾子祐（Tseng Tzu-Yu）",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "348F3B00-2965-47F8-88D3-7BFB5B215ACD",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2001,
       "birthplace" : "",
       "careerSummary" : "身高／體重： 174 公分／68 公斤\n中職初出場： 2021\/03\/14\n選秀： 富邦悍將 2020 年第七輪。\n\n曾峻岳是富邦悍將的重要後援投手。以 CPBL 官方資料看，他很早就進入一軍，是富邦牛棚的重要戰力。\n\nCPBL 官方在 2021 年新人獎相關報導中指出，他新人年就被賦予守護神重任，單季 57 場出賽、4 勝、13 中繼、12 救援、防禦率 1.80，並名列最佳新人獎候選。到了 2026 年球季初，CPBL 單項排行榜也顯示他已列在救援成功榜前列。",
@@ -1487,6 +2732,21 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1996,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nReliable infielder with contact ability, versatility, and steady defense.\n穩定型內野手，具備擊球能力、多守位價值與穩定守備。\n\nWhy he stands out \/ 看點：\nHe is one of the Dragons’ most dependable everyday players.\n他是味全龍最穩定的日常先發球員之一。",
+      "heightCentimeters" : 0,
+      "id" : "AEB495C3-9C1E-44C3-9259-99A061C74891",
+      "isFavorite" : false,
+      "name" : "李凱威（Li Kai-Wei）",
+      "number" : 0,
+      "position" : "2B, SS",
+      "teamID" : "41F0BD47-924D-4EBE-A9F2-FF028A0DCE34",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1986,
       "birthplace" : "",
       "careerSummary" : "球風特色\n後援經驗豐富：長年擔任牛棚重要角色，具備高壓局面經驗。\n速球搭配變化球：能以球威與配球壓制打者。\n控場能力佳：面對危機局面時具備穩定度。\n老將價值高：經驗與心理素質對年輕投手群有幫助。\n代表成就\n曾旅美發展，具國際經驗\n中華職棒知名後援投手之一\n中信兄弟牛棚核心戰力\n多次在關鍵比賽登板",
@@ -1497,6 +2757,21 @@
       "number" : 0,
       "position" : "RP",
       "teamID" : "B6AF7543-B9BB-4E26-95B6-940FF3DAED5E",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2000,
+      "birthplace" : "",
+      "careerSummary" : "特色：長打火力驚人、中心打者、全日本知名球星。\n看點：養樂多近年最具代表性的超級球星之一，也是日本職棒人氣球員。\n已加入 MLB 白襪隊",
+      "heightCentimeters" : 0,
+      "id" : "BAA986B8-E73C-4A23-9084-7BFD14408A32",
+      "isFavorite" : false,
+      "name" : "村上宗隆（Munetaka Murakami）",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "BCDAE722-6911-4074-A501-F5DCBB75C9B4",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -1532,6 +2807,51 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1996,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nVersatile infielder with strong hitting ability, experience, and middle-of-the-lineup value.\n全方位內野手，具備穩定打擊能力、比賽經驗，以及打線中段價值。\n\nWhy he stands out \/ 看點：\nHe remains one of the Monkeys’ best-known core hitters and is still listed on the official first-team player page.\n他仍然是樂天桃猿最知名的核心打者之一，也持續出現在球團官方一軍點將錄。",
+      "heightCentimeters" : 0,
+      "id" : "1CC7562E-C918-4171-81F5-D8E3B57610D6",
+      "isFavorite" : false,
+      "name" : "林立（Lin Li）",
+      "number" : 0,
+      "position" : "RF",
+      "teamID" : "73D41CD7-5357-41E7-9E7B-4205DDE510B1",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nCorner infielder with power potential, leadership, and everyday lineup value.\n角落內野手，具備長打潛力、領導氣質與先發打線價值。\n\nWhy he stands out \/ 看點：\nHe was officially named the team captain for the 2026 season, showing his importance in both leadership and on-field presence.\n他在 2026 球季被球團正式宣布為隊長，顯示他在場上與團隊凝聚力方面都很重要。",
+      "heightCentimeters" : 0,
+      "id" : "FD0063DF-D6B8-40FB-B84C-EE48390248CE",
+      "isFavorite" : false,
+      "name" : "梁家榮（Liang Chia-Jung）",
+      "number" : 0,
+      "position" : "3B",
+      "teamID" : "73D41CD7-5357-41E7-9E7B-4205DDE510B1",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1995,
+      "birthplace" : "",
+      "careerSummary" : "特色：攻擊能力強、經驗豐富、具中心打線價值。\n看點：兼具打擊與知名度，是歐力士野手群中最受關注的主力之一。",
+      "heightCentimeters" : 0,
+      "id" : "17DB9761-0B82-459F-B5E7-CA2D50DCE04F",
+      "isFavorite" : false,
+      "name" : "森友哉（Tomoya Mori）",
+      "number" : 0,
+      "position" : "C",
+      "teamID" : "A948FE3D-56E1-4B9C-B856-0DE63BAB96B8",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 2000,
       "birthplace" : "",
       "careerSummary" : "球風特色\n守備範圍大：反應快、傳球穩定，是聯盟頂級游擊手之一。\n內野指揮官：守備判斷成熟，雙殺配合能力佳。\n穩定打擊：具備觸擊、推進與關鍵安打能力。\n年輕核心球員：中信兄弟未來長期主力。\n代表成就\n多次入選明星賽\n聯盟金手套級游擊手\n中信兄弟重要先發內野手\n台灣國家隊等級潛力球員",
@@ -1542,6 +2862,36 @@
       "number" : 0,
       "position" : "SS",
       "teamID" : "B6AF7543-B9BB-4E26-95B6-940FF3DAED5E",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nExperienced pitcher with rotation value and steady mound presence.\n具經驗的投手，擁有輪值價值與穩定投球表現。\n\nWhy he stands out \/ 看點：\nHe provides important veteran depth to the Hawks pitching staff.\n他為台鋼雄鷹投手群提供重要的資深戰力。",
+      "heightCentimeters" : 0,
+      "id" : "F1F4897C-5FF1-4801-8CC4-0C13EC6CEB8E",
+      "isFavorite" : false,
+      "name" : "江承諺（Chiang Cheng-Yen）",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "348F3B00-2965-47F8-88D3-7BFB5B215ACD",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1990,
+      "birthplace" : "",
+      "careerSummary" : "特色：長打能力、經驗豐富、中軸打者。\n看點：日本職棒知名重砲型內野手，球隊領袖人物之一。",
+      "heightCentimeters" : 0,
+      "id" : "C6C35122-70E8-47BB-A6C5-9FEF84646F42",
+      "isFavorite" : false,
+      "name" : "浅村栄斗 (Hideto Asamura)",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "8F72EB30-9D0E-4023-BF82-74DB4B2338A3",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -1572,6 +2922,51 @@
       "number" : 0,
       "position" : "3B",
       "teamID" : "B6AF7543-B9BB-4E26-95B6-940FF3DAED5E",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1993,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nVeteran star hitter with strong contact ability, power, and rich international experience.\n資深明星打者，具備優秀擊球能力、長打火力與豐富旅外經驗。\n\nWhy he stands out \/ 看點：\nHe is the most recognizable star of the Hawks and a major centerpiece of the lineup.\n他是台鋼雄鷹最具代表性的球星，也是打線核心人物。",
+      "heightCentimeters" : 0,
+      "id" : "19CEE014-D8CF-4B94-8AD9-DFDAD8BA5C64",
+      "isFavorite" : false,
+      "name" : "王柏融（Wang Po-Jung）",
+      "number" : 0,
+      "position" : "OF, DH",
+      "teamID" : "348F3B00-2965-47F8-88D3-7BFB5B215ACD",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2002,
+      "birthplace" : "",
+      "careerSummary" : "特色：年輕主力內野手、攻守兼備、未來性高。\n看點：是歐力士年輕世代代表球員之一，也常被列在官方主力商品名單中。",
+      "heightCentimeters" : 0,
+      "id" : "B46EA3F4-EDAB-407F-BBEC-BC873E6ECDBB",
+      "isFavorite" : false,
+      "name" : "紅林弘太郎（Kotaro Kurebayashi）",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "A948FE3D-56E1-4B9C-B856-0DE63BAB96B8",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "特色：長打火力、中軸打者、球隊代表性重砲。\n看點：是中日近年最受關注的主力打者之一，很適合放在 App 的球星欄。",
+      "heightCentimeters" : 0,
+      "id" : "F1540CBE-8B1A-4232-B452-9CBFAA1CFE6E",
+      "isFavorite" : false,
+      "name" : "細川成也（Seiya Hosokawa）",
+      "number" : 0,
+      "position" : "LF",
+      "teamID" : "70EDFBB1-A743-4B82-9533-DD27714E98D0",
       "throwsValue" : "",
       "weightKilograms" : 0
     },
@@ -1637,6 +3032,51 @@
     },
     {
       "bats" : "",
+      "birthYear" : 1996,
+      "birthplace" : "",
+      "careerSummary" : "特色：守備範圍大、速度快、人氣高。\n看點：目前樂天代表性外野球星之一，攻守兼備，常是球迷焦點。",
+      "heightCentimeters" : 0,
+      "id" : "27596160-9613-4D53-9482-226136AFE215",
+      "isFavorite" : false,
+      "name" : "辰己涼介 (Ryosuke Tatsumi)",
+      "number" : 0,
+      "position" : "CF",
+      "teamID" : "8F72EB30-9D0E-4023-BF82-74DB4B2338A3",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1997,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAthletic outfielder with speed, defense, and leadoff value.\n具運動能力的外野手，兼具速度、防守與開路先鋒價值。\n\nWhy he stands out \/ 看點：\nHe is a fan-favorite outfielder and an important part of the Dragons lineup.\n他是味全龍人氣外野手，也是球隊重要戰力。",
+      "heightCentimeters" : 0,
+      "id" : "D93F7B9E-4AE7-4F7F-B9EB-B7342DD487A9",
+      "isFavorite" : false,
+      "name" : "郭天信（Kuo Tien-Hsin）",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "41F0BD47-924D-4EBE-A9F2-FF028A0DCE34",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2001,
+      "birthplace" : "",
+      "careerSummary" : "特色：年輕主力內野手、防守穩定、成長性高。\n看點：代表燕子隊新世代戰力，是未來核心之一。",
+      "heightCentimeters" : 0,
+      "id" : "FE054AA2-774A-4AFF-A37E-92EE982B8B44",
+      "isFavorite" : false,
+      "name" : "長岡秀樹（Hideki Nagaoka）",
+      "number" : 0,
+      "position" : "SS",
+      "teamID" : "BCDAE722-6911-4074-A501-F5DCBB75C9B4",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
       "birthYear" : 1988,
       "birthplace" : "",
       "careerSummary" : "球風特色\n成熟強打者：具備穩定長打與打點能力。\n選球經驗豐富：打席內容成熟，能與投手周旋。\n中心打線型球員：適合擔任清壘與關鍵棒次。\n老將價值高：經驗與穩定度對球隊很重要。\n代表成就\n多次入選明星賽\n曾獲最佳九人等個人獎項\n中華職棒代表性強打者之一\n多年維持高水準打擊表現",
@@ -1664,6 +3104,81 @@
       "teamID" : "F9041EE5-473A-4737-9E11-605C09CDFA38",
       "throwsValue" : "L",
       "weightKilograms" : 78
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1990,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nVeteran left-handed pitcher with experience, composure, and value in the pitching staff.\n資深左投，具備豐富經驗、比賽穩定度，以及投手群中的重要價值。\n\nWhy he stands out \/ 看點：\nHe was named one of the team’s vice captains for 2026, highlighting his veteran leadership role.\n他在 2026 球季被正式宣布為副隊長之一，代表他不只是投手戰力，也有明顯的資深領導角色。",
+      "heightCentimeters" : 0,
+      "id" : "B740A5B9-80C9-4BA4-B977-9CAF84632BAA",
+      "isFavorite" : false,
+      "name" : "陳冠宇（Chen Kuan-Yu）",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "73D41CD7-5357-41E7-9E7B-4205DDE510B1",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1994,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nAthletic outfielder with speed, defense, and lineup flexibility.\n具運動能力的外野手，兼具速度、防守與打線彈性。\n\nWhy he stands out \/ 看點：\nHe is an important everyday contributor for the Hawks.\n他是台鋼雄鷹重要的日常先發戰力之一。",
+      "heightCentimeters" : 0,
+      "id" : "7E9CC014-95A5-42B0-903F-175408BDC053",
+      "isFavorite" : false,
+      "name" : "陳文杰（Chen Wen-Chieh）",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "348F3B00-2965-47F8-88D3-7BFB5B215ACD",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1998,
+      "birthplace" : "",
+      "careerSummary" : "Profile \/ 特色：\nSpeedy outfielder with strong contact ability, base-running value, and top-of-the-order presence.\n速度型外野手，具備不錯的擊球能力、跑壘價值，以及前段棒次的重要性。\n\nWhy he stands out \/ 看點：\nHe is one of the Monkeys’ most recognizable stars and has recently led the team in batting average and stolen bases on the club site.\n他是樂天桃猿最具代表性的球星之一，而且在球團官網近期打者排行中名列打擊率與盜壘前段。",
+      "heightCentimeters" : 0,
+      "id" : "0BFB10D3-0BAD-4BAF-9359-DB3260378C6D",
+      "isFavorite" : false,
+      "name" : "陳晨威（Chen Chen-Wei）",
+      "number" : 0,
+      "position" : "OF",
+      "teamID" : "73D41CD7-5357-41E7-9E7B-4205DDE510B1",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 1996,
+      "birthplace" : "",
+      "careerSummary" : "特色：長打能力佳、打線中軸型球員。\n看點：官方春訓報導特別提到他的長打表現，在主力打者中存在感很高。",
+      "heightCentimeters" : 0,
+      "id" : "A8E9BC5A-63D4-44C0-AA4F-175D535AF5C7",
+      "isFavorite" : false,
+      "name" : "頓宮裕真（Yuma Tongu）",
+      "number" : 0,
+      "position" : "1B",
+      "teamID" : "A948FE3D-56E1-4B9C-B856-0DE63BAB96B8",
+      "throwsValue" : "",
+      "weightKilograms" : 0
+    },
+    {
+      "bats" : "",
+      "birthYear" : 2002,
+      "birthplace" : "",
+      "careerSummary" : "特色：本土王牌候選、先發投手、壓制力強。\n看點：是中日目前最受矚目的先發投手之一，也很適合當球隊代表人物。",
+      "heightCentimeters" : 0,
+      "id" : "99BC460A-0C7D-4CA8-871C-938F1CEBA696",
+      "isFavorite" : false,
+      "name" : "髙橋宏斗（Hiroto Takahashi）",
+      "number" : 0,
+      "position" : "SP",
+      "teamID" : "70EDFBB1-A743-4B82-9533-DD27714E98D0",
+      "throwsValue" : "",
+      "weightKilograms" : 0
     }
   ],
   "stadiums" : [
@@ -3006,7 +4521,8 @@
       "id" : "A948FE3D-56E1-4B9C-B856-0DE63BAB96B8",
       "leagueID" : "84CD61F9-A5EE-455D-AAA5-B86A3FEFE99C",
       "name" : "Orix Buffaloes 歐力士猛牛",
-      "websiteURLString" : ""
+      "ticketURLString" : "https:\/\/www.buffaloes.co.jp\/ticket\/",
+      "websiteURLString" : "https:\/\/www.buffaloes.co.jp\/"
     },
     {
       "city" : "Philadelphia",
@@ -3125,7 +4641,8 @@
       "id" : "8F72EB30-9D0E-4023-BF82-74DB4B2338A3",
       "leagueID" : "84CD61F9-A5EE-455D-AAA5-B86A3FEFE99C",
       "name" : "Tohoku Rakuten Golden Eagles 東北樂天金鷲",
-      "websiteURLString" : ""
+      "ticketURLString" : "https:\/\/www.rakuteneagles.jp\/ticket\/",
+      "websiteURLString" : "https:\/\/pacificleague.com\/zh-CHT\/team\/eagles"
     },
     {
       "city" : "Tokyo",
@@ -3306,6 +4823,34 @@
       "urlString" : "https:\/\/youtu.be\/NiU75wzivF4?si=TpkD9OS0wHMfElvi"
     },
     {
+      "id" : "9F45B921-15AA-4F3C-B529-B5AB20F11501",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "9A786A07-A9E4-49C5-BC0A-F023EF3F4496",
+      "title" : "0929 初訪桃園客場 Vlog｜台鋼雄鷹V.S.樂天桃猿｜樂天桃園棒球場｜外野視角｜baseball ｜CPBL｜ TSG HAWKS｜Rakuten Monkeys ｜ Ruby與Rou",
+      "urlString" : "https:\/\/youtu.be\/BNUvoTGZqao?si=sgGx8Kr3JAZc3uu0"
+    },
+    {
+      "id" : "DDA776F3-0380-4560-925C-6EB9109D388E",
+      "kind" : "Game",
+      "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
+      "title" : "10 Ks for SHOHEI! Shohei Ohtani strikes out 10 batters during a STELLAR start! 🤩 | 大谷翔平",
+      "urlString" : "https:\/\/youtu.be\/KjgD_HAkTiQ?si=i7zTOUqxqF7AwHT7"
+    },
+    {
+      "id" : "3B29E203-118A-441C-B2F8-AE9822169B6F",
+      "kind" : "Game",
+      "playerID" : "3C79B851-83BA-49B7-AE48-A353AD64E382",
+      "title" : "119 MPH off the bat 😳 The hardest-hit ball of 2026 belongs to Oneil Cruz (so far)! | MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/UrnmLwXpiD8?si=J56Upz18XPMYt9Kq"
+    },
+    {
+      "id" : "B8F81509-FA0E-4589-87E8-84E4651B78D3",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "B740A5B9-80C9-4BA4-B977-9CAF84632BAA",
+      "title" : "12強三屆元老陳冠宇 台灣最強拆彈專家\/愛爾達電視20241031",
+      "urlString" : "https:\/\/youtu.be\/sOR-c6yLIDU?si=3LWljNiR4Iygm5EC"
+    },
+    {
       "id" : "387FD841-1B2F-4C16-A485-0C7814C8CE06",
       "kind" : "Wiki \/ Reference",
       "playerID" : "A1C73CCE-A454-464F-85ED-43C4CA60BE6E",
@@ -3327,11 +4872,53 @@
       "urlString" : "https:\/\/www.youtube.com\/live\/ZzyhS9q5RtM?si=i3LS5u_-Z-_cXyXw"
     },
     {
+      "id" : "8CE02B01-651A-466E-B4C2-75568920594D",
+      "kind" : "Game",
+      "playerID" : "277A390F-EDAB-40DD-BBC2-C4254082BA83",
+      "title" : "2017經典賽複賽 日本 VS.古巴 山田哲人陽春全壘打",
+      "urlString" : "https:\/\/youtu.be\/4j3Gb0jf_2k?si=cN4kxXCr6KZ3QoEU"
+    },
+    {
       "id" : "AE18EEE5-FDC5-4552-9696-737ECAD10B4E",
       "kind" : "Wiki \/ Reference",
       "playerID" : "060AF9F4-846C-4DF8-8DBB-76492429E6C2",
       "title" : "2021\/5\/7 洲際 中信兄弟 李振昌出場曲 小李飛刀 守護神 C.C.LEE",
       "urlString" : "https:\/\/youtu.be\/tYWivuHdBR8?si=AHeKK5Ep20NAaHRW"
+    },
+    {
+      "id" : "715EDB2E-69E4-4DFC-A95E-B36BF89ECB04",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "A7037875-E19B-44DA-94ED-BF17C0F54554",
+      "title" : "2021味全龍應援曲教學X劉基鴻#46",
+      "urlString" : "https:\/\/youtu.be\/w_c1mGkFd1s?si=spSqYBXNNUwMImSX"
+    },
+    {
+      "id" : "61127327-920B-427F-94E7-096C984DCB46",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "21A82ED5-99A9-46FA-9B3B-C76E28FA038B",
+      "title" : "2021味全龍應援曲教學X吉力吉撈・鞏冠#4",
+      "urlString" : "https:\/\/youtu.be\/PPV0jFXtGFU?si=cOEdQrNir8ndFUV0"
+    },
+    {
+      "id" : "4AD501DD-C855-4D2D-8BE3-FF021FF33848",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "D93F7B9E-4AE7-4F7F-B9EB-B7342DD487A9",
+      "title" : "2021味全龍應援曲教學X郭天信#2",
+      "urlString" : "https:\/\/youtu.be\/FdDRRa4OMVc?si=hCTmk8Nh9miHRNlF"
+    },
+    {
+      "id" : "BBD5C37F-D8C5-4C4A-A444-13548130C31B",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "AEB495C3-9C1E-44C3-9259-99A061C74891",
+      "title" : "2021味全龍應援曲教學Ｘ李凱威#21",
+      "urlString" : "https:\/\/youtu.be\/uFgIj0crYbw?si=GjoS6ewu3HQ1NQwZ"
+    },
+    {
+      "id" : "5AFC8AB5-35DD-43B8-9B4B-467241DB7FDD",
+      "kind" : "Game",
+      "playerID" : "8CFFB1A9-6CF9-447D-9D05-7820840E524B",
+      "title" : "2023MLB】盜盜盜連三盜！Elly De La Cruz盜本壘攻下保險分",
+      "urlString" : "https:\/\/youtu.be\/uB2_GLzDYBM?si=JCHiThE0KdxDZpY8"
     },
     {
       "id" : "0F6C8322-976C-4C68-8964-106902B98A9D",
@@ -3341,11 +4928,25 @@
       "urlString" : "https:\/\/youtu.be\/Y3pfvBE4IWg?si=WbfNynWSg_LOsxRX"
     },
     {
+      "id" : "602E62B5-5E2D-48A9-987D-3F1B1FCDA5EB",
+      "kind" : "Game",
+      "playerID" : "327ABA1E-4898-437E-ABC6-3056E6C1023F",
+      "title" : "2024 Gold Glove Winner | Best Plays of Matt Chapman's 2024 Season",
+      "urlString" : "https:\/\/youtu.be\/ALteEvejcYM?si=J4LQy5sQ9Kzyj-hI"
+    },
+    {
       "id" : "D0609B91-C626-475A-8557-072E3150A36A",
       "kind" : "Wiki \/ Reference",
       "teamID" : "5572F0D0-A49B-46D4-955B-B77467A3480A",
       "title" : "2024 Yankee Stadium Food Tour | New York Yankees",
       "urlString" : "https:\/\/youtu.be\/RkGprPpq2Gg?si=NesUDefmcF12VHa3"
+    },
+    {
+      "id" : "DD681ACA-A955-4F5D-BD14-DB0201250DBA",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "65F66376-84BC-4FD2-9301-3BBA7AB23F32",
+      "title" : "2024 🇯🇵明治神宮野球場⚾️ Asia stadium tour",
+      "urlString" : "https:\/\/youtu.be\/gbV5zacCPv8?si=HwfVpBtTZm-3sb1A"
     },
     {
       "id" : "CE83D800-429A-4ECE-A987-530C64C55B35",
@@ -3376,6 +4977,13 @@
       "urlString" : "https:\/\/youtu.be\/HDYgdEO7pQ4?si=V_ixOSX81_2DWQPG"
     },
     {
+      "id" : "1065D205-288F-43E4-B520-24DBA1894018",
+      "kind" : "Game",
+      "playerID" : "AEB495C3-9C1E-44C3-9259-99A061C74891",
+      "title" : "2025比賽嗨賴 04\/03 到處都有李凱威！ 有凱威守備絕對沒問題",
+      "urlString" : "https:\/\/youtu.be\/YU6JES0E_gU?si=nwr8EOQVx_yukxud"
+    },
+    {
       "id" : "86A3DE21-3A49-422D-B0D5-688061C025A4",
       "kind" : "Game",
       "playerID" : "C286E21D-D5D9-4054-96D7-D3A1EA08FFF7",
@@ -3404,6 +5012,20 @@
       "urlString" : "https:\/\/youtu.be\/9t7NRcuN_VM?si=KKQLo0fF4-9q9C09"
     },
     {
+      "id" : "9A874888-7B06-48D8-BF0D-6A7D5C9E1082",
+      "kind" : "Game",
+      "playerID" : "CB3315CB-E24F-415C-BD8D-257ED3E05180",
+      "title" : "29 straight SCORELESS innings! Freddy Peralta hasn’t allowed a run in 5 starts! 🤯",
+      "urlString" : "https:\/\/youtu.be\/U4dzWxvaYGE?si=mAPydR4he2PeeXr0"
+    },
+    {
+      "id" : "9457FE36-8B98-46C6-8F43-CB5176267DC4",
+      "kind" : "Game",
+      "playerID" : "BB8C70A5-DEBD-4276-870F-2E02C998D9BA",
+      "title" : "3\/10 捷克 VS 日本 六局上，宮城大弥續投飆出三上三下，外帶一次三振｜WBC棒球經典賽 預賽C組",
+      "urlString" : "https:\/\/youtu.be\/_UzsErASSKk?si=MaNvHrAnfiY_QmNw"
+    },
+    {
       "id" : "0B8BFA92-888A-4491-9528-462E3C353DB1",
       "kind" : "Game",
       "playerID" : "A1C73CCE-A454-464F-85ED-43C4CA60BE6E",
@@ -3416,6 +5038,20 @@
       "playerID" : "99063E31-66CB-4540-AA13-284A28B9B06A",
       "title" : "300 HR and 1,000 RBI ... BOTH IN 1 SWING! 😱 Salvador Perez slugs a pair of home runs for the Royals!",
       "urlString" : "https:\/\/youtu.be\/KT_NTpUPUc4?si=V9CRE05ans6eRfn0"
+    },
+    {
+      "id" : "03272170-C1A8-435D-9E73-38409A77BFB7",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "B740A5B9-80C9-4BA4-B977-9CAF84632BAA",
+      "title" : "35 歲突破生涯極速！牛棚王牌的逆齡進化｜樂天桃猿投手 陳冠宇訪談 (下集)",
+      "urlString" : "https:\/\/youtu.be\/bq_9uiA3n5A?si=SabGCX26iVXRTA0v"
+    },
+    {
+      "id" : "E1E46696-FEA5-462D-A4C4-071436A0707C",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "7E9CC014-95A5-42B0-903F-175408BDC053",
+      "title" : "4\/12例行賽】單場MVP：#陳文杰",
+      "urlString" : "https:\/\/youtu.be\/CkIqjU-PW7o?si=cF5yp79G0FzGCbon"
     },
     {
       "id" : "306117C3-0CFB-4F72-B491-1347BAA1A7EC",
@@ -3460,6 +5096,13 @@
       "urlString" : "https:\/\/youtu.be\/i75feoLicAI?si=Sa4h_u92kCgJlRE-"
     },
     {
+      "id" : "DBE9CDAC-5102-4C35-8068-8C15AC87BC84",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "0E9D2992-D962-4C6D-8ACD-0B50C54F82DA",
+      "title" : "All 100 Splash Hits at Oracle Park | San Francisco Giants",
+      "urlString" : "https:\/\/youtu.be\/_X_WV8eeLR8?si=C10YZQNa184z-V1v"
+    },
+    {
       "id" : "305E7B4B-94B6-4984-A298-1243E60BC596",
       "kind" : "Wiki \/ Reference",
       "playerID" : "C370C349-64E5-4749-8E41-FBD5B83D475A",
@@ -3467,11 +5110,53 @@
       "urlString" : "https:\/\/youtu.be\/2sBB3jK2AxI?si=4rmGdzVhplbidloP"
     },
     {
+      "id" : "C89EAA89-FFCF-4F41-8D7A-87D1A4C2DAE8",
+      "kind" : "Game",
+      "playerID" : "BD6C65C1-1926-4327-BEDB-BDC8B8DD3916",
+      "title" : "All of CJ Abrams' 2024 Home Runs!",
+      "urlString" : "https:\/\/youtu.be\/YXOoa5kNwFw?si=54uw6icfZ8F9WTva"
+    },
+    {
+      "id" : "5D8F53DF-B7AE-4D6E-B9C2-40BEFB77EA72",
+      "kind" : "Game",
+      "playerID" : "FDA17A11-FB9D-40E4-A6BE-111F95443F83",
+      "title" : "All of Jordan Walker's 2025 Home Runs!",
+      "urlString" : "https:\/\/youtu.be\/8GfcOl-GdRU?si=LaNzmQNnWmlUq7er"
+    },
+    {
+      "id" : "FDDC49F2-BE3D-48C3-83E0-E4E808FACB6B",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "9F54B19F-F84E-4A5E-BF5F-1FDBAF6D8D34",
+      "title" : "American Family Field (Milwaukee): The Stadium Geek Visit",
+      "urlString" : "https:\/\/youtu.be\/r0TudrtNJkc?si=ZjUTqwAtkBE37BDQ"
+    },
+    {
+      "id" : "E8A839A2-A74F-464F-BAE1-93BD9D06D6A0",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "9F54B19F-F84E-4A5E-BF5F-1FDBAF6D8D34",
+      "title" : "American Family Field - Milwaukee Brewers Ballpark Review",
+      "urlString" : "https:\/\/youtu.be\/bK3h0pqaePQ?si=azZ0Vp3etoju5H_q"
+    },
+    {
+      "id" : "98B994BD-ED88-4E52-B748-1F1007942C3E",
+      "kind" : "Food",
+      "stadiumID" : "9F54B19F-F84E-4A5E-BF5F-1FDBAF6D8D34",
+      "title" : "American Family Field menu grows; includes brisket burger, dirty soda | FOX6 News Milwaukee",
+      "urlString" : "https:\/\/youtu.be\/05Zi_7TiBgw?si=pfan61v04ii7Jrvv"
+    },
+    {
       "id" : "E16878B1-8642-4B15-A311-5502242D29EA",
       "kind" : "Food",
       "stadiumID" : "7D532AD3-2BAC-4678-800E-103DEBFDE363",
       "title" : "Astros: New Ballpark Food for 2026 at Daikin Park - Part 1",
       "urlString" : "https:\/\/youtu.be\/3IvSP3_r2YM?si=CZC8Hes4a-HlxySU"
+    },
+    {
+      "id" : "7C0736E2-BB72-4E9B-932E-338C09209681",
+      "kind" : "Game",
+      "playerID" : "3AE24146-B345-4F87-959F-2E2A782DD61E",
+      "title" : "Austin Riley 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/fsJPwDj8WB8?si=ccWtKts-DNTrHt5r"
     },
     {
       "id" : "963D0A0C-1E9C-4495-BB5A-DF35369F41DD",
@@ -3488,6 +5173,13 @@
       "urlString" : "https:\/\/youtu.be\/3zNh-AvBoXw?si=Mxom4KSNz9fF9Yyu"
     },
     {
+      "id" : "EC445ADC-847F-4425-B1A8-0CED15487E9F",
+      "kind" : "Game",
+      "playerID" : "84C4A19C-5D9C-4EC1-8947-02F2D2FBD2F0",
+      "title" : "BREAKOUT SEASON? 😳 James Wood was named an All-Star and slugged 31 HR in 2025 for the Nationals!",
+      "urlString" : "https:\/\/youtu.be\/GYixT-NbtqQ?si=zQIH-NkeUhLpUQcu"
+    },
+    {
       "id" : "D5D4B7C7-D53B-436B-9AD6-79C6B5E5E08D",
       "kind" : "Official",
       "stadiumID" : "47140B99-E265-4988-8E50-5601296A4941",
@@ -3500,6 +5192,20 @@
       "stadiumID" : "47140B99-E265-4988-8E50-5601296A4941",
       "title" : "Ball park transportation",
       "urlString" : "https:\/\/www.mlb.com\/tigers\/ballpark\/transportation"
+    },
+    {
+      "id" : "D0C5510D-610B-44FE-B59E-547ED6AC92D5",
+      "kind" : "Food",
+      "stadiumID" : "D20B5BEE-7923-4362-A790-C4858EF8BFC6",
+      "title" : "Bats & Bites: The best new food at PNC Park",
+      "urlString" : "https:\/\/youtu.be\/8_tgozDHC6c?si=FmqGDCOUMesKNT4s"
+    },
+    {
+      "id" : "324A2B11-6657-4A94-9986-2AE22CB65AE7",
+      "kind" : "Food",
+      "stadiumID" : "94F681A0-B33D-45AE-A405-BA9899AE2F24",
+      "title" : "Best Places to Eat at PETCO PARK in SAN DIEGO",
+      "urlString" : "https:\/\/youtu.be\/FMC7kwzCxbQ?si=IqDRk99WGMFgN-cf"
     },
     {
       "id" : "717EBCB6-AB85-4445-8CA0-DCDEDDBF5E70",
@@ -3558,11 +5264,39 @@
       "urlString" : "https:\/\/www.brothers.tw\/ticket.php"
     },
     {
+      "id" : "AC5D99D2-CA4D-4CF9-89DB-7BE289DE41BE",
+      "kind" : "Game",
+      "playerID" : "6E195795-9508-48C2-AEC2-C78C9374A340",
+      "title" : "Bryan Reynolds 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/O2VutA1wCyg?si=d1jOqoiOLRJJ7BLL"
+    },
+    {
       "id" : "908EFF83-2C03-423F-9CF5-58759F41340C",
       "kind" : "Game",
       "playerID" : "99B58878-8FF2-4A85-B4C8-309AB8E561B7",
       "title" : "Bryce Harper CRUSHES a game-tying 2-run HR in the 8th for Team USA!",
       "urlString" : "https:\/\/youtu.be\/Vvx7vboxYq4?si=cuATs_f9yNWgY7C0"
+    },
+    {
+      "id" : "403C2924-4346-4D39-86EF-76C9E8C1FEE0",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "B983D1A5-EEE5-4E17-A48D-38F10960C76E",
+      "title" : "Busch Stadium (St. Louis): The Stadium Geek Visit",
+      "urlString" : "https:\/\/youtu.be\/lkptVhDtnLY?si=YPzt58yV_39qF83p"
+    },
+    {
+      "id" : "90D91AC1-9FA7-42E0-B69C-BEF87214C9C9",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "B983D1A5-EEE5-4E17-A48D-38F10960C76E",
+      "title" : "Busch Stadium Tour and St. Louis Cardinals HOF & Museum",
+      "urlString" : "https:\/\/youtu.be\/tkul61tw6-A?si=DQZ07s6DJiitZ-Om"
+    },
+    {
+      "id" : "C4D1C0DF-695F-47DC-AB07-7C17FD54A4C8",
+      "kind" : "Food",
+      "teamID" : "A5AB836B-5E92-4DF3-B129-FB99BEED6D9D",
+      "title" : "Busch Stadium is Ballpark Food Heaven | Home Plate: London Series Menu",
+      "urlString" : "https:\/\/youtu.be\/S9E6yeVgXiA?si=sFjtgWELnpsWaLgM"
     },
     {
       "id" : "F0328BEF-A9F9-4766-8A17-C388C9B9E238",
@@ -3579,11 +5313,53 @@
       "urlString" : "https:\/\/youtu.be\/RktSAMaeH24?si=jxGEcyc7EAMZivSk"
     },
     {
+      "id" : "BE687059-3968-477E-801F-87BCCCABDCEA",
+      "kind" : "Game",
+      "playerID" : "BD6C65C1-1926-4327-BEDB-BDC8B8DD3916",
+      "title" : "CJ Abrams | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/Mmc2IQpmafg?si=o5OwojyMx2275S7a"
+    },
+    {
+      "id" : "C50DCE87-3F93-438C-A6EA-D87C03025A3A",
+      "kind" : "Game",
+      "playerID" : "86BCC2B9-C309-45A5-89D2-C023C87E1FB9",
+      "title" : "COMPLETE GAME AGAIN 🤯 Yoshinobu Yamamoto's masterful outing in Game 2 of World Series | 山本由伸ハイライト",
+      "urlString" : "https:\/\/youtu.be\/TVU7xAOGGWo?si=8rQZUp8XW7C20ZhK"
+    },
+    {
+      "id" : "E3FE8BE4-A97D-493F-9C3B-7DA872D7271E",
+      "kind" : "Game",
+      "playerID" : "CF48232C-E980-4C3D-9113-478B6AD082F4",
+      "title" : "Cal Raleigh | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/93pzXv3pkiY?si=PXGSiHHAMOl_0axI"
+    },
+    {
       "id" : "27BC780F-11FA-4546-A39F-563D0F463E42",
       "kind" : "Food",
       "stadiumID" : "846F4872-DD0B-48B6-A627-9FFF7F68D0DB",
       "title" : "Chase Field unveils new food items for the Arizona Diamondbacks 2025 season  ABC15 Arizona",
       "urlString" : "https:\/\/youtu.be\/X5XvWte9BtA?si=z2BiRP3LlRpPt3-j"
+    },
+    {
+      "id" : "CA864B10-0C06-4A7F-BEB2-166C81BF08E3",
+      "kind" : "Food",
+      "stadiumID" : "6B20920F-3A0D-45A8-9AA6-774FF7D1A4DC",
+      "title" : "Checking out All-Star eats in Atlanta!! | Over the Plate",
+      "urlString" : "https:\/\/youtu.be\/POJNbvT7ir4?si=UeBdyoTzwHMCOYWp"
+    },
+    {
+      "id" : "2BD4F005-E6FA-4BB4-A520-9C36B387A07D",
+      "kind" : "Game",
+      "playerID" : "C2805034-AED3-474C-AA37-E76062AC3C26",
+      "title" : "Christian Yelich led the charge for the Brewers in 2025! 🥞 (Full MLB season highlights)",
+      "urlString" : "https:\/\/youtu.be\/QeBywDuuwVU?si=fdF9ucZ3gEbljWLa"
+    },
+    {
+      "id" : "B6E6EE42-1A2A-4113-B401-052AC241E61A",
+      "kind" : "Game",
+      "playerID" : "C2805034-AED3-474C-AA37-E76062AC3C26",
+      "title" : "Christian Yelich | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/qaow87ruvIc?si=INiGsY5jNNTwDpss"
     },
     {
       "id" : "1A892033-DEC3-4989-833D-8CD4169FECB8",
@@ -3628,6 +5404,13 @@
       "urlString" : "https:\/\/youtu.be\/2epLzzNoftw?si=zCW_9FgSSFE0z_VM"
     },
     {
+      "id" : "78376F60-48A6-488B-AF55-EE2FA49525DF",
+      "kind" : "Game",
+      "playerID" : "915110F2-2B41-4401-ABA4-121F093C5E17",
+      "title" : "Corey Seager | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/2dnP9JyP3ks?si=d47hd-XSPn-T95up"
+    },
+    {
       "id" : "040B7AC7-D8CE-43D8-813C-ADE28051FA12",
       "kind" : "Game",
       "playerID" : "D3DA1D39-9A9B-4275-B362-1B732E5E15AC",
@@ -3670,6 +5453,13 @@
       "urlString" : "https:\/\/youtu.be\/FUaoXLaXEOM?si=1BVcKHpJkxpMkyBn"
     },
     {
+      "id" : "765AF963-7D07-4AE7-86C2-9FAA6BC87800",
+      "kind" : "Game",
+      "playerID" : "1214E12A-2F20-48B0-8F04-D4AF0742F542",
+      "title" : "Eury Perez 2025 MLB Highlights!",
+      "urlString" : "https:\/\/youtu.be\/ihg6NJ-EUFg?si=DL-mh28xwAJj9hYy"
+    },
+    {
       "id" : "FF5B7EA9-1910-4D13-908C-700AB0119C5E",
       "kind" : "Wiki \/ Reference",
       "playerID" : "0E962884-C20F-482A-BF33-693C1BAB6A56",
@@ -3691,11 +5481,25 @@
       "urlString" : "https:\/\/youtu.be\/R0AAuKTwzZQ?si=lvtNojDoFmzmDvqy"
     },
     {
+      "id" : "B120D37C-8A90-426B-867F-9C0A5F003F4A",
+      "kind" : "Food",
+      "stadiumID" : "0F47120B-07A3-4D18-8A52-7E2EBCBD318B",
+      "title" : "Famous food spots at the Nationals Stadium",
+      "urlString" : "https:\/\/youtu.be\/w9aMs67oQI4?si=87hDUNz6_vb7fLl9"
+    },
+    {
       "id" : "B07C430C-9777-45AA-855D-57F8BED61B87",
       "kind" : "Food",
       "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
       "title" : "Famous food spots at the Phillies stadium by  Tony's Famous Finds",
       "urlString" : "https:\/\/youtu.be\/W9gNdfYi-sw?si=_-lmx6CJRrqOCs_l"
+    },
+    {
+      "id" : "082C6318-D073-4E82-8725-481E8D8CF006",
+      "kind" : "Game",
+      "playerID" : "1A6C3B4D-3A8F-433E-9CBC-36CA38EA3065",
+      "title" : "Fernando Tatis Jr.'s 2025 MLB highlights 😎 (All-Star and Platinum Glove winner with the Padres)",
+      "urlString" : "https:\/\/youtu.be\/IhcSVSw32Ys?si=DwHYQGS_iEopko7s"
     },
     {
       "id" : "D99C4207-38D3-4362-B9C4-2B0126390708",
@@ -3719,6 +5523,34 @@
       "urlString" : "https:\/\/youtu.be\/M9vDeeNS3os?si=OUIqSwFRTEeg0dFQ"
     },
     {
+      "id" : "9EC5FE4C-D145-43D0-99EF-0D51D68A7052",
+      "kind" : "Game",
+      "playerID" : "DC42136A-0911-45B8-BC63-B7770C34FEEE",
+      "title" : "Freddie Freeman 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/U7CPvn57Lys?si=kQhFuH_fzFQP3Mst"
+    },
+    {
+      "id" : "CBCE3A78-8C83-4D09-BEBD-8380174F35E2",
+      "kind" : "Game",
+      "playerID" : "CB3315CB-E24F-415C-BD8D-257ED3E05180",
+      "title" : "Freddy Peralta | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/9M25HPgNK3w?si=YmodZYzW3UcSlWVT"
+    },
+    {
+      "id" : "DA605281-CB3B-4C35-AF82-9225A8F68289",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "6B20920F-3A0D-45A8-9AA6-774FF7D1A4DC",
+      "title" : "Full Walking Tour: Truist Park, home of the Atlanta Braves!",
+      "urlString" : "https:\/\/youtu.be\/135owSTBkiM?si=xgWoO_2kMOu91Vqf"
+    },
+    {
+      "id" : "F670C69D-8EC9-422A-9EB6-C92B5690A41E",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "44D3D420-764C-4BED-90CF-F1D0AA44E350",
+      "title" : "Full tour of the DON JULIO Club - VIP Seats at Angel Stadium",
+      "urlString" : "https:\/\/youtu.be\/jpTcu-KcrfQ?si=IyizjWwQGLnn6GCh"
+    },
+    {
       "gameID" : "697CF89A-2D5C-449C-B7C9-F0BC92869A58",
       "id" : "E9C32551-37F4-4BFD-8FDB-0B03CE331AEC",
       "kind" : "Game",
@@ -3738,6 +5570,20 @@
       "playerID" : "D7DD8B32-6BC7-4250-9958-8CE722CDD7E5",
       "title" : "George Springer | 2025 Highlights",
       "urlString" : "https:\/\/youtu.be\/8mvniGiVtCY?si=ju85rOIO-MxacuUi"
+    },
+    {
+      "id" : "E6B67C27-314D-4408-A300-9C9A83ED2F0A",
+      "kind" : "Game",
+      "playerID" : "84DC86E7-86BE-4568-A314-4708E6D69AED",
+      "title" : "Geraldo Perdomo's breakout season! Full 2025 highlights for one of MLB's most underrated players 🌵",
+      "urlString" : "https:\/\/youtu.be\/hVsGocqCTj8?si=uR34sQLGaEXe1cA4"
+    },
+    {
+      "id" : "6BD7203D-FC5C-4B41-BA4A-59ECDF441274",
+      "kind" : "Food",
+      "stadiumID" : "0E9D2992-D962-4C6D-8ACD-0B50C54F82DA",
+      "title" : "Giant bites: We sampled fan favorite foods and this baseball season's newest dishes at Oracle Park",
+      "urlString" : "https:\/\/youtu.be\/ECBNlrTi9Qc?si=yJMADge6VpPGs3S8"
     },
     {
       "id" : "8CFDB5F4-8911-44BD-A427-94A5467B5ED9",
@@ -3761,6 +5607,13 @@
       "urlString" : "https:\/\/www.giants.jp\/en\/ticket"
     },
     {
+      "id" : "CE4D89F6-E2C4-4B85-A6B0-E6077E0F9390",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "A1603852-E51E-4C6B-9E56-953D9FCB2E42",
+      "title" : "Going To A Game At Great American Ball Park (Cincinnati Reds Stadium) with The Legend",
+      "urlString" : "https:\/\/youtu.be\/lSE9MreNphM?si=TnFlKIRxxe9Ngoi6"
+    },
+    {
       "id" : "715C2682-C5FC-427B-BEDB-1A250FB9552D",
       "kind" : "Blog \/ Review",
       "stadiumID" : "7D532AD3-2BAC-4678-800E-103DEBFDE363",
@@ -3768,11 +5621,25 @@
       "urlString" : "https:\/\/youtu.be\/j8_QyqYQTlw?si=79W2F61TiVuPwgdz"
     },
     {
+      "id" : "94551037-E59A-4A3F-AC20-D86FC1936F77",
+      "kind" : "Game",
+      "playerID" : "FD37F784-C2E5-4FF5-8BB0-EFC8160938D7",
+      "title" : "Gold Glove Winner Ke'Bryan Hayes' Best Defensive Plays of 2023 | Pittsburgh Pirates",
+      "urlString" : "https:\/\/youtu.be\/aONMmEp81RE?si=CTYafbJGvgp-CQFT"
+    },
+    {
       "id" : "0A37DCD7-085F-44F5-9DCB-DCC59EC24792",
       "kind" : "Wiki \/ Reference",
       "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
       "title" : "Great grub at Chickie's and Pete's for the Phillies game by FOX 29 Philadelphia",
       "urlString" : "https:\/\/youtu.be\/R06Y7A80DDs?si=nEgowKUG11_RDgJn"
+    },
+    {
+      "id" : "5E6D1166-135C-43E7-9E18-A6782F400288",
+      "kind" : "Food",
+      "stadiumID" : "6B20920F-3A0D-45A8-9AA6-774FF7D1A4DC",
+      "title" : "Guide to The Battery Atlanta! Home of the Atlanta Braves! Where to Eat & Drink for Family Fun!",
+      "urlString" : "https:\/\/youtu.be\/Ytc-i4hA7IM?si=11Lfr9zjW9KeuiNQ"
     },
     {
       "id" : "8F7DF699-4B01-43C4-99A7-EAF79376B0FA",
@@ -3787,6 +5654,34 @@
       "playerID" : "9B812163-509D-43E3-9FFE-A1B21A99F88F",
       "title" : "HE'S BACK! Shota Imanaga reportedly accepts Cubs' qualifying offer (Career highlights) | 今永昇太ハイライト",
       "urlString" : "https:\/\/youtu.be\/5gRTb6o1fNM?si=j8N5azWKVH8C6UuW"
+    },
+    {
+      "id" : "8306C7D3-6B37-43AA-B2E2-12FC116A0E7E",
+      "kind" : "Game",
+      "playerID" : "BFFDBA92-5AAA-4BD4-9909-50BC99E1B12C",
+      "title" : "HE'S STILL GOT IT! Clayton Kershaw gets out of a BASES LOADED jam in the top of the 12th inning! 😱",
+      "urlString" : "https:\/\/youtu.be\/KPzgryzhYYg?si=DJZ0SVV75YQymNCb"
+    },
+    {
+      "id" : "D3B95D79-F5C2-4FEF-B577-71AA722ACB71",
+      "kind" : "Game",
+      "playerID" : "1CB36928-B54A-45DB-BEDB-465555D45360",
+      "title" : "Heliot Ramos crushes his first home run of the season for the Giants! 💪 | MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/iV750WWQP4Y?si=V0noBFLwqGG-p6Or"
+    },
+    {
+      "id" : "941DE8E2-8CCD-4859-BF2E-39B47542679C",
+      "kind" : "Game",
+      "teamID" : "F3BA12F7-58F9-443D-9AC8-28DD08D9E8C0",
+      "title" : "Heliot Ramos || 2025 San Francisco Giants Highlights",
+      "urlString" : "https:\/\/youtu.be\/ujC1LRalJ90?si=hIXnzpKBi5sTHB8o"
+    },
+    {
+      "id" : "6B40BC8F-5E36-46E3-A280-C88A8DC91773",
+      "kind" : "Food",
+      "stadiumID" : "B983D1A5-EEE5-4E17-A48D-38F10960C76E",
+      "title" : "Here’s a look at what’s on the menu at Busch Stadium this season",
+      "urlString" : "https:\/\/youtu.be\/K_lkXFnYpdA?si=d_0DbYP60yWwLWms"
     },
     {
       "id" : "870E12C7-8DCA-478C-BAFF-E2462026B3D4",
@@ -3810,11 +5705,25 @@
       "urlString" : "https:\/\/npb.jp\/bis\/eng\/players\/23525152.html"
     },
     {
+      "id" : "74E5FBE9-9B22-4D11-865C-ECAA9FED1569",
+      "kind" : "Game",
+      "playerID" : "B3789394-08CC-4C64-A88A-ED03909539D2",
+      "title" : "Hunter Greene | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/vUxgtj1OZIk?si=JuoYH5h7UxCoNBbm"
+    },
+    {
       "id" : "61FEEF0A-2A7E-45FF-B6C9-A2399583B59A",
       "kind" : "Travel",
       "playerID" : "36AC4EEE-97CA-4B4E-937C-02B9556AA450",
       "title" : "Hyogo Travel",
       "urlString" : "https:\/\/www.japan.travel\/en\/destinations\/kansai\/hyogo"
+    },
+    {
+      "id" : "40398A6E-1705-4C98-950E-897E5D940A18",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "AB35ADD2-5F8E-4912-B234-26964667C1B8",
+      "title" : "I Asked God to Prove He Exists (And He Answered) - # 165 Josh Jung",
+      "urlString" : "https:\/\/youtu.be\/U1uw5-UUKXM?si=W5NXXY-UND-08gFH"
     },
     {
       "id" : "4291C578-5FE0-46E1-96B1-1FF4E7971F52",
@@ -3824,11 +5733,32 @@
       "urlString" : "https:\/\/youtu.be\/7AZ0P6pvQP8?si=cLi_eJNkYEUlFvsE"
     },
     {
+      "id" : "C5A29034-55E7-40CF-917E-5689F66483F0",
+      "kind" : "Food",
+      "stadiumID" : "48EFF5B8-83AB-445C-BE48-F88B07B7DDB3",
+      "title" : "I Tried Texas Rangers Stadium Food… Was It Worth It?",
+      "urlString" : "https:\/\/youtu.be\/99PZFEfqa0M?si=nNm97kxDVSxwLG3Y"
+    },
+    {
+      "id" : "42E544D1-EE3F-4FD3-864A-C46366B3F233",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "9F54B19F-F84E-4A5E-BF5F-1FDBAF6D8D34",
+      "title" : "Inside Milwaukee’s $600M Stadium Renovation",
+      "urlString" : "https:\/\/youtu.be\/J25qJ8My2qQ?si=0uXr9cbUlLXzE2Kb"
+    },
+    {
       "id" : "1299A45F-79E4-4650-B4DD-862B71C1D72F",
       "kind" : "Stadium Guide",
       "stadiumID" : "9F36C230-E382-4A80-9780-6DD090D6397B",
       "title" : "Inside the Rogers Centre: Exclusive Ballpark Tour (Toronto 2025)",
       "urlString" : "https:\/\/youtu.be\/ayD4fq1GbN8?si=_bkrEsBxnrhmi8YV"
+    },
+    {
+      "id" : "02F697EF-79D0-459E-9F8B-BD528740CDDD",
+      "kind" : "Food",
+      "stadiumID" : "B983D1A5-EEE5-4E17-A48D-38F10960C76E",
+      "title" : "Introducing Busch Stadium’s new foods for the 2026 Cardinals season",
+      "urlString" : "https:\/\/youtu.be\/2iJUnMlQsns?si=8l78TDwrn4v0yIHP"
     },
     {
       "id" : "4D94B449-1C14-462D-BECF-77B4F50AD7D8",
@@ -3838,6 +5768,13 @@
       "urlString" : "https:\/\/youtu.be\/SexBYBRU-xI?si=F4-Nq8z7oW6zGOsP"
     },
     {
+      "id" : "A3552B88-08CE-4AA0-A688-7A46A959749F",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "6B20920F-3A0D-45A8-9AA6-774FF7D1A4DC",
+      "title" : "Is this the MOST EXCLUSIVE VIP club seat in the MLB? Truist Club at Atlanta Braves' Truist Park",
+      "urlString" : "https:\/\/youtu.be\/F3VRoqkl2Go?si=If39SWH7UDOpWPtX"
+    },
+    {
       "id" : "1996A808-04E7-4EEF-8472-D8ED712154AB",
       "kind" : "Game",
       "playerID" : "EEBDC22A-98DF-4A61-96D7-02246EEF44AF",
@@ -3845,11 +5782,46 @@
       "urlString" : "https:\/\/youtu.be\/ubgBkug6yVo?si=5cLeOnLfYJOg6SJA"
     },
     {
+      "id" : "1DC8E63C-4BC7-4F33-96A9-836786314FEB",
+      "kind" : "Game",
+      "playerID" : "3F13DAA0-C41C-45D4-B98E-282F4C675475",
+      "title" : "Jackson Chourio 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/RT8czv0gs6o?si=M1EBk4cExq_DyhTB"
+    },
+    {
       "id" : "42319B03-E9F4-4A26-852D-6DD5396D21EC",
       "kind" : "Wiki \/ Reference",
       "playerID" : "232832A3-E305-472A-910B-658DC3F27188",
       "title" : "Jackson Holliday | 2025 Highlights",
       "urlString" : "https:\/\/youtu.be\/evor6XfmzpM?si=e-iymydoOcd5x4he"
+    },
+    {
+      "id" : "0D63BB21-ACDE-43BD-8B9C-5D8DD9C0CBA8",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "F328C883-C581-423C-9CC5-CAD9235F34C5",
+      "title" : "Jackson Merrill and Mookie Betts Talk Dodgers-Padres Rivalry, Meanest MLB Fanbases | On Base, Ep. 38",
+      "urlString" : "https:\/\/youtu.be\/a47S7d5wZhw?si=lYh1oxQQOe6dYWHI"
+    },
+    {
+      "id" : "67F1A0FC-A993-498A-9087-BE92C1CE945D",
+      "kind" : "Game",
+      "playerID" : "2D215082-7FC1-488E-A14C-1EB719B32E2F",
+      "title" : "Jake Irvin 2025 MLB Highlights!",
+      "urlString" : "https:\/\/youtu.be\/m3EjSRbW7ps?si=dXJgz8pvYrz81yiL"
+    },
+    {
+      "id" : "4CC14EBC-FFC4-4235-859A-912F37FC3858",
+      "kind" : "Game",
+      "playerID" : "2D215082-7FC1-488E-A14C-1EB719B32E2F",
+      "title" : "Jake Irvin strikes out 7 Giants over 8 scoreless innings on 5\/24\/25",
+      "urlString" : "https:\/\/youtu.be\/AII1JQjmn4o?si=mDFSwZzAy0BO5HrI"
+    },
+    {
+      "id" : "A49217FF-B4ED-44E5-9C3F-131CCCE3DA65",
+      "kind" : "Game",
+      "playerID" : "84C4A19C-5D9C-4EC1-8947-02F2D2FBD2F0",
+      "title" : "James Wood 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/GoQDlmmOeSw?si=R3vtUhLgvm5VeuGs"
     },
     {
       "id" : "D00595C7-A70F-4CB8-9AD9-8EA0B2DD826D",
@@ -3901,6 +5873,13 @@
       "urlString" : "https:\/\/youtu.be\/LZYH1s3qqj8?si=8lXEXyx1IaDdhBsI"
     },
     {
+      "id" : "D6ED4EE0-D59C-4520-B600-BFE1EB1BC963",
+      "kind" : "Game",
+      "playerID" : "FDA17A11-FB9D-40E4-A6BE-111F95443F83",
+      "title" : "Jordan Walker is ON FIRE! 🔥 He hits his MLB-LEADING 7th homer of the season for the Carindals!",
+      "urlString" : "https:\/\/youtu.be\/a_LEUfS-2Ss?si=617Y2R8e5PAEFzSa"
+    },
+    {
       "id" : "AB27BFB0-7CE9-4676-A586-823AA91FCFA0",
       "kind" : "Game",
       "playerID" : "763EB9D0-FBEA-41E0-A48A-8F9B17AF4BA5",
@@ -3915,11 +5894,46 @@
       "urlString" : "https:\/\/youtu.be\/be70U85lrOk?si=5xUQSHJa-VLoEAoA"
     },
     {
+      "id" : "34B9BE66-B5D8-40A6-8031-A3A3022EE6FE",
+      "kind" : "Game",
+      "playerID" : "040A18DB-35F6-432E-95AE-C35D9C2F6778",
+      "title" : "Jose Soriano 2025 MLB Highlights!",
+      "urlString" : "https:\/\/youtu.be\/b2lcesapFTY?si=dFSu11ELk9AhAZOQ"
+    },
+    {
+      "id" : "A90EEE93-A3CE-45F1-A908-0CD5DCBA2C1F",
+      "kind" : "Game",
+      "playerID" : "AB35ADD2-5F8E-4912-B234-26964667C1B8",
+      "title" : "Josh Jung || 2025 Texas Rangers Highlights",
+      "urlString" : "https:\/\/youtu.be\/90bhKCBayHk?si=f8xE12pn5upci4Ye"
+    },
+    {
       "id" : "34DDD4BD-695B-458F-8307-B40FDC9C3528",
       "kind" : "Game",
       "playerID" : "86BFDD61-1330-4DC0-BA3F-3818E7CC7836",
       "title" : "José Ramírez | 2025 Highlights",
       "urlString" : "https:\/\/youtu.be\/FEEhv1o0U4E?si=R9Igu2p4I--agg3M"
+    },
+    {
+      "id" : "B6F96635-DB8B-4F44-9F74-8A6B1201DCAD",
+      "kind" : "Game",
+      "playerID" : "D7AB2DF3-708A-42EC-A4AB-A144D345D4E0",
+      "title" : "Julio Rodríguez takes away an Aaron Judge home run in the 2026 World Baseball Classic Semifinals!",
+      "urlString" : "https:\/\/youtu.be\/bM7AjTFstQM?si=wG7KyAc2sOqN4mI4"
+    },
+    {
+      "id" : "D15ADF70-6F47-43E9-BC4A-29493305F466",
+      "kind" : "Game",
+      "playerID" : "D7AB2DF3-708A-42EC-A4AB-A144D345D4E0",
+      "title" : "Julio Rodríguez | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/0EZWqqNpt6I?si=T5XjI21g-5pTAwSd"
+    },
+    {
+      "id" : "64A165A9-1E3D-4499-B51D-F1BB6EEA0A51",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "E4FCF011-0445-44F1-BB97-36C12DB71C87",
+      "title" : "Jung Hoo Lee 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/SKZPiCiTVmw?si=Aq_GnrhREqCtVwKE"
     },
     {
       "id" : "1F36B645-D3CF-4C3E-8178-4E6C77405AC2",
@@ -3964,6 +5978,13 @@
       "urlString" : "https:\/\/youtu.be\/vh6QhrjGRc0?si=JG2gIEJxFYAASFkE"
     },
     {
+      "id" : "5CF774C8-8DFF-4C55-9F03-3ACD58A99482",
+      "kind" : "Game",
+      "playerID" : "52ADE4FE-DAAD-4AEE-8D60-A85E6AA0F1D2",
+      "title" : "Keibert Ruiz Records 2 Hits with His Parents in Attendance for First Time in His Career!",
+      "urlString" : "https:\/\/youtu.be\/LCxCPHK_Gio?si=z7d0Z5HZ3xtq7Im5"
+    },
+    {
       "id" : "B80FA7D1-AC45-412D-B1CA-A102169806F8",
       "kind" : "Game",
       "playerID" : "AA84736B-0642-4F0D-99E4-0994A5EC3D5E",
@@ -4006,6 +6027,13 @@
       "urlString" : "https:\/\/youtu.be\/_7y1tLalu68?si=I1uiVyXZFXcakWRe"
     },
     {
+      "id" : "B0C0E442-CB31-4C23-BF6F-2424F431EC86",
+      "kind" : "Game",
+      "teamID" : "0D4EC066-D4FD-4DE2-8986-4612D5ACDD8C",
+      "title" : "Kyle Stowers | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/G0UUGwy6dZU?si=Q63Fg2995RVfoqy7"
+    },
+    {
       "id" : "A561EE69-A1AF-4807-8383-3BB43D79DAAF",
       "kind" : "Travel",
       "playerID" : "39E6415F-5ED7-41A7-A822-CD1BB69D9388",
@@ -4041,6 +6069,48 @@
       "urlString" : "https:\/\/www.uni-lions.com.tw\/ticket.asp"
     },
     {
+      "id" : "5A836E47-F22C-4774-8B4B-96A72F070ED5",
+      "kind" : "Game",
+      "playerID" : "6F2F1FC0-908D-4166-B827-E4A8F8E0759C",
+      "title" : "Logan Gilbert | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/gX3eT_y2ctE?si=mfrvYAqDbWhfcwf0"
+    },
+    {
+      "id" : "817D2B4A-F7BF-4F3C-A088-63536A7F516B",
+      "kind" : "Game",
+      "playerID" : "B6783D20-703B-4234-A66D-C484DA68E428",
+      "title" : "Logan O’Hoppe 2024 Highlights",
+      "urlString" : "https:\/\/youtu.be\/UUFpGs25od0?si=aCP9ROj4nUAbs6fJ"
+    },
+    {
+      "id" : "78F6E55A-375B-4C27-AB30-9B48C6A603AA",
+      "kind" : "Game",
+      "playerID" : "B6783D20-703B-4234-A66D-C484DA68E428",
+      "title" : "Logan O’Hoppe | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/JLdmGX62mCE?si=3UoqUOR8GYHqjhQJ"
+    },
+    {
+      "id" : "9E21F713-3D94-4FDA-993F-033E46AD0961",
+      "kind" : "Game",
+      "playerID" : "4881A9E6-B103-4DDF-A161-03F88E309920",
+      "title" : "Logan Webb | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/ptPPXdlYuYQ?si=89zMa3urH66Dq-yA"
+    },
+    {
+      "id" : "985A1B12-62D3-4B3D-825C-54F20B9F656D",
+      "kind" : "Game",
+      "playerID" : "BC2F0A8A-7F8A-4DF4-A7B1-6C9893C94994",
+      "title" : "MIKE TROUT HITS HIS 400TH CAREER HOME RUN 🚨 (Which lands a whopping 485-ft. away 🫢😳)",
+      "urlString" : "https:\/\/youtu.be\/6h1nBzc47Ic?si=NKnl1PSH3-fWmSmq"
+    },
+    {
+      "id" : "5E21BC64-6760-46E4-B434-99614FFC3EB9",
+      "kind" : "Food",
+      "stadiumID" : "0F47120B-07A3-4D18-8A52-7E2EBCBD318B",
+      "title" : "MLB Food Challenge Cheapest vs Most Expensive Food at Nationals Park!",
+      "urlString" : "https:\/\/youtu.be\/5JTG1fDNGgY?si=jHkA8LP31FOSoJ4Z"
+    },
+    {
       "id" : "5285FB85-921A-4A4A-B5BC-740642B57146",
       "kind" : "Source",
       "playerID" : "844E983D-4638-4572-8A1C-E94AF22C5A8E",
@@ -4053,6 +6123,27 @@
       "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
       "title" : "MLB Player Profile",
       "urlString" : "https:\/\/www.mlb.com\/player\/shohei-ohtani-660271"
+    },
+    {
+      "id" : "F4EAE33E-1500-4462-863A-C7711BB0E778",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "0F47120B-07A3-4D18-8A52-7E2EBCBD318B",
+      "title" : "MLB Stadium Tours! \"Nationals Park - Washington Nationals\"",
+      "urlString" : "https:\/\/youtu.be\/kxKufWCoW4g?si=2Jc8AyWCyQc2ueqm"
+    },
+    {
+      "id" : "06183B7D-80D7-4634-8C3D-C70BB6317C04",
+      "kind" : "Game",
+      "playerID" : "8CFFB1A9-6CF9-447D-9D05-7820840E524B",
+      "title" : "MLB | Elly De La Cruz Top plays",
+      "urlString" : "https:\/\/youtu.be\/Nfxeq4V-xPc?si=tmlc_gaWnlXOyVQN"
+    },
+    {
+      "id" : "95C22D31-4F29-4672-B463-714E6B542DBD",
+      "kind" : "Game",
+      "playerID" : "1A6C3B4D-3A8F-433E-9CBC-36CA38EA3065",
+      "title" : "MLB | Fernando Tatis Jr. Defensive Plays 2025",
+      "urlString" : "https:\/\/youtu.be\/gaDpOLofImg?si=DEvHBrDXgLarC4ob"
     },
     {
       "id" : "983EE110-5D3D-4C41-944D-82AF55F571EE",
@@ -4069,11 +6160,25 @@
       "urlString" : "https:\/\/youtu.be\/EiP4Rg5drCc?si=wQfV2OSDj-Cce0LN"
     },
     {
+      "id" : "51640938-7EE9-43E1-9A9E-097E1A59A55F",
+      "kind" : "Game",
+      "playerID" : "76923C7D-6C5D-46E5-B73C-863608A63C57",
+      "title" : "MLB》從魚王被打成魚丸，大傷後控球迷航的Sandy Alcantara，會在交易大限前離開馬林魚嗎?",
+      "urlString" : "https:\/\/youtu.be\/pf137vl6340?si=hKgXQ6kF65Z58gzB"
+    },
+    {
       "id" : "11573A03-2AAA-4787-9758-852240B5CC98",
       "kind" : "Food",
       "teamID" : "5572F0D0-A49B-46D4-955B-B77467A3480A",
       "title" : "MUST EAT Restaurants at Yankee Stadium! | Jeremy Jacobowitz",
       "urlString" : "https:\/\/youtu.be\/lMzoVA2ZjkU?si=RWzbGgDl8uQ4P512"
+    },
+    {
+      "id" : "C9C3F805-500B-4C59-91A6-94968BAE8635",
+      "kind" : "Game",
+      "playerID" : "EE0536CB-FF51-452F-85A0-AC036E494632",
+      "title" : "Manny Machado | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/-0ZgqOF5N0A?si=I681MvRS3hLNishc"
     },
     {
       "id" : "40C410BB-8409-41A2-8D57-DC328726C930",
@@ -4083,6 +6188,34 @@
       "urlString" : "https:\/\/maps.apple\/p\/sF7_mVaAvW~E6p"
     },
     {
+      "id" : "11727A31-1C90-43C1-8BFC-195DFC13FB31",
+      "kind" : "Game",
+      "playerID" : "43F353B6-E818-4A7A-8E07-79C75A68D6BC",
+      "title" : "Masyn Winn 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/V0TEy9lNO9Y?si=C8aepdok7KdzUStc"
+    },
+    {
+      "id" : "6EB00134-9939-4569-91F9-E68BC4E40109",
+      "kind" : "Game",
+      "playerID" : "327ABA1E-4898-437E-ABC6-3056E6C1023F",
+      "title" : "Matt Chapman's Best Hits of 2025 | Silver Slugger Finalist",
+      "urlString" : "https:\/\/youtu.be\/CRPJGmN-wbY?si=_-1O3CtCNhYbCNga"
+    },
+    {
+      "id" : "9344D786-15C6-49E3-8393-C2A2D7F82CB9",
+      "kind" : "Game",
+      "playerID" : "2B0B0ABB-DD73-492B-BE1B-B2718BFC2513",
+      "title" : "Matt McLain || 2025 Cincinnati Reds Highlights",
+      "urlString" : "https:\/\/youtu.be\/aYVWOJLN-BE?si=Owvrj7h7vlToXlK9"
+    },
+    {
+      "id" : "6ABF87E4-47C5-4AE5-8B36-651B0E90648F",
+      "kind" : "Game",
+      "playerID" : "4DB50940-0E10-4843-B26F-0A50274A72A1",
+      "title" : "Matt Olson | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/YsY5858xnbs?si=LEZeTODuH0K2DWdg"
+    },
+    {
       "id" : "AF90AA18-9D29-4B20-97DE-06AEBF55DC66",
       "kind" : "Game",
       "playerID" : "154EDA2D-993B-468A-8A1D-E67EE3215FC8",
@@ -4090,11 +6223,32 @@
       "urlString" : "https:\/\/youtu.be\/H6Mbv65uacU?si=_oPlLZMToEZM7vRh"
     },
     {
+      "id" : "210E198B-76D2-4A15-B125-484C35AE3DE8",
+      "kind" : "Game",
+      "playerID" : "0237D661-45B5-4E38-ABE6-C7CBC5E3AF83",
+      "title" : "Merrill Kelly | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/2GbLk7qSreY?si=UH3GGhXtmDH302bR"
+    },
+    {
+      "id" : "E526A114-ED90-4855-8914-36D3949BB6E3",
+      "kind" : "Game",
+      "playerID" : "BC2F0A8A-7F8A-4DF4-A7B1-6C9893C94994",
+      "title" : "Mike Trout Career Highlights: Witness his greatness from start to now",
+      "urlString" : "https:\/\/youtu.be\/3pJNTJfDh90?si=hFMMqxZI8j2_tMS6"
+    },
+    {
       "id" : "12596FC7-537B-4421-9EF8-CF26E6753903",
       "kind" : "Food",
       "stadiumID" : "C2F24961-EAF6-4816-962C-F430B63016D0",
       "title" : "Minnesota Twins Ballpark Bites | Target Field Food Tour by  Slice Eats",
       "urlString" : "https:\/\/youtu.be\/Guu_K8NLdtk?si=EbMtNWlXgg2Eteci"
+    },
+    {
+      "id" : "DD655608-72FD-419E-B0E5-438F58056990",
+      "kind" : "Game",
+      "playerID" : "39E6415F-5ED7-41A7-A822-CD1BB69D9388",
+      "title" : "Mookie Betts | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/MAwOdcM1dpU?si=4A5-FKeC2PWuTeRt"
     },
     {
       "id" : "0BFFCA38-34D4-4CEC-A40D-95A495552A6F",
@@ -4111,11 +6265,25 @@
       "urlString" : "https:\/\/youtu.be\/YvcmmAvwJ9E?si=Eby5Kx_6cL_OkIt6"
     },
     {
+      "id" : "10312C38-D9D8-4CFD-90DF-DF7D01256DAC",
+      "kind" : "Food",
+      "stadiumID" : "94F681A0-B33D-45AE-A405-BA9899AE2F24",
+      "title" : "Mud vs. Food: Puesto at Petco Park",
+      "urlString" : "https:\/\/youtu.be\/uYDPM317Ixg?si=IWmcMaHorBEhhjMR"
+    },
+    {
       "id" : "656EFE99-9BDF-406C-9BE7-DED41F7AAB37",
       "kind" : "Game",
       "playerID" : "F8B65ADA-E028-4F62-82DC-67E20833C631",
       "title" : "NEW CAREER HIGH! 🤩 All 42 of Juan Soto's home runs for the New York Mets this season! 🍎",
       "urlString" : "https:\/\/youtu.be\/CJLMIs-xRdA?si=ptvibDFnP1W0aAze"
+    },
+    {
+      "id" : "9518EE4E-9927-450D-A1B1-75D49449999A",
+      "kind" : "Game",
+      "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
+      "title" : "NEW CAREER HIGH! 🤩 All 55 of Shohei Ohtani's home runs for the Dodgers in 2025! | 大谷翔平 ハイライト",
+      "urlString" : "https:\/\/youtu.be\/e5aRE0xUKOc?si=SFwjcF5QMMQu6BwH"
     },
     {
       "id" : "23E54CC4-A594-4EB4-B02F-46F262B03007",
@@ -4137,6 +6305,20 @@
       "stadiumID" : "B83E85F5-B346-4246-ADCC-6FE809086B42",
       "title" : "New Fenway Park menu features lobster poutine and Green Monster fries",
       "urlString" : "https:\/\/youtu.be\/STmYRPEQze0?si=ZCkfLFj7Ti4q2Rcc"
+    },
+    {
+      "id" : "AA45D422-E939-4602-81E5-E1DDD4BD2ADD",
+      "kind" : "Food",
+      "stadiumID" : "B983D1A5-EEE5-4E17-A48D-38F10960C76E",
+      "title" : "New concessions at Busch Stadium",
+      "urlString" : "https:\/\/youtu.be\/HyRfcdSzI8c?si=DvOJ_oGr6dSmHiUO"
+    },
+    {
+      "id" : "A560DC31-0229-4DA4-97F8-8AB56634E5EC",
+      "kind" : "Food",
+      "stadiumID" : "A1603852-E51E-4C6B-9E56-953D9FCB2E42",
+      "title" : "New food at Great American Ball Park",
+      "urlString" : "https:\/\/youtu.be\/ZRF0biFgaL4?si=jYPCGq4Pr2wHvkTg"
     },
     {
       "id" : "ACD1E949-875F-4503-9206-270D8F8DB93D",
@@ -4165,6 +6347,20 @@
       "teamID" : "0A891E99-38EE-47B8-BFCC-0F1A311365DF",
       "title" : "New food options for Phillies fans this season at Citizens Bank Park by  6abc Philadelphia",
       "urlString" : "https:\/\/youtu.be\/5LJ3Rp7XCYI?si=yrkuZ38NxjmI58-U"
+    },
+    {
+      "id" : "256E6AA7-212D-4668-850F-57F1868523C4",
+      "kind" : "Game",
+      "playerID" : "DC7E6252-5DAD-4442-941B-7A1729365887",
+      "title" : "Nolan Arenado career highlights ... SO FAR! (10x Gold Glove, 8x All-Star for Rockies & Cardinals 3B)",
+      "urlString" : "https:\/\/youtu.be\/HuztCw2-siY?si=sYRXUx78KD98Uhuk"
+    },
+    {
+      "id" : "483C65FC-E1E2-44C6-8E53-140D7B42FC3F",
+      "kind" : "Game",
+      "playerID" : "DC7E6252-5DAD-4442-941B-7A1729365887",
+      "title" : "Nolan Arenado's GREATEST defensive plays ever!",
+      "urlString" : "https:\/\/youtu.be\/OH4wDWoWVlo?si=DG9JfMwD_CyMA3kQ"
     },
     {
       "id" : "9D726297-7C2D-4183-9245-DEB4461B369F",
@@ -4202,11 +6398,53 @@
       "urlString" : "https:\/\/npb.jp\/bis\/eng\/teams\/index_h.html"
     },
     {
+      "id" : "6AAD7451-5312-4009-8007-0A07B225FC4C",
+      "kind" : "Game",
+      "playerID" : "3C79B851-83BA-49B7-AE48-A353AD64E382",
+      "title" : "Oneil Cruz showed off the POWER and speed in the outfield for the Pirates in 2025! 💪",
+      "urlString" : "https:\/\/youtu.be\/dXJRk0od08A?si=j6icwAZ2FqZCNwuN"
+    },
+    {
+      "id" : "05176964-A9D0-4017-997E-D3941607FE8E",
+      "kind" : "Game",
+      "playerID" : "86BCC2B9-C309-45A5-89D2-C023C87E1FB9",
+      "title" : "Over 40 minutes of Yoshinobu Yamamoto highlights from 2025! (2025 World Series MVP) | 山本由伸ハイライト",
+      "urlString" : "https:\/\/youtu.be\/O-YFB0dbc7c?si=6yFb4CwkTy7-DtPI"
+    },
+    {
+      "id" : "D429E50C-AA02-4DF2-9041-7F85E7F26ED3",
+      "kind" : "Food",
+      "stadiumID" : "D20B5BEE-7923-4362-A790-C4858EF8BFC6",
+      "title" : "PNC Park eats and some spring cleaning | PTL Chat Pt. 1 (3\/26)",
+      "urlString" : "https:\/\/youtu.be\/HLadFqJo-bU?si=hvFo4W5W7_CfH6_f"
+    },
+    {
+      "id" : "973EC407-84EF-45FB-99F8-2F7857A180D9",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "0E9D2992-D962-4C6D-8ACD-0B50C54F82DA",
+      "title" : "Padres vs. Giants (8\/11\/25) | Oracle Park Stadium Tour",
+      "urlString" : "https:\/\/youtu.be\/oqCnAEbFYY0?si=vUmUdCtjgkq8_jjT"
+    },
+    {
+      "id" : "7D50EAD4-5AFB-4A9A-84C0-7570FB114B07",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "94F681A0-B33D-45AE-A405-BA9899AE2F24",
+      "title" : "Petco Park REVIEW San Diego Padres",
+      "urlString" : "https:\/\/youtu.be\/3mwsUvg2TiM?si=ln2oE_xjw2VKi9dJ"
+    },
+    {
       "id" : "B63376D5-4092-41E7-BDBD-3F82ACF537F9",
       "kind" : "Game",
       "playerID" : "5795FF66-BAB8-4CD4-A4C9-4FA62750F039",
       "title" : "Pete Alonso crushes his first Orioles home run! 🐻‍❄️ (Off former teammate Jacob deGrom! 👀)",
       "urlString" : "https:\/\/youtu.be\/cTbET2iRAGk?si=aU8Cz0Z85mHg5diT"
+    },
+    {
+      "id" : "5766F2C3-A59B-4A74-ADA9-B1CB79825679",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "D20B5BEE-7923-4362-A790-C4858EF8BFC6",
+      "title" : "Pittsburgh Pirates - The Full PNC Park Tour, The Best Seats, and Views You Don't See!",
+      "urlString" : "https:\/\/youtu.be\/RwaFP57N8kk?si=vOQ-xM6nCmktnxxA"
     },
     {
       "id" : "BF156437-2B18-4402-B12F-A50859A200B3",
@@ -4216,11 +6454,60 @@
       "urlString" : "https:\/\/youtu.be\/P0C6-RQbnf4?si=11Sb4UD8fS5-rj7C"
     },
     {
+      "id" : "C8AB9307-701E-42AE-8B46-948118378A6D",
+      "kind" : "Game",
+      "playerID" : "DC7E6252-5DAD-4442-941B-7A1729365887",
+      "title" : "Puerto Rico Batting Practice at World Baseball Classic With Nolan Arenado, Christian Vazquez & More",
+      "urlString" : "https:\/\/youtu.be\/I10DPWk7kX0?si=bMh-pxOYeeB-uyOy"
+    },
+    {
+      "id" : "F66371EB-63EE-42FA-B08B-5F532435E8BE",
+      "kind" : "Game",
+      "playerID" : "040A18DB-35F6-432E-95AE-C35D9C2F6778",
+      "title" : "Pure dominance! 😤 José Soriano strikes out 10 batters over 8 fantastic innings! 💪 | MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/jAi0o4HkpCs?si=HlAdO1XeBmM2UVHV"
+    },
+    {
       "id" : "CD856D95-A866-484F-85D5-7CE49D8DDBD8",
       "kind" : "Game",
       "playerID" : "060AF9F4-846C-4DF8-8DBB-76492429E6C2",
       "title" : "RHINOSHIELD 壓制全場】10\/03 泡麵組長李振昌銜命關門，幫助中信兄弟奪下全年第一！",
       "urlString" : "https:\/\/youtu.be\/xTBUHJf87b8?si=JGgm16M_VqXxJ7bR"
+    },
+    {
+      "id" : "0F7ED684-CF81-4BAC-9A0A-7C3BF24D0DDA",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "title" : "Ranking EVERY Seat at Dodger Stadium… (Best to Worst)",
+      "urlString" : "https:\/\/youtu.be\/A5r-SiA_aGA?si=rM92uQ21ofQyYnmm"
+    },
+    {
+      "id" : "F35A9633-9A1B-48F5-A816-DB9FE88F3FA4",
+      "kind" : "Food",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "title" : "Ranking the best new foods at Dodger stadium, including the $40 hot dog",
+      "urlString" : "https:\/\/youtu.be\/2Q5lhD1Uwbg?si=v5CPWQfo3Pni_ow5"
+    },
+    {
+      "id" : "5CD56AE0-CDBA-4BFA-890F-52DC44418AA1",
+      "kind" : "Game",
+      "playerID" : "1369C339-4CBF-42CA-BDC6-41D7B1F43401",
+      "title" : "Rhys Hoskins 2024 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/930rOS2TsHo?si=n5hkcN7dyX9ciyry"
+    },
+    {
+      "id" : "92CA9A07-31B6-4A51-AB8B-A98873CD620E",
+      "kind" : "Game",
+      "playerID" : "D8A3BF08-B250-4E3E-BD5E-82FC61225C89",
+      "title" : "Ronald Acuña Jr. | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/m5lCs3xLytc?si=cHY7Spwbrv_vGrq-"
+    },
+    {
+      "id" : "17018A6E-083A-469E-BB92-8AE7AE7400FA",
+      "kind" : "Game",
+      "playerID" : "D8A3BF08-B250-4E3E-BD5E-82FC61225C89",
+      "title" : "Ronald Acuña Jr’s 2023 MVP Season Highlights  Baseball Visuals",
+      "urlString" : "https:\/\/youtu.be\/TqUDpAoFx1o?si=NtEN7L6LweRRoEGM"
     },
     {
       "id" : "6022D27E-D69C-4260-AE95-B9507E2235E4",
@@ -4258,6 +6545,34 @@
       "urlString" : "https:\/\/youtu.be\/wM8TT2Ap9eQ?si=iFVjkVrsLunz6tne"
     },
     {
+      "id" : "68E123B4-384E-452E-BF46-2AB09E8E6B5D",
+      "kind" : "Food",
+      "stadiumID" : "D20B5BEE-7923-4362-A790-C4858EF8BFC6",
+      "title" : "Sampling the new food offerings at PNC Park",
+      "urlString" : "https:\/\/youtu.be\/NlvG16IROeU?si=CZHCf2HhFz3iPYzU"
+    },
+    {
+      "id" : "06C73199-36BA-4BDE-A6CD-91A322D3C630",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "76923C7D-6C5D-46E5-B73C-863608A63C57",
+      "title" : "Sandy Alcantara DOMINATED in his THIRTEENTH career complete game 🐟 | MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/sw8_Io_gzNI?si=2oUUWRzLQR2fT2q1"
+    },
+    {
+      "id" : "F76D1D0B-F2EC-4147-883C-20A22B2B43EB",
+      "kind" : "Game",
+      "playerID" : "76923C7D-6C5D-46E5-B73C-863608A63C57",
+      "title" : "Sandy Alcantara pitched into the 9th inning AGAIN! 😲 | MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/P27xTfRi7NU?si=zVcKiY_17My6EGjp"
+    },
+    {
+      "id" : "F375FBB0-6A70-4107-B629-9D3DE07E8882",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "D1276407-B08E-4D39-BB4E-8717F0627840",
+      "title" : "Seattle Mariners - T-Mobile Park - GUIDE TO MARINERS GAME - T Mobile Stadium Review - MLB - Ballpark",
+      "urlString" : "https:\/\/youtu.be\/5INQSJOMuTc?si=NEA1j7DX0VRdu1sM"
+    },
+    {
       "id" : "E28A26FC-4C2B-4093-B50B-A541AE093BA3",
       "kind" : "Game",
       "playerID" : "240941E7-AF65-4C86-BDD6-5AAB3AFE4B12",
@@ -4286,6 +6601,34 @@
       "urlString" : "https:\/\/youtu.be\/crz36Cnlh80?si=wIJJsEegSFExSfTO"
     },
     {
+      "id" : "195E0BC9-B25E-4A32-91C8-3BBD7DD503C7",
+      "kind" : "Game",
+      "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
+      "title" : "Shohei Ohtani’s 3-homer + 10-strikeout game! GREATEST POSTSEASON PERFORMANCE EVER? | 大谷翔平 ハイライト",
+      "urlString" : "https:\/\/youtu.be\/3hvEAU8fPCY?si=IO0MSoU2r1oEpyjk"
+    },
+    {
+      "id" : "FC5A1AC2-452E-4005-8538-BCFF2DDD9B90",
+      "kind" : "Game",
+      "playerID" : "CF0C4111-5E3E-4A04-9592-9CA3FC8A58F1",
+      "title" : "Sonny Gray 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/ZT7muOGn3_U?si=XktEWRujUFWCw_BS"
+    },
+    {
+      "id" : "933F834C-756C-4DDC-9C8F-0D5E9AC345A8",
+      "kind" : "Game",
+      "playerID" : "CF0C4111-5E3E-4A04-9592-9CA3FC8A58F1",
+      "title" : "Sonny Gray | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/rTGWcWVODVE?si=Y3jtpGP7ZOOzdJtv"
+    },
+    {
+      "id" : "593CE508-24A1-4A1F-81EA-41B68808A909",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "A1603852-E51E-4C6B-9E56-953D9FCB2E42",
+      "title" : "Stadium Review ⚾ Cincinnati Reds",
+      "urlString" : "https:\/\/youtu.be\/DL20C80o2C0?si=5Mi8mwrGYJAVVqCW"
+    },
+    {
       "id" : "0D692E0C-094F-4ADC-B57F-A51539EDA764",
       "kind" : "Game",
       "playerID" : "673A973E-4A93-4A9A-9B50-AB807B05E81B",
@@ -4298,6 +6641,20 @@
       "stadiumID" : "BDDB64D6-B31C-4E43-B2FC-70C7D5AA3624",
       "title" : "Subway and Access Guide",
       "urlString" : "https:\/\/new.mta.info"
+    },
+    {
+      "id" : "C24BE2F9-461E-42F3-B6B8-09CE1EBEB77A",
+      "kind" : "Food",
+      "stadiumID" : "44D3D420-764C-4BED-90CF-F1D0AA44E350",
+      "title" : "THEE BEST FOODS at Angel Stadium in Anaheim|Baseball Food Review|Trying multiple foods",
+      "urlString" : "https:\/\/youtu.be\/8XQye37vfdM?si=bSZcfT9bG2gTMlpm"
+    },
+    {
+      "id" : "01D4A0AD-245E-4796-8C84-4474389CC013",
+      "kind" : "Game",
+      "playerID" : "81A795C3-6A48-41D5-AA72-4AE15FF3FC84",
+      "title" : "THREE HOME RUNS for Spencer Steer! (Last time for the Reds was 2021 😳)",
+      "urlString" : "https:\/\/youtu.be\/4NUnzHLlq7M?si=qeZhLdqq-C5eves8"
     },
     {
       "id" : "23B0B6CD-4D8C-4807-BCA7-ADC8AB522C1D",
@@ -4377,11 +6734,32 @@
       "urlString" : "https:\/\/youtu.be\/6v6LMYD3LsA?si=m_TpG0lQazDUvVMl"
     },
     {
+      "id" : "F82CB5A5-8AD1-420F-9CA5-658CDA20F176",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "48EFF5B8-83AB-445C-BE48-F88B07B7DDB3",
+      "title" : "The BEST SEATS at the most boring MLB Stadium - Lexus Club at Texas Rangers Globelife Field",
+      "urlString" : "https:\/\/youtu.be\/degM3QPnLLo?si=qe1R9T7NT0wHHlSp"
+    },
+    {
+      "id" : "363F0198-606B-4C81-8A93-E4BBA9E967E7",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "title" : "The BEST seats at DODGERS STADIUM! (Yaamava Dugout Club, FULL TOUR and BLOG!)",
+      "urlString" : "https:\/\/youtu.be\/mr0qxvWcuSY?si=aL5Y6QPNCMUuDiwl"
+    },
+    {
       "id" : "8B84D3B5-4566-46A9-89E6-37D65EE1A400",
       "kind" : "Food",
       "stadiumID" : "B83E85F5-B346-4246-ADCC-6FE809086B42",
       "title" : "The Foodie - All About Fenway by Rustic Kitchen",
       "urlString" : "https:\/\/youtu.be\/T_5hQKloxoQ?si=eo5amnFWR4a3IP_Z"
+    },
+    {
+      "id" : "46720BA3-FBDC-40C9-B8F1-6724F5F269A6",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "44D3D420-764C-4BED-90CF-F1D0AA44E350",
+      "title" : "The MLB Stadium No One Talks About",
+      "urlString" : "https:\/\/youtu.be\/8qzvip8XCr0?si=_et6FcY3BOOyaB4i"
     },
     {
       "id" : "AD1A0D06-C951-4FF3-A7A4-34A6B9011BAF",
@@ -4475,6 +6853,13 @@
       "urlString" : "https:\/\/www.discoverlosangeles.com"
     },
     {
+      "id" : "E5A58578-CC66-489D-8BAE-5E4467E8FE57",
+      "kind" : "Game",
+      "stadiumID" : "A1603852-E51E-4C6B-9E56-953D9FCB2E42",
+      "title" : "Try the Ball Park Food… all of it",
+      "urlString" : "https:\/\/youtu.be\/ENqAkflh6Q0?si=u2pGKWl2RLqLGuLQ"
+    },
+    {
       "id" : "CE05F205-9DB5-431F-83D8-5794F975A058",
       "kind" : "Food",
       "teamID" : "3EC6F99F-53C2-46CC-9757-FF48F77FBC2B",
@@ -4517,6 +6902,20 @@
       "urlString" : "https:\/\/youtu.be\/dF8bYJgd4lY?si=RBwCq5WAuoutSt1O"
     },
     {
+      "id" : "AA224D62-6581-4CE9-B647-0CA42331F680",
+      "kind" : "Game",
+      "playerID" : "07EAFB20-73CB-4D1D-A9FC-8B316B971269",
+      "title" : "UNANIMOUS! 🏴‍☠️ Paul Skenes has won the 2025 NL Cy Young Award! (Full season highlights)",
+      "urlString" : "https:\/\/youtu.be\/YBR4w03wLzk?si=1GM_NBK7PU3eW9Hw"
+    },
+    {
+      "id" : "593203A3-3827-4361-83C6-75A149C1394C",
+      "kind" : "Game",
+      "playerID" : "39E6415F-5ED7-41A7-A822-CD1BB69D9388",
+      "title" : "United States vs. Japan Game Highlights | 2023 World Baseball Classic Final",
+      "urlString" : "https:\/\/youtu.be\/qkRUcYHJ1JI?si=AFltzkkePTRFGJ05"
+    },
+    {
       "id" : "0EE5DC2C-95F4-46A5-8476-C503C7DCB152",
       "kind" : "Wiki \/ Reference",
       "stadiumID" : "846F4872-DD0B-48B6-A627-9FFF7F68D0DB",
@@ -4529,6 +6928,13 @@
       "playerID" : "C5AC0FAA-7935-4DC8-B1D2-7D76ECF26BED",
       "title" : "Vinnie Pasquantino | 2025 Highlights",
       "urlString" : "https:\/\/youtu.be\/sBtaxidJ0o0?si=y0ot6Xj8nXJ10w2r"
+    },
+    {
+      "id" : "60EBB055-2CC9-4E02-9E21-1981FDE6213E",
+      "kind" : "Game",
+      "playerID" : "A2338A14-08D4-4E70-A43E-C9A961D2105D",
+      "title" : "Vintage deGrom! Jacob deGrom hurls quality start vs. Dodgers (Full 9 strikeouts) 😤 | MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/vUNDMLdxCss?si=NJZ1QPL6YtmWcCXU"
     },
     {
       "id" : "E3765197-67F4-40F1-9C56-F3F357F5A7BE",
@@ -4545,11 +6951,81 @@
       "urlString" : "https:\/\/youtu.be\/hVJIJgpJZjY?si=eMq6QyWQqdSUIQX0"
     },
     {
+      "id" : "EE7B7447-05BB-420C-B180-7AA5F36C87D9",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "C390F8F4-80DA-4F10-A7E6-81DF365DF043",
+      "title" : "WALK-OFF GRAND SLAM! Xander Bogaerts and the Padres get EPIC win! 🫨 (Full 12th inning + interview!)",
+      "urlString" : "https:\/\/youtu.be\/9LFw5sftVQc?si=rK0DL1KjOSyja7hE"
+    },
+    {
+      "id" : "53B8EB6B-0AA9-4A88-BFCF-6C0368D1E698",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "0F47120B-07A3-4D18-8A52-7E2EBCBD318B",
+      "title" : "WASHINGTON NATIONALS at Nationals Park | Stadium Tour & Review",
+      "urlString" : "https:\/\/youtu.be\/-Pary7yfwIE?si=Hf62IDBbh1FtxHUK"
+    },
+    {
+      "id" : "75339F4B-574F-421E-90C8-CE7ACAFEB73D",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "D20B5BEE-7923-4362-A790-C4858EF8BFC6",
+      "title" : "Walking Tour of one of MLB's most scenic ballparks!! FULL Tour of PNC Park in Pittsburgh",
+      "urlString" : "https:\/\/youtu.be\/gBSQLNZ3a8k?si=0aMWxl3Yh1W-3iO7"
+    },
+    {
+      "id" : "2106F792-A79A-465F-94D0-BBBBE3DD9CD9",
+      "kind" : "Food",
+      "stadiumID" : "95BF8385-E4D8-47A7-BD6B-EB41A131ED3F",
+      "title" : "We Tried EVERY New Food at Dodger Stadium…",
+      "urlString" : "https:\/\/youtu.be\/wrEERgFycGo?si=paVDV5AuSXhI75Nl"
+    },
+    {
+      "id" : "3E6109B7-64B3-4B99-AA65-0BEB7B0AEDAD",
+      "kind" : "Food",
+      "stadiumID" : "0E9D2992-D962-4C6D-8ACD-0B50C54F82DA",
+      "title" : "We got to taste all the San Francisco Giants' new food at Oracle Park ahead of Opening Day!",
+      "urlString" : "https:\/\/youtu.be\/KwGFihA-_eg?si=HfKxGSUUo4exj2kB"
+    },
+    {
+      "id" : "143151F0-99D7-4EBA-A869-C8DBC174D829",
+      "kind" : "Food",
+      "stadiumID" : "0E9D2992-D962-4C6D-8ACD-0B50C54F82DA",
+      "title" : "We got to taste all the San Francisco Giants' new food at Oracle Park ahead of Opening Day!",
+      "urlString" : "https:\/\/youtu.be\/KwGFihA-_eg?si=JD95uUWmYrAC4N1j"
+    },
+    {
       "id" : "F31594FB-C03B-4AAD-B07D-B011E696935D",
       "kind" : "Food",
       "teamID" : "5572F0D0-A49B-46D4-955B-B77467A3480A",
       "title" : "We tried NINE Yankee Stadium Foods in NINE innings (Matt James)",
       "urlString" : "https:\/\/youtu.be\/44RbM3M7jrE?si=6ZddkvScCCare1yZ"
+    },
+    {
+      "id" : "88FE04ED-7E63-4357-9C87-43E5075E5794",
+      "kind" : "Food",
+      "stadiumID" : "A1603852-E51E-4C6B-9E56-953D9FCB2E42",
+      "title" : "What to Eat 🌭 at the Ballpark in Cincinnati.",
+      "urlString" : "https:\/\/youtu.be\/InMK4Z-zTeo?si=9m15UGxMhuFD6bR_"
+    },
+    {
+      "id" : "9D0F1D03-B6A9-4B0E-811F-5BE7B5C4D2F3",
+      "kind" : "Food",
+      "stadiumID" : "44D3D420-764C-4BED-90CF-F1D0AA44E350",
+      "title" : "What to do 2 hrs before an Angels Game?",
+      "urlString" : "https:\/\/youtu.be\/o_QueCIhUGc?si=FdgzCf6jY1zysO0v"
+    },
+    {
+      "id" : "1D4022AF-3A47-4386-B2C0-2A4AF146AF7A",
+      "kind" : "Food",
+      "stadiumID" : "D20B5BEE-7923-4362-A790-C4858EF8BFC6",
+      "title" : "What's new on the menu at PNC Park?",
+      "urlString" : "https:\/\/youtu.be\/36irn4VZHBc?si=j6wW6dFV0daJ0_mx"
+    },
+    {
+      "id" : "A4E76462-550C-42D6-BAA1-A4DF35DC15B9",
+      "kind" : "Food",
+      "stadiumID" : "6B20920F-3A0D-45A8-9AA6-774FF7D1A4DC",
+      "title" : "What's on the menu? Here's the Opening Day food at Truist Park",
+      "urlString" : "https:\/\/youtu.be\/i6ULa-jYK1k?si=VTSC7zwBVZac9LQj"
     },
     {
       "id" : "BA2C1139-B89D-48AD-AC6C-D0D5C686DCFE",
@@ -4559,11 +7035,46 @@
       "urlString" : "https:\/\/youtu.be\/4rfCGP7bbxQ?si=PoDPCHOqIlselp9K"
     },
     {
+      "id" : "D1168558-0025-4A79-98FD-A414B4007304",
+      "kind" : "Game",
+      "playerID" : "4CCFE324-043F-4B5E-8A52-7C91E1590CD2",
+      "title" : "William Contreras 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/q5fjjS7LlBo?si=zAV9dBALJo6WcitL"
+    },
+    {
+      "id" : "71DFA898-3113-4257-8EEB-9F463DFA9931",
+      "kind" : "Game",
+      "playerID" : "0B30885C-5439-43BC-BB7D-BF19B100B211",
+      "title" : "Willson Contreras 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/UZl7ApfRxzA?si=IpiOwuseFIVUGFSq"
+    },
+    {
+      "id" : "EADB3544-FA74-475D-9C85-8BEB72F276ED",
+      "kind" : "Game",
+      "playerID" : "0B30885C-5439-43BC-BB7D-BF19B100B211",
+      "title" : "Willson Contreras | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/JFZRlgTx3Nk?si=zeD3U2AJ5vMVSc3C"
+    },
+    {
       "id" : "D58F98C1-FBAF-489F-9B7D-1C5924933E4F",
       "kind" : "Food",
       "stadiumID" : "C1A87934-187C-4B00-9914-2E9AC06C2B6E",
       "title" : "Wrigley Field's Hot Dogs vs. Guaranteed Rate Field's Hot Dogs | *CUBS vs WHITE SOX*",
       "urlString" : "https:\/\/youtu.be\/yk4Ddk8ziy0?si=M8ugpybSXex4MV_X"
+    },
+    {
+      "id" : "B4751562-F760-4701-BA86-ACD3EA7343F8",
+      "kind" : "Game",
+      "playerID" : "D10238CD-9C15-41FA-ACA0-625938D33943",
+      "title" : "Wyatt Langford | 2025 Highlights",
+      "urlString" : "https:\/\/youtu.be\/RSYxkRhxuAA?si=wu3jZP5-WzyJj6Ra"
+    },
+    {
+      "id" : "066B73FB-BAF8-4DD7-85FE-62D815946619",
+      "kind" : "Game",
+      "playerID" : "3DED3C0B-CDF6-40D4-8C15-66018BBC2657",
+      "title" : "Xavier Edwards 2025 MLB Highlights!",
+      "urlString" : "https:\/\/youtu.be\/4hnbMbrldRU?si=gPJOgyBT24kLI8D1"
     },
     {
       "id" : "BA7072D9-B39F-47F3-92EA-7775861AF3E7",
@@ -4612,11 +7123,53 @@
       "urlString" : "https:\/\/youtu.be\/V-Dj7dPDqzc?si=cyc8nVtFa25KzcW3"
     },
     {
+      "id" : "E0E31D60-0549-4846-939C-4AF1620BF265",
+      "kind" : "Game",
+      "playerID" : "45159566-A8E1-47FC-B32C-0EE0C690A0F5",
+      "title" : "Young INF SUPERSTAR emerging?! 👀 Zach Neto's BEST MOMENTS with the Angels in 2025!",
+      "urlString" : "https:\/\/youtu.be\/S44L1lGQVdE?si=IaPgKWtl018iISjT"
+    },
+    {
+      "id" : "D16C1675-7BB5-4D4A-98C3-9079C5CFA6B6",
+      "kind" : "Game",
+      "playerID" : "45159566-A8E1-47FC-B32C-0EE0C690A0F5",
+      "title" : "Zach Neto 2025 MLB Highlights",
+      "urlString" : "https:\/\/youtu.be\/yv__V8SMsj0?si=DYaLxRfNfFU0af-b"
+    },
+    {
+      "id" : "C59C9E91-FCCE-4807-A887-1FE63C0C5F0C",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "D1276407-B08E-4D39-BB4E-8717F0627840",
+      "title" : "[MLB球場巡禮] No.3 西雅圖水手 – T-mobile Park: 開賽前2.5小時去排隊只為了免費球衣! 大谷翔平來作客差點開轟! 球場美食街竟然有鼎泰豐!",
+      "urlString" : "https:\/\/youtu.be\/MGiWbWiCYpQ?si=yeZu1lRRQn2EA4MG"
+    },
+    {
+      "id" : "6F36D827-4FFF-4349-8FF5-C5E9A8377AE5",
+      "kind" : "Game",
+      "playerID" : "E2C700E1-9C26-4FF1-AB0D-73FF117B6948",
+      "title" : "[Taiwan’s Ace] Hsu Jo-Hsi's 98 MPH! Sharp Form in Triumphant Return!",
+      "urlString" : "https:\/\/youtu.be\/nZ3D8gmWXHE?si=MF1-7lhpwOxcd_5h"
+    },
+    {
       "id" : "33AC1372-BA8C-4452-A049-73157AD13C91",
       "kind" : "Wiki \/ Reference",
       "playerID" : "F83A1CF7-77AE-4E48-A3F8-3E24F62A4B94",
       "title" : "⚾️洋基砸1.625億「續簽Bellinger」值不值得？短牆外挂＋雙跳脫，神操作還是高風險豪賭！ MLB每日AI快報",
       "urlString" : "https:\/\/youtu.be\/OQkBKG-qdLg?si=OxI6QNPMfCQFn8iW"
+    },
+    {
+      "id" : "10C559C7-94D8-41C7-BF51-DD777A1BDB41",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "56964ADD-26F7-47DE-A166-14FD17327E0B",
+      "title" : "⚾️球場系列⚾️名古屋萬特力巨蛋開箱啦！一起和中日龍、DOALA來場chill chill球賽！大阪+名古屋球場之旅（下） by HOME RUNning 熱血棒球音樂劇",
+      "urlString" : "https:\/\/youtu.be\/cM60MDfaAc0?si=vTvO6uUfNVSN-Ypr"
+    },
+    {
+      "id" : "D0BE175A-9CEF-4675-98BC-ED0B220B9A73",
+      "kind" : "Food",
+      "stadiumID" : "FDDD7909-7C1B-4775-BFEE-43C5F2D8D08E",
+      "title" : "⚾️球場系列⚾️歐力士猛牛京瓷巨蛋初體驗！大阪+名古屋野球配美食之旅（上） by HOME RUNning 熱血棒球音樂劇",
+      "urlString" : "https:\/\/youtu.be\/HcQgHTliOQU?si=v66u3FxzRy4506M-"
     },
     {
       "id" : "9064C814-BF64-41C5-BD0F-B31228F2515E",
@@ -4633,11 +7186,46 @@
       "urlString" : "https:\/\/youtu.be\/SKHGlFoid0E?si=I-yy9NmQBjwhas9N"
     },
     {
+      "id" : "AB0ECD4C-7437-4046-96D3-D81B6EF3DE1F",
+      "kind" : "Game",
+      "playerID" : "A8E9BC5A-63D4-44C0-AA4F-175D535AF5C7",
+      "title" : "『Spotlight Player』Yuma Tongu",
+      "urlString" : "https:\/\/youtu.be\/PvpdrcyNgVw?si=H3JrDGf99fAeG7no"
+    },
+    {
       "id" : "F4E005EA-FE0C-4729-A04C-760BC454C0C4",
       "kind" : "Game",
       "playerID" : "B982937C-EC25-400C-A05B-532F7920F814",
       "title" : "【 2025年度回顧】許基宏19+1、全季20轟合輯！最佳10人、金手套雙料一壘得主",
       "urlString" : "https:\/\/youtu.be\/kOVQFZ8_iHE?si=yYncr7OffJbFVTtt"
+    },
+    {
+      "id" : "52162AD8-3204-42EA-B40A-DF958E63E2DA",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "FDDD7909-7C1B-4775-BFEE-43C5F2D8D08E",
+      "title" : "【 日本球場 】 歐力士猛牛 主場Vlog ｜京瓷巨蛋大阪｜初次拜訪日本五大巨蛋之一 by  Ruby與Rou",
+      "urlString" : "https:\/\/youtu.be\/UvWi7obi-Uk?si=0U7FWJZKBYgo88yb"
+    },
+    {
+      "id" : "42D1AFC3-74D0-4260-BDAD-8AF8D4C821EE",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "774AC383-6BAA-401B-96C2-DD72C2FE475F",
+      "title" : "【#1曾子祐🦅應援曲】",
+      "urlString" : "https:\/\/youtu.be\/GLmId6bBug0?si=VatvszJqx_G5M3jV"
+    },
+    {
+      "id" : "91D2BD2D-416B-45E1-8AE5-199BBA51B9DF",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "0DFDDB16-D042-4B31-8FB1-B83FFA1DD1CF",
+      "title" : "【#39吳念庭🦅應援曲】",
+      "urlString" : "https:\/\/youtu.be\/wVAyLHw611o?si=r4fTE4iloYLGTC0B"
+    },
+    {
+      "id" : "440DDA92-D447-44E1-81D9-71268508AE76",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "7E9CC014-95A5-42B0-903F-175408BDC053",
+      "title" : "【#3陳文杰🦅應援曲】",
+      "urlString" : "https:\/\/youtu.be\/bEASXlL8aqk?si=rQBxvaj7vJ9jC6Qj"
     },
     {
       "id" : "CD197C72-EE97-4B95-B24D-C846795EFDA0",
@@ -4661,11 +7249,46 @@
       "urlString" : "https:\/\/youtu.be\/gIdvP3d4oWY?si=IDzqYyKlpXubzcGa"
     },
     {
+      "id" : "3010E8BB-E527-4EA2-A834-741BD78D86F4",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "19CEE014-D8CF-4B94-8AD9-DFDAD8BA5C64",
+      "title" : "【#9王柏融🦅應援曲】",
+      "urlString" : "https:\/\/youtu.be\/_OAH-yqZf5c?si=Y_5oVUiXq0njOEPo"
+    },
+    {
+      "id" : "C55C2E28-A2DC-4362-80F0-0C319C00F998",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "FD0063DF-D6B8-40FB-B84C-EE48390248CE",
+      "title" : "【2022 Rakuten Monkeys】應援曲教學｜5 梁家榮",
+      "urlString" : "https:\/\/youtu.be\/Fx1CzhTKIBE?si=EZFHgAKy5GWpO-q1"
+    },
+    {
+      "id" : "BB6EA08A-A3F2-4A89-900B-56FCBEC8799A",
+      "kind" : "Game",
+      "playerID" : "1214E12A-2F20-48B0-8F04-D4AF0742F542",
+      "title" : "【2023 MLB】馬林魚20歲小將Eury Pérez聯盟生涯首勝 5局飆6K優質好投",
+      "urlString" : "https:\/\/youtu.be\/kXcJBbAJjf8?si=A9-vceEdEeu4MHux"
+    },
+    {
       "id" : "1E30CBE2-0D67-421B-9E34-3A1858358DED",
       "kind" : "Game",
       "playerID" : "4B438376-35C2-421E-8BAB-ECA664801887",
       "title" : "【2023MLB】Framber Valdez飆生涯首次無安打比賽！太空人隊史第一位左投達陣",
       "urlString" : "https:\/\/youtu.be\/kfRZp0aBGW4?si=QhZo_livZE65Xu-L"
+    },
+    {
+      "id" : "B93C98DB-56C0-48C6-BB91-ED08AC631AD3",
+      "kind" : "Game",
+      "playerID" : "0237D661-45B5-4E38-ABE6-C7CBC5E3AF83",
+      "title" : "【2023MLB】Merrill Kelly單局連3K！七彩變化球壓制費城人打線",
+      "urlString" : "https:\/\/youtu.be\/FI6hKswLrCc?si=H7s1Oi04LWkuN55p"
+    },
+    {
+      "id" : "0A3867F3-06FC-4797-89C8-1004CA8736B1",
+      "kind" : "Game",
+      "playerID" : "76923C7D-6C5D-46E5-B73C-863608A63C57",
+      "title" : "【2023MLB】賽揚魚王果然強！Sandy Alcantara主投8局無失分另飆5K！",
+      "urlString" : "https:\/\/youtu.be\/eZIRIi12ke0?si=aV14lR15docan-Lk"
     },
     {
       "id" : "1277AC8C-2565-4D45-BCCC-1675D83B62DC",
@@ -4682,6 +7305,41 @@
       "urlString" : "https:\/\/youtu.be\/qkKoxwvbkwA?si=ComAe2_Dhq9BYNsX"
     },
     {
+      "id" : "EE8E3F29-0F97-400C-9741-1D43597750C5",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "21A82ED5-99A9-46FA-9B3B-C76E28FA038B",
+      "title" : "【2025頒獎典禮】打點王轟出新高分！吉力吉撈．鞏冠得獎感言！",
+      "urlString" : "https:\/\/youtu.be\/kKEw1wiWebw?si=OS-Br61HMU1vYxif"
+    },
+    {
+      "id" : "EB2F5F02-0736-4E24-837E-24B29DCD9846",
+      "kind" : "Game",
+      "playerID" : "A7037875-E19B-44DA-94ED-BF17C0F54554",
+      "title" : "【2026 贏球龍好眠】 04\/18 劉基鴻敲出逆轉兩分砲，拿下今日單場MVP",
+      "urlString" : "https:\/\/youtu.be\/Q7nv3PBTi_4?si=HOproSchH6bKs7eE"
+    },
+    {
+      "id" : "012183E6-E708-4D3D-9D64-99411B5814A1",
+      "kind" : "Game",
+      "playerID" : "F1540CBE-8B1A-4232-B452-9CBFAA1CFE6E",
+      "title" : "【3年連続20本塁打】細川成也 右中間への2ランホームラン!!【中日】",
+      "urlString" : "https:\/\/youtu.be\/mPngako9kgM?si=4RZfqeYtAUVcyaHH"
+    },
+    {
+      "id" : "A08295C8-085B-4223-AA5B-148D701E9C90",
+      "kind" : "Game",
+      "playerID" : "19CEE014-D8CF-4B94-8AD9-DFDAD8BA5C64",
+      "title" : "【4\/14例行賽】#王柏融 本季第3轟、中職生涯第99轟@洲際",
+      "urlString" : "https:\/\/youtu.be\/uGpy7T1HDfM?si=xE3EA9aWRHABhq1Y"
+    },
+    {
+      "id" : "5B98A280-20D1-46ED-8D72-73CDCAD63018",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "94F681A0-B33D-45AE-A405-BA9899AE2F24",
+      "title" : "【4K60】 Petco Park Gameday - Mets vs. Padres",
+      "urlString" : "https:\/\/youtu.be\/45jD8j3ofFY?si=E_yoz1l01aaBMUtN"
+    },
+    {
       "id" : "67CA591A-AF88-4AD2-B206-82A473B86E6B",
       "kind" : "Wiki \/ Reference",
       "playerID" : "1C05791D-01D0-47E9-B0F1-40FECF604A40",
@@ -4689,11 +7347,46 @@
       "urlString" : "https:\/\/youtu.be\/UdlMkRUbLjU?si=jKcBPjdYDVWTOnV-"
     },
     {
+      "id" : "54899A93-582F-4143-A34E-021F638C6E7C",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "BC2F0A8A-7F8A-4DF4-A7B1-6C9893C94994",
+      "title" : "【MLB軼事】神鱒 Mike Trout 到底發生什麼事？",
+      "urlString" : "https:\/\/youtu.be\/6GODSOd2vP0?si=rILISY9x0P_f4gW7"
+    },
+    {
+      "id" : "8D70F1C9-5E02-4A05-97C7-D1806E50C9A0",
+      "kind" : "Game",
+      "playerID" : "B46EA3F4-EDAB-407F-BBEC-BC873E6ECDBB",
+      "title" : "【三井GG賞】オリックス・紅林弘太郎 好プレー集【遊撃手部門】",
+      "urlString" : "https:\/\/youtu.be\/epf2g2tXOUU?si=mGFaWR2WQCLUBGEy"
+    },
+    {
+      "id" : "19B0B79D-2E56-4BB1-A11B-F262404E21DE",
+      "kind" : "Wiki \/ Reference",
+      "teamID" : "8F72EB30-9D0E-4023-BF82-74DB4B2338A3",
+      "title" : "【世界棒球12強】辰己涼介賭台灣輸栽了! 老婆也虧「你要當投手了嗎?」 ｜TVBS新聞",
+      "urlString" : "https:\/\/youtu.be\/H1lNDukF8vo?si=Uu80ftRd4zgWzoMm"
+    },
+    {
+      "id" : "7A1B71F8-1F81-4A72-9009-A8A485CA7B2C",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "7097D399-A6C1-4280-B810-E5AF551F33CE",
+      "title" : "【台灣囡仔拚日職】宋家豪登板示範完美中繼 11球2K三上三下2026.04.09 東北樂天金鷲 vs 北海道日本火腿鬥士 by DAZN Taiwan",
+      "urlString" : "https:\/\/youtu.be\/5A6CXsLzzqo?si=QM8lbXWlNceTPHmk"
+    },
+    {
       "id" : "E5DBC390-0794-4540-BDAD-45895F351D6C",
       "kind" : "Game",
       "playerID" : "9F0A25AC-D53A-40BD-B144-03CB7523119A",
       "title" : "【台灣囡仔拚日職】林安可壓力釋放 日職首轟就是再見全壘打 2026.04.12 埼玉西武獅 vs 千葉羅德海洋  DAZN Taiwan",
       "urlString" : "https:\/\/youtu.be\/VaHvToplA8s?si=MJxEhNfCLSislgnH"
+    },
+    {
+      "id" : "4149097A-FFD5-4290-9291-0B4BEDD9DBFB",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "19CEE014-D8CF-4B94-8AD9-DFDAD8BA5C64",
+      "title" : "【大王】#王柏融 重拾順暢節奏 不和巔峰的自己比較！ ｜緯來運動STUDIO",
+      "urlString" : "https:\/\/youtu.be\/uOcGzWk068c?si=yPp6_VGgirfmvDfr"
     },
     {
       "id" : "689C3CBF-E0F8-45BF-B6F6-F4B091105471",
@@ -4724,6 +7417,62 @@
       "urlString" : "https:\/\/youtu.be\/MpzOiLTfNYI?si=MXKcBtny_O4L5fi1"
     },
     {
+      "id" : "D27B4CE0-CECC-4E27-85BD-C47C9740AF29",
+      "kind" : "Game",
+      "playerID" : "19CEE014-D8CF-4B94-8AD9-DFDAD8BA5C64",
+      "title" : "【日職】#王柏融 把球打回台灣啦！從地獄爬出來的邪惡大王利用毀滅之力敲出了本季首轟 ！2023.08.17 北海道日本火腿鬥士x千葉羅德海洋",
+      "urlString" : "https:\/\/youtu.be\/tcZI_Xscy18?si=hXjeahNjI9Kz28A0"
+    },
+    {
+      "id" : "2991309C-EB52-49AE-BA56-F5B9B2926F2D",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "0BFB10D3-0BAD-4BAF-9359-DB3260378C6D",
+      "title" : "【樂天】2023\/08\/16 陳晨威應援曲 筠熹",
+      "urlString" : "https:\/\/youtu.be\/Jk0UM_oNwu0?si=jR3hfZB0Z_kXEcyT"
+    },
+    {
+      "id" : "E2DBE5F8-E984-443B-86D0-1A81853015CA",
+      "kind" : "Game",
+      "playerID" : "C6C35122-70E8-47BB-A6C5-9FEF84646F42",
+      "title" : "【激闘】浅村栄斗のHRまとめ【本塁打王】",
+      "urlString" : "https:\/\/youtu.be\/72uLka367zs?si=iSDCivILIkQO8VHX"
+    },
+    {
+      "id" : "203F4310-F366-4B84-B8DE-8D459C097E1E",
+      "kind" : "Game",
+      "playerID" : "FE054AA2-774A-4AFF-A37E-92EE982B8B44",
+      "title" : "【燕の未来を担う男】長岡秀樹 攻守に確かな存在感【19試合連続安打】",
+      "urlString" : "https:\/\/youtu.be\/o2XXBbfnnRU?si=colDWX8ANJULRLqb"
+    },
+    {
+      "id" : "EB5D3F69-2FAB-45F0-9567-E1238394D664",
+      "kind" : "Game",
+      "playerID" : "74C861ED-DCFE-4666-81B6-1BD69F3DAE52",
+      "title" : "【猛打賞】岡林勇希リーグトップ＆自己最多165安打【中日】",
+      "urlString" : "https:\/\/youtu.be\/tPxh6YcJE68?si=addtaVsSHfe4yjSf"
+    },
+    {
+      "id" : "7338D5FF-D235-4E65-8940-D34A6F1B5C6B",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "55F98DB9-D4A3-4765-B343-0E5B7271F3CD",
+      "title" : "【球場巡禮】日本職棒EP6丨球場內有摩天輪！丨樂天Mobile Park宮城丨楽天モバイルパーク宮城丨東北樂天金鷲主場 by  MJ老師不在家",
+      "urlString" : "https:\/\/youtu.be\/ubJL_I-3P3k?si=db42SWEvwChYoQgZ"
+    },
+    {
+      "id" : "FFBE1B07-034B-4F18-906D-378F504C5764",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "7097D399-A6C1-4280-B810-E5AF551F33CE",
+      "title" : "【白鴿探索中】被評為樂天金鷲最強洋投 中華隊守護神宋家豪",
+      "urlString" : "https:\/\/youtu.be\/2SXOGshQKdQ?si=aB8KX8TlRpdZb72A"
+    },
+    {
+      "id" : "2E6D42C7-D6D8-4226-9297-48466A1FE73C",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "E2C700E1-9C26-4FF1-AB0D-73FF117B6948",
+      "title" : "【野球名人房S2EP.169】若熙日本春訓直擊！軟銀春訓基地大公開 大咖球星訓練畫面曝光 還有隱藏周邊商品、美食一次看 ｜福岡軟銀鷹(上集)｜NOWNEWS",
+      "urlString" : "https:\/\/youtu.be\/bC7qovHVqOU?si=PRgshoCxHfCY1nf_"
+    },
+    {
       "id" : "7115E359-B2D5-4238-9F30-6CA05900ED97",
       "kind" : "Game",
       "playerID" : "4635BE88-45FC-4132-AAB7-B8787FD4A184",
@@ -4738,6 +7487,13 @@
       "urlString" : "https:\/\/youtu.be\/7lppUI5M0TA?si=nXM4ZB9cL_Ydbmaq"
     },
     {
+      "id" : "B5A81E30-0EFE-4E12-8CA2-311905879AC1",
+      "kind" : "Game",
+      "playerID" : "E4FCF011-0445-44F1-BB97-36C12DB71C87",
+      "title" : "不用游回去了！李政厚五星美技接殺守下晉級門票 | 2026 WBC世界棒球經典賽",
+      "urlString" : "https:\/\/youtu.be\/vuMD7nXdbTo?si=GDdBfEy4rA_kPpRS"
+    },
+    {
       "id" : "AF4B089D-DEF1-4F7E-BE4E-CD958BBE65F3",
       "kind" : "Game",
       "playerID" : "48CFDCC4-5B58-43A4-A0D9-EDC3B25F78F5",
@@ -4745,11 +7501,46 @@
       "urlString" : "https:\/\/youtu.be\/3KBfbOCZcsY?si=3TyhGqH78TaVCWGD"
     },
     {
+      "id" : "91669EC2-FE5B-4768-8178-6E0AAAFDA7D9",
+      "kind" : "Game",
+      "playerID" : "86BCC2B9-C309-45A5-89D2-C023C87E1FB9",
+      "title" : "世界大賽MVP：山本由伸！九局下登板主投2.2局無失分 連兩戰拿下勝投",
+      "urlString" : "https:\/\/youtu.be\/s1rlNvt_4V4?si=_LoNmAusTGn1aQBo"
+    },
+    {
       "id" : "8EED6CF7-EF6A-4D16-A1E9-8AD02BFC0E01",
       "kind" : "Wiki \/ Reference",
       "stadiumID" : "B02E388A-1594-423A-8CBD-47FFBB541426",
       "title" : "中信兄弟! 臺中洲際棒球場! 同場加映 台灣大賽 G5 封王拋彩帶 by  Jarvan The Voyager",
       "urlString" : "https:\/\/youtu.be\/-LZKZ3wahZE?si=zQ1nAqWdQkV3uOuE"
+    },
+    {
+      "id" : "62F7444E-83B4-42A8-BE41-8A06EFD32283",
+      "kind" : "Game",
+      "playerID" : "D93F7B9E-4AE7-4F7F-B9EB-B7342DD487A9",
+      "title" : "中職 》2025 外野金手套 ⚾ 郭天信 例行賽十大好球【 MOMO瘋運動 】",
+      "urlString" : "https:\/\/youtu.be\/YcqIJCYB6qo?si=AvkeoWeQPltIuA4R"
+    },
+    {
+      "id" : "B95F915E-597A-41E5-9D4D-4343C6812661",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "1CC7562E-C918-4171-81F5-D8E3B57610D6",
+      "title" : "中職季後賽／林立帶傷代打敲勝利打點！坦言一度以為沒機會：換到都沒人了...",
+      "urlString" : "https:\/\/youtu.be\/FMAb2VTQyUk?si=0ZEZGLq8askYPx9w"
+    },
+    {
+      "id" : "A8C82BFD-84C1-48C2-9136-1B3B09D8276F",
+      "kind" : "Game",
+      "playerID" : "0DFDDB16-D042-4B31-8FB1-B83FFA1DD1CF",
+      "title" : "中職／吳念庭首局開轟！三分砲轟徐若熙 直擊右外野全壘打標竿｜NOWNEWS",
+      "urlString" : "https:\/\/youtu.be\/LWGfAdUXzJs?si=gUosw_9ivYzBxtH6"
+    },
+    {
+      "id" : "C9A962EC-03BF-4FBE-9FA9-3A464E6B955D",
+      "kind" : "Game",
+      "playerID" : "AEB495C3-9C1E-44C3-9259-99A061C74891",
+      "title" : "中職／味全「億元男」砲轟郭俊麟！李凱威突破低潮相隔670天開轟｜NOWNEWS",
+      "urlString" : "https:\/\/youtu.be\/_bLiKz7dt1g?si=2xXG-H77xWPgUfye"
     },
     {
       "id" : "B09BF3E2-5961-40DC-8644-155A50C13703",
@@ -4764,6 +7555,27 @@
       "playerID" : "A293343B-2201-4DE6-B051-86367BF7A3D0",
       "title" : "中職／護國神山燈光秀來了！曾峻岳九局登板飆2K 讓兄弟中心打線三上三下",
       "urlString" : "https:\/\/youtu.be\/XHDCmKNAT6M?si=pHz6jonLqMnvk8Wr"
+    },
+    {
+      "id" : "EF544466-B7C1-403B-A2BC-F6F54CCC69AD",
+      "kind" : "Game",
+      "playerID" : "7E9CC014-95A5-42B0-903F-175408BDC053",
+      "title" : "中職／陳文杰年度美技守備回顧！轉戰台鋼獲得舞台 重回外野金手套行列｜NOWnews",
+      "urlString" : "https:\/\/youtu.be\/bEZme1oHwfg?si=W4oQUXIk9pFa_chg"
+    },
+    {
+      "id" : "9468D3F3-64BB-4CA4-A0E2-C5FC2C31D83E",
+      "kind" : "Game",
+      "playerID" : "0BFB10D3-0BAD-4BAF-9359-DB3260378C6D",
+      "title" : "中職／陳晨威敲再見安打！成晉狂跑3個壘包 聯手送給兄弟六連敗",
+      "urlString" : "https:\/\/youtu.be\/9nRUXJUBq4s?si=C8bLv2TZYG4zHpXN"
+    },
+    {
+      "id" : "A8421BBD-CCD4-4ED8-A4B4-71A943B5E05B",
+      "kind" : "Game",
+      "playerID" : "0BFB10D3-0BAD-4BAF-9359-DB3260378C6D",
+      "title" : "中華隊單局兩發炸裂 陳晨威滿貫砲+陳傑憲兩分砲 ｜ 世界12強棒球賽",
+      "urlString" : "https:\/\/youtu.be\/4FW0EJcZaS8?si=OSh2a1bRS55ofFt_"
     },
     {
       "id" : "0A6C2E11-F989-424F-86E6-8E15E5458D5B",
@@ -4787,11 +7599,25 @@
       "urlString" : "https:\/\/youtu.be\/3ZUNkcVofpw?si=OPA4QuxjnH92jGbc"
     },
     {
+      "id" : "D9BDBE0A-A53E-40D0-8C4A-8ED96CC012C2",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "27596160-9613-4D53-9482-226136AFE215",
+      "title" : "亞洲職棒交流賽／辰己涼介帶江國豪送的手套來台！被禁投卻喊話球迷：說不定我會從外野跑上投手丘｜NOWNEWS",
+      "urlString" : "https:\/\/youtu.be\/I5gZxxToF_M?si=cvDR8lDwfaP8XTVs"
+    },
+    {
       "id" : "DDC7F194-F9E9-4DF9-BD3E-FEEC81461B63",
       "kind" : "Game",
       "playerID" : "AEF40564-142F-41AD-85C5-3AF2490A823A",
       "title" : "今日鄧愷威！中繼2.1局3K無失分 33球當中22顆是好球",
       "urlString" : "https:\/\/youtu.be\/Xm4hwUsLkao?si=eZJT7qzIdFXJd68t"
+    },
+    {
+      "id" : "2810840A-66A3-496F-BAE2-354801B92EAB",
+      "kind" : "Game",
+      "playerID" : "AEB495C3-9C1E-44C3-9259-99A061C74891",
+      "title" : "低調人今天一點都不低調 ! #李凱威 單場四安鐵支貢獻三打點讓味全賞給黃衫軍二連敗 !｜20250921｜#味全龍",
+      "urlString" : "https:\/\/youtu.be\/xPqp5PEvqLk?si=sz4nnArIpc0sdIiN"
     },
     {
       "id" : "9CB41893-73EE-4306-B100-BE94CF08F81B",
@@ -4836,6 +7662,41 @@
       "urlString" : "https:\/\/youtu.be\/5iMjsNTQVA4?si=lXa55ZX9YRINpGAa"
     },
     {
+      "id" : "C55A2458-5B93-4EA4-B642-4341A48D3217",
+      "kind" : "Game",
+      "playerID" : "BFFDBA92-5AAA-4BD4-9909-50BC99E1B12C",
+      "title" : "傳奇生涯的例行賽最後一舞！Clayton Kershaw 5.1局7K奪勝",
+      "urlString" : "https:\/\/youtu.be\/xriZmoExfkY?si=h9bpiXmByb3pOgoG"
+    },
+    {
+      "id" : "BE160CE9-030F-4913-A969-1C72BFB6B26A",
+      "kind" : "Game",
+      "playerID" : "B3789394-08CC-4C64-A88A-ED03909539D2",
+      "title" : "先發投到第九局還可飆到102MPH？紅人Hunter Greene 生涯首場完封勝",
+      "urlString" : "https:\/\/youtu.be\/Zn9skrEfFto?si=qJ8QHJTfXchJ8DKp"
+    },
+    {
+      "id" : "7FD8210A-019D-4D2D-9542-6DEED79D4303",
+      "kind" : "Game",
+      "playerID" : "0BFB10D3-0BAD-4BAF-9359-DB3260378C6D",
+      "title" : "光速神威200盜達陣！陳晨威生涯盜壘精選",
+      "urlString" : "https:\/\/youtu.be\/tDr_ZyaHuxQ?si=j2rpsZgRI8eN7tti"
+    },
+    {
+      "id" : "C2950010-2879-4EB5-8A5B-2AB075D420D0",
+      "kind" : "Game",
+      "playerID" : "EE0536CB-FF51-452F-85A0-AC036E494632",
+      "title" : "六星守備！Manny Machado抹茶日常再度發威 | 2026 WBC世界棒球經典賽",
+      "urlString" : "https:\/\/youtu.be\/sjXFewqW9tk?si=lFGZDsuQGBOPZHQc"
+    },
+    {
+      "id" : "6E424BF2-6D3E-4065-8B60-D9CA28763E1D",
+      "kind" : "Game",
+      "playerID" : "DC42136A-0911-45B8-BC63-B7770C34FEEE",
+      "title" : "典藏．自由人 | 2021-2024 Freeman世界大賽個人連6場開轟回顧全紀錄",
+      "urlString" : "https:\/\/youtu.be\/O078Qp7deF0?si=9QS4CjtnHi56W5eG"
+    },
+    {
       "id" : "7F85284D-2C4F-4221-B428-149519B18E7B",
       "kind" : "Game",
       "playerID" : "1C05791D-01D0-47E9-B0F1-40FECF604A40",
@@ -4848,6 +7709,13 @@
       "teamID" : "ECAF29F6-F254-46B3-A6BC-AA11E829F976",
       "title" : "前往北海道看古林、易磊以及家正婦 by TG 首湛創意",
       "urlString" : "https:\/\/youtu.be\/-gMh8EComJw?si=8WKmQd1KuHiYFGvs"
+    },
+    {
+      "id" : "85D2553C-2BE7-4F2F-952D-13E6D1636965",
+      "kind" : "Game",
+      "playerID" : "040A18DB-35F6-432E-95AE-C35D9C2F6778",
+      "title" : "勝投+三振+防禦率 投球三冠王！天使王牌Jose Soriano 7局10K無失分優質先發",
+      "urlString" : "https:\/\/youtu.be\/zoa0bJDI37Y?si=h0_kpi_GS7G9kfAh"
     },
     {
       "id" : "0AAB2547-19D8-4F86-BAD7-1B65AD7B0324",
@@ -4864,11 +7732,18 @@
       "urlString" : "https:\/\/youtu.be\/K2oL8_A1BWc?si=BdFqtkUOuzat0OwC"
     },
     {
-      "id" : "81119031-B6F7-4848-8FC7-A15BD5E98F01",
-      "kind" : "Stadium Guide",
-      "stadiumID" : "AE251F4D-01CD-4B08-8318-32042EB525C6",
-      "title" : "千葉羅德ZOZO海洋球場｜搭乘 #千葉單軌電車 初體驗",
-      "urlString" : "https:\/\/youtu.be\/A0-e9LkNu0A?si=g59gWP8vdwzdyHC6"
+      "id" : "4334A549-F250-4DB1-91CF-F4F30E51BBF4",
+      "kind" : "Game",
+      "playerID" : "DC42136A-0911-45B8-BC63-B7770C34FEEE",
+      "title" : "又在18局下當英雄！為了媽媽代表加拿大，為了兒子拼進全明星，付出所有只為了家人，鐵漢柔情的世界大賽MVP｜自由人 Freddie Freeman 人物誌",
+      "urlString" : "https:\/\/youtu.be\/W85u_WTk76o?si=Zh2WrCcIvV1kPG6x"
+    },
+    {
+      "id" : "A250009B-E9DE-4720-9624-799276476C09",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "1CC7562E-C918-4171-81F5-D8E3B57610D6",
+      "title" : "只簽一年還是長久留樂天？林立會是下一個中職億元男嗎？",
+      "urlString" : "https:\/\/youtu.be\/lab-i1K6nNo?si=fmx1KTN2GV6QT-H3"
     },
     {
       "id" : "EF094E8F-67C9-4E06-8C05-440C6FB96096",
@@ -4899,11 +7774,46 @@
       "urlString" : "https:\/\/youtu.be\/adgcvtALx3M?si=Wg5ULZePJOfjVT4H"
     },
     {
+      "id" : "B064D23E-19F8-4EC0-9E57-3F2B57AB420D",
+      "kind" : "Game",
+      "playerID" : "774AC383-6BAA-401B-96C2-DD72C2FE475F",
+      "title" : "台鋼狀元曾子祐打擊手感火燙 今日猛打賞連續三個打席敲安！ ｜ 中華職棒36年例行賽",
+      "urlString" : "https:\/\/youtu.be\/olqYb6MQWSE?si=XG4841Ig-pjrD2rG"
+    },
+    {
       "id" : "52DFB314-46B6-4797-BE8A-5259337178D5",
       "kind" : "Wiki \/ Reference",
       "playerID" : "F5A7369D-0B8C-4191-BC7F-41F0304C2E0E",
       "title" : "史瓦伯單場四響砲 成史上第21人 愛爾達體育家族 ELTA Sports",
       "urlString" : "https:\/\/youtu.be\/IMAL9GtwW9w?si=G3IUQv4ji1fmyDWe"
+    },
+    {
+      "id" : "642B727B-C039-4734-B3A4-E3922001F08A",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "21A82ED5-99A9-46FA-9B3B-C76E28FA038B",
+      "title" : "吉力吉撈·鞏冠3分砲！本屆賽事首安即首轟｜世界12強棒球賽",
+      "urlString" : "https:\/\/youtu.be\/sODEckTGSyk?si=r238Z3dhAVwXUZ9U"
+    },
+    {
+      "id" : "86B4E373-9C29-4DDB-B0DE-9B582F6A1E20",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "21A82ED5-99A9-46FA-9B3B-C76E28FA038B",
+      "title" : "吉力吉撈·鞏冠不設限！強打蹲捕一壘都可以　細節到位葉總笑了",
+      "urlString" : "https:\/\/youtu.be\/TI0WTc7dzA8?si=JCsb10ZHUlNM4e7b"
+    },
+    {
+      "id" : "F342AADD-409A-4B3C-850F-C31CF5273CDE",
+      "kind" : "Game",
+      "playerID" : "1CC7562E-C918-4171-81F5-D8E3B57610D6",
+      "title" : "單場五安！林立開轟猛打賞 怎麼打怎麼有｜ 世界12強棒球賽",
+      "urlString" : "https:\/\/youtu.be\/mkaxVATvjjc?si=cQ5ur-db5mIkNLx2"
+    },
+    {
+      "id" : "7BDE5CF9-6D60-40F0-84C3-7A777194C463",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "0F47120B-07A3-4D18-8A52-7E2EBCBD318B",
+      "title" : "國民隊球場初體驗 First Time at Nationals Stadium",
+      "urlString" : "https:\/\/youtu.be\/uhnUtbVN-D4?si=-BVmrkKX7n8n0brL"
     },
     {
       "id" : "EC21B447-C783-4A38-B39B-AEE10439B896",
@@ -4927,6 +7837,13 @@
       "urlString" : "https:\/\/youtu.be\/OAEA7ZjjY5E?si=KzKLuEagb-VIyml5"
     },
     {
+      "id" : "247260DC-86BC-4A12-A89B-210B56DD8025",
+      "kind" : "Game",
+      "playerID" : "BC2F0A8A-7F8A-4DF4-A7B1-6C9893C94994",
+      "title" : "夢幻對決！大谷翔平vs神鱒Mike Trout完整全紀錄 ｜ WBC棒球經典賽冠軍戰",
+      "urlString" : "https:\/\/youtu.be\/yT0_dxTJs48?si=tSfWLHIB1XJxwS-i"
+    },
+    {
       "id" : "7AAB20ED-61F3-4227-8B67-7C42C69CD377",
       "kind" : "Game",
       "playerID" : "AEF40564-142F-41AD-85C5-3AF2490A823A",
@@ -4934,11 +7851,39 @@
       "urlString" : "https:\/\/youtu.be\/ELUMVhtUc6c?si=FXFB_l8I_NnCgqXG"
     },
     {
+      "id" : "6CBD5073-82D5-4112-8586-2A6E63B4BFBF",
+      "kind" : "Game",
+      "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
+      "title" : "大谷！１０K！三響砲！】到底是什麼怪物！大谷先發6局飆出10次三振 同時單場三響砲！ 真的太誇張啦！！｜20251018｜ 2026 WBC 世界棒球經典賽 鎖定緯來！",
+      "urlString" : "https:\/\/youtu.be\/EVplgHCEwbs?si=pO9HHfro-fQJuOMl"
+    },
+    {
+      "id" : "F975BBF9-D1BB-4D6F-B520-0DCDBE997F0E",
+      "kind" : "Game",
+      "playerID" : "D93F7B9E-4AE7-4F7F-B9EB-B7342DD487A9",
+      "title" : "天網恢恢 疏而不漏？！郭天信2021美技集錦",
+      "urlString" : "https:\/\/youtu.be\/VYeIh5EeJIk?si=4EH8M6cDNOxXz3db"
+    },
+    {
+      "id" : "5EBDF2F1-7692-4F9F-9821-D255AD6EB199",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "B740A5B9-80C9-4BA4-B977-9CAF84632BAA",
+      "title" : "好像有點可愛 2023年版陳冠宇出場動畫 & 登場曲チェンチェン 大丈夫 +登板熱身 チェン・グァンユウ",
+      "urlString" : "https:\/\/youtu.be\/f-FM8zYRFB0?si=ysREKR0nUh8d5aY1"
+    },
+    {
       "id" : "3E300232-C843-44F4-A0F0-E688F8A43A8F",
       "kind" : "Stadium Guide",
       "stadiumID" : "4364808B-042C-4206-9F01-14B4D63968B9",
       "title" : "如何到日本看球EP.2 -- 體驗西武巨蛋蒸籠 by  TAKA野球筆記",
       "urlString" : "https:\/\/youtu.be\/JJ4CsL6I1gE?si=fl4p6RiqWz1gArvb"
+    },
+    {
+      "id" : "CB0F3465-E171-4665-838C-6E6C8C69D400",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "E4FCF011-0445-44F1-BB97-36C12DB71C87",
+      "title" : "如果舊金山巨人隊球員到南大門市場買菜，親手做拌飯會怎樣?｜李政厚 · 威利・阿達梅斯 · 托尼・維特洛總教練 · 崔鉉碩主廚",
+      "urlString" : "https:\/\/youtu.be\/BC7kY6GEVu0?si=StxRFKZtKUVrqTCP"
     },
     {
       "id" : "88CFF201-B173-41D2-B36D-61D49BC0C2FE",
@@ -4976,11 +7921,53 @@
       "urlString" : "https:\/\/youtu.be\/Y64lLEruqwc?si=Cki0t80EXfinqhRZ"
     },
     {
+      "id" : "B07AEF47-A398-47B8-A732-B3CA0E2C50B8",
+      "kind" : "Game",
+      "playerID" : "3F13DAA0-C41C-45D4-B98E-282F4C675475",
+      "title" : "山本由伸首球挨轟！Jackson Chourio首局首打席扛出陽春砲",
+      "urlString" : "https:\/\/youtu.be\/S8kmndc7Gog?si=KB0RoRYLGzk8QAeb"
+    },
+    {
+      "id" : "555C02DB-4D3B-44FF-92DD-A5D2B15DA8A8",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "277A390F-EDAB-40DD-BBC2-C4254082BA83",
+      "title" : "山田哲人 -- 年僅27就不斷創下日職\"史上第一\"的男人｜日職史上第一位也是唯一3度333打者",
+      "urlString" : "https:\/\/youtu.be\/mUb22pX02d0?si=-pQbB5EkgqXm-4f6"
+    },
+    {
+      "id" : "B7B82D6E-8199-4C69-AABE-EBB277866B41",
+      "kind" : "Game",
+      "playerID" : "4881A9E6-B103-4DDF-A161-03F88E309920",
+      "title" : "巨人強投Logen Webb變化球發揮精彩 繳出4.2局 5K 0失分好表現！| 2026 WBC世界棒球經典賽",
+      "urlString" : "https:\/\/youtu.be\/gQQKeRcxakk?si=NQ4yBYbimFBdnycJ"
+    },
+    {
+      "id" : "00E0E6E0-F73A-45B5-8FF6-A018E0445853",
+      "kind" : "Game",
+      "playerID" : "A7037875-E19B-44DA-94ED-BF17C0F54554",
+      "title" : "延長賽14局！劉基鴻再見全壘打！單場雙響帶領味全龍拿下台灣大賽首勝！",
+      "urlString" : "https:\/\/youtu.be\/KH4QTRM-TcI?si=xnXD7wNq9LcXp0xp"
+    },
+    {
       "id" : "9A807744-4069-4BA2-B021-E18BF22F0EF5",
       "kind" : "Wiki \/ Reference",
       "playerID" : "A1C73CCE-A454-464F-85ED-43C4CA60BE6E",
       "title" : "張奕 主場首次燈光秀 全場燈海亮起來",
       "urlString" : "https:\/\/youtu.be\/oQKoeBYgOJY?si=OzIpZ6PchYTBKnL-"
+    },
+    {
+      "id" : "B009B3C7-49FD-4D8D-AFF8-3A9F27809D64",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "07EAFB20-73CB-4D1D-A9FC-8B316B971269",
+      "title" : "強投剋強打！美國王牌Paul Skenes 4.1局封鎖多明尼加暴力打線 | 2026 WBC世界棒球經典賽",
+      "urlString" : "https:\/\/youtu.be\/jwe9Oz43wlk?si=DosGXCcQFrThBSB8"
+    },
+    {
+      "id" : "103F53E1-62CD-49A8-9A5D-3B679C262CC8",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "AE251F4D-01CD-4B08-8318-32042EB525C6",
+      "title" : "從 #築地場外市場 一路吃到 #千葉海濱幕張｜首次踏入 #千葉羅德ZOZO海洋球場 by  跟著Kobe不BLUE",
+      "urlString" : "https:\/\/youtu.be\/A0-e9LkNu0A?si=t-pDIR7eTY0XLTfX"
     },
     {
       "id" : "84AC2AB4-A226-4ACE-A2AE-593FEF377760",
@@ -4995,6 +7982,13 @@
       "teamID" : "57D92618-8461-4D00-A349-679398BA9E31",
       "title" : "悍我來開箱 💙應援團長Travis 帶你逛 🌟新・新莊棒球場更新一次看",
       "urlString" : "https:\/\/youtu.be\/qCXmY9vpFis?si=OLF6_UOEnpqHtIBa"
+    },
+    {
+      "id" : "8E5F65F0-EFE6-4127-9A15-272078AB11AC",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "1CC7562E-C918-4171-81F5-D8E3B57610D6",
+      "title" : "應援曲教學｜39 林立",
+      "urlString" : "https:\/\/youtu.be\/zg81d2OoLng?si=l4bNoVJtt9mELAjF"
     },
     {
       "id" : "21AA3000-D1AD-4929-BF45-6E387D3F4F44",
@@ -5032,11 +8026,67 @@
       "urlString" : "https:\/\/youtu.be\/1tStZyhAo9w?si=EZJXLj5SL1gDzRaX"
     },
     {
+      "id" : "B20DE284-4E64-4208-ABE5-D4C8D103A41F",
+      "kind" : "Game",
+      "playerID" : "BB8C70A5-DEBD-4276-870F-2E02C998D9BA",
+      "title" : "日本不演了....山本由伸 + 宮城大彌 歐力士雙王牌到底要怎麼打? by  KC的體育視界 Sports Vision",
+      "urlString" : "https:\/\/youtu.be\/WdWKMFx9prQ?si=w9w58dYgIx0rCMTS"
+    },
+    {
       "id" : "E83AB628-2D58-483F-B79D-06FEBC4E7283",
       "kind" : "Wiki \/ Reference",
       "playerID" : "E92C2BEA-BA0E-4D8A-A151-C37276EC1460",
       "title" : "日職王牌不再吃香？今井達也三年短約加盟太空人！｜生啤C五度",
       "urlString" : "https:\/\/youtu.be\/2s8L-IkE9gw?si=9yloL54RpEBLujrY"
+    },
+    {
+      "id" : "DACB9531-6B1D-41BB-BBC6-0A23FF7BB8F9",
+      "kind" : "Game",
+      "playerID" : "0DFDDB16-D042-4B31-8FB1-B83FFA1DD1CF",
+      "title" : "日職／得點圈之鬼！吳念庭攻單季十轟站穩西武一軍",
+      "urlString" : "https:\/\/youtu.be\/AckeZNmx-lg?si=3XUNKd54P9I7PFpS"
+    },
+    {
+      "id" : "A250B01A-EEB8-4108-A2C3-7C93FF8548A7",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "65F66376-84BC-4FD2-9301-3BBA7AB23F32",
+      "title" : "明治神宮野球場：東京最老球場| 養樂多燕子與最有戲吉祥物燕九郎 |日本職棒購票與看球心得分享",
+      "urlString" : "https:\/\/youtu.be\/AOwO_ZW_LdI?si=2uageVj3ir-LEX7A"
+    },
+    {
+      "id" : "BBA3DBF1-EC21-4CB2-B3A0-E9DF4D9AF573",
+      "kind" : "Game",
+      "playerID" : "8CFFB1A9-6CF9-447D-9D05-7820840E524B",
+      "title" : "是棒球員還是短跑選手\/籃球員？？大聯盟裡體能最勁爆的超級新人 一個打席就從一壘盜回本壘的紅人飛毛腿｜Elly De La Cruz 人物誌",
+      "urlString" : "https:\/\/youtu.be\/-p3MU2Khc3w?si=3BhmSUn3qBpxt5D-"
+    },
+    {
+      "id" : "AE36E35F-0E44-4E45-92BC-B115FC6C17A7",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "33CEB7A7-5284-4539-8C87-3EDC6D06B231",
+      "title" : "時隔808天重返一軍 #奥川恭伸 收下勝投激動落淚😭 2024.06.14 歐力士猛牛 vs 東京養樂多燕子",
+      "urlString" : "https:\/\/youtu.be\/5Ver5gaKJPw?si=78xC4gdxX3JUV-vh"
+    },
+    {
+      "id" : "D68C1008-36C7-4DFB-A20B-26E6B5DAE589",
+      "kind" : "Game",
+      "playerID" : "774AC383-6BAA-401B-96C2-DD72C2FE475F",
+      "title" : "曾子祐 不只單場四安鐵支 游擊守備也美技連發 攻守兩端都搶盡風頭！ | 20250918| #台鋼雄鷹 #味全龍 味全龍",
+      "urlString" : "https:\/\/youtu.be\/du4Q-n1oAz4?si=taXXeU0TpKZyO1Kv"
+    },
+    {
+      "id" : "926C9998-1D9C-4335-8FAB-FCDCFEA72343",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "915110F2-2B41-4401-ABA4-121F093C5E17",
+      "title" : "曾經崇拜Derek Jeter的少年，成為挑戰偶像的巨星游擊手－現代季後賽傳奇Corey Seager｜球員故事｜亨力米客思",
+      "urlString" : "https:\/\/youtu.be\/DWETF_s-qF8?si=MXlPZtrg5cs9Wq7y"
+    },
+    {
+      "id" : "198D463B-E551-4948-9772-29AF918EAF23",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "19CEE014-D8CF-4B94-8AD9-DFDAD8BA5C64",
+      "title" : "曾經連續兩年四割的大王即將歸來？當年全盛時期的王柏融究竟有多猛？(ワンボーロン)",
+      "urlString" : "https:\/\/youtu.be\/15KTs5_cGXg?si=Vxqtxoil_JBtQL6v"
     },
     {
       "id" : "7D6B262F-B012-430B-963F-06396EE42B04",
@@ -5046,11 +8096,39 @@
       "urlString" : "https:\/\/youtu.be\/_VD_0GUlCLA?si=zsvDYKtdem-FLF6V"
     },
     {
+      "id" : "2CA0EE50-8EAF-4D9D-AE05-C8445E74F3B4",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "F328C883-C581-423C-9CC5-CAD9235F34C5",
+      "title" : "最振奮聖地牙哥人心的操作，教士成功跟Jackson Merrill達成提前續約｜生啤C五度",
+      "urlString" : "https:\/\/youtu.be\/NSE3a21aR7Y?si=Zp4dxsjA-F1r5G6y"
+    },
+    {
       "id" : "5AD59F7F-05D4-4F89-99D5-F26E9D39EDC8",
       "kind" : "Wiki \/ Reference",
       "playerID" : "E1EE690B-4E60-4FB2-AF49-0CA9F3CD7C94",
       "title" : "有手套也有球棒！岡本和真守備NP 打擊敲本季第2轟",
       "urlString" : "https:\/\/youtu.be\/YZ38-Kfbmvg?si=hDn8BvBcnbYrdYuS"
+    },
+    {
+      "id" : "0516DCE2-E0EA-4C7C-B0FD-ACE9B9D49994",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "07EAFB20-73CB-4D1D-A9FC-8B316B971269",
+      "title" : "本來想從軍卻成為大聯盟明星？速球均速159公里、生涯第一年就入選年度第一隊、提前預約未來賽揚獎的新生代最強投手 ｜Paul Skenes人物誌",
+      "urlString" : "https:\/\/youtu.be\/4lwGw-PaaJQ?si=05TqyrW_CnQ9R8nu"
+    },
+    {
+      "id" : "39B69533-8558-4EAD-9C93-C34CA298269B",
+      "kind" : "Game",
+      "playerID" : "0DFDDB16-D042-4B31-8FB1-B83FFA1DD1CF",
+      "title" : "本壘攻防戰關鍵OUT 吳念庭聯手蔣少宏守下勝利 | 2026 WBC世界棒球經典賽",
+      "urlString" : "https:\/\/youtu.be\/qA8z9VtvETQ?si=6z20jSA4nrJDSTVK"
+    },
+    {
+      "id" : "25144FB4-9981-4A48-97AF-E5593300A595",
+      "kind" : "Game",
+      "playerID" : "E6D39AC8-8343-4268-84B6-69FB4A3B4F58",
+      "title" : "本季首場二刀流！投手大谷6局6K無失分勝投 打者翔平敲安三度上壘",
+      "urlString" : "https:\/\/youtu.be\/w8ONOfYdBxM?si=_Gcy_5GYo6qMk2ul"
     },
     {
       "id" : "10CCDB6B-108F-4181-8445-1B45CE8843ED",
@@ -5065,6 +8143,13 @@
       "playerID" : "682316EA-E1AC-4C3D-ABD6-8905A779E9AB",
       "title" : "村上宗隆首安即首轟！大聯盟首秀就敲出全壘打",
       "urlString" : "https:\/\/youtu.be\/h3U0pSlVR9w?si=YqOR1CP9jt8Ip_I-"
+    },
+    {
+      "id" : "DEA48254-3175-43C3-8F90-B1E2A06EAD13",
+      "kind" : "Game",
+      "playerID" : "BAA986B8-E73C-4A23-9084-7BFD14408A32",
+      "title" : "村上宗隆首安即首轟！大聯盟首秀就敲出全壘打",
+      "urlString" : "https:\/\/youtu.be\/h3U0pSlVR9w?si=h0-ucianV_hxJnPU"
     },
     {
       "id" : "31C1FBBE-EB6D-475D-8A95-3A1AEAA043C0",
@@ -5088,6 +8173,34 @@
       "urlString" : "https:\/\/youtu.be\/Jf-7X2lHIvM?si=i7AqvYUV8NtR81b0"
     },
     {
+      "id" : "0C49603A-364A-48C4-9FAA-622E509DB1B2",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "17DB9761-0B82-459F-B5E7-CA2D50DCE04F",
+      "title" : "森友哉 -- 日職史上第四位捕手打擊王 ｜ 同時也是日職史上最年輕人氣王 魅力所在呢? by  TAKA野球筆記",
+      "urlString" : "https:\/\/youtu.be\/YNE4S837C7E?si=GNLIhyjHsBV9GvkP"
+    },
+    {
+      "id" : "A5CCAEC7-831C-47A0-85AE-453BAB278F6A",
+      "kind" : "Game",
+      "playerID" : "FD0063DF-D6B8-40FB-B84C-EE48390248CE",
+      "title" : "樂天桃猿 全力轟全力衝 阿銀 梁家榮 2025 highlights",
+      "urlString" : "https:\/\/youtu.be\/6MskJhAkUSo?si=wDnmu78Nsb8u7HEV"
+    },
+    {
+      "id" : "03D45721-6CE1-491B-8B90-0CC40A385374",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "9A786A07-A9E4-49C5-BC0A-F023EF3F4496",
+      "title" : "樂天桃猿 全新球場開箱！「特別企劃」EP4 總監首次探索球場細節！【陸筱晴】",
+      "urlString" : "https:\/\/youtu.be\/1jF585kYWdk?si=Mcv1HtTPrwa4IDoM"
+    },
+    {
+      "id" : "EB9A31A8-774F-426F-83E5-3F9976D8CA05",
+      "kind" : "Game",
+      "playerID" : "FD0063DF-D6B8-40FB-B84C-EE48390248CE",
+      "title" : "樂天桃猿 年度打擊王 梁家榮 2023 highlights",
+      "urlString" : "https:\/\/youtu.be\/OrFYsBvuZMw?si=lcwO2LyJ8UGjae_f"
+    },
+    {
       "id" : "ED38F6A8-83B9-4A7D-85B9-2B5BA3147444",
       "kind" : "Stadium Guide",
       "stadiumID" : "B61BB3AA-CD4F-4460-AFD0-BB2E3899EAF5",
@@ -5102,11 +8215,53 @@
       "urlString" : "https:\/\/youtu.be\/_UG73i0imX0?si=KMx81PiHvQll0EeS"
     },
     {
+      "id" : "5BD38047-FF54-44E1-9D72-ABB3E5326DFD",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "FDDD7909-7C1B-4775-BFEE-43C5F2D8D08E",
+      "title" : "歐力士猛牛主場 大阪京瓷巨蛋！吉祥物超可愛但球迷好像有點少？意外地看到山本由伸！ by  迪奇兔 Ditchy&Rabbit",
+      "urlString" : "https:\/\/youtu.be\/ZUr7UQJ5HDg?si=dmbhHBEqjGpvRbGy"
+    },
+    {
+      "id" : "115A7BDA-9062-45C0-8CA4-9783EBC7BFC2",
+      "kind" : "Game",
+      "playerID" : "F1F4897C-5FF1-4801-8CC4-0C13EC6CEB8E",
+      "title" : "江承諺生涯第650次奪三振賞給許基宏 成為聯盟第21人達到此里程碑的球員 ｜ 中華職棒36年",
+      "urlString" : "https:\/\/youtu.be\/8W8RCsAmptg?si=W_J0_OPxmute8fVf"
+    },
+    {
+      "id" : "792659A3-9B46-4F6E-A49B-F8939C92020E",
+      "kind" : "Game",
+      "playerID" : "0DFDDB16-D042-4B31-8FB1-B83FFA1DD1CF",
+      "title" : "沒有放棄！陳傑憲+吳念庭 接連敲安再追分避免被提前結束比賽｜ 2025 WBC棒球經典賽資格賽",
+      "urlString" : "https:\/\/youtu.be\/A1-X4m6T1-U?si=9YGjvhRG7y8OuBh7"
+    },
+    {
+      "id" : "82CF7666-2747-490D-AEC6-038836D1EED4",
+      "kind" : "Game",
+      "playerID" : "D7AB2DF3-708A-42EC-A4AB-A144D345D4E0",
+      "title" : "法官沒有開轟！即便來到邁阿密...中外野還是J-Rod掌管的禁飛區 | 2026 WBC世界棒球經典賽",
+      "urlString" : "https:\/\/youtu.be\/tTpQKf17YnE?si=4om9Qr8BpFBasY3n"
+    },
+    {
       "id" : "0F196A76-987D-4B40-B2E5-F742E903EDCE",
       "kind" : "Wiki \/ Reference",
       "playerID" : "F83A1CF7-77AE-4E48-A3F8-3E24F62A4B94",
       "title" : "洋基終於簽回 Bellinger ! 但給他長約會變成 Ellsbury 嗎？｜生啤C五度",
       "urlString" : "https:\/\/youtu.be\/nuILGXjSpo8?si=iXhYTCWUE1Z9Zh4X"
+    },
+    {
+      "id" : "46A6EE04-4B9C-4D1A-B8AE-9C5C3C80BF65",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "07EAFB20-73CB-4D1D-A9FC-8B316B971269",
+      "title" : "海盜狀元Paul Skenes 主投4局狂發7張國王笑臉！| 2026 WBC世界棒球經典賽",
+      "urlString" : "https:\/\/youtu.be\/5Hs9mdVb870?si=P4Zbu5bdSmWf8w1p"
+    },
+    {
+      "id" : "B5C09AA9-D5E1-4799-A0F6-2B5C124F0E7B",
+      "kind" : "Game",
+      "playerID" : "39E6415F-5ED7-41A7-A822-CD1BB69D9388",
+      "title" : "游擊防守很罩！木屐Mookie Betts 今日上演多次美技守備",
+      "urlString" : "https:\/\/youtu.be\/FyiWLS2nSPc?si=L9M_INsV5mIpNEFV"
     },
     {
       "id" : "ACA84249-92FA-4F6C-8A7C-8A7979DAE5E3",
@@ -5123,6 +8278,13 @@
       "urlString" : "https:\/\/www.fighters.co.jp\/expansion\/gourmet\/"
     },
     {
+      "id" : "F0E9CB10-93E3-4C81-A9D3-74A81F638EFD",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "B740A5B9-80C9-4BA4-B977-9CAF84632BAA",
+      "title" : "為何曾豪駒總教練要極力說服陳冠宇參加經典賽？他對中華隊究竟有多重要？",
+      "urlString" : "https:\/\/youtu.be\/o7DI8_h91pY?si=pZi96tieHxtMxcpt"
+    },
+    {
       "id" : "53CA2496-717E-419D-B489-4CC1700FA6E2",
       "kind" : "Game",
       "playerID" : "A1C73CCE-A454-464F-85ED-43C4CA60BE6E",
@@ -5137,6 +8299,13 @@
       "urlString" : "https:\/\/youtu.be\/CBogslQpd88?si=Hq0BBVWjNV3rWESz"
     },
     {
+      "id" : "205CB5A9-2ADE-47DF-8EBF-2153826A064E",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "9A786A07-A9E4-49C5-BC0A-F023EF3F4496",
+      "title" : "熱區開箱! 樂天桃猿主場! 林子偉本季第二轟! 座位視角 & 球場設施 全紀錄",
+      "urlString" : "https:\/\/youtu.be\/1xQ5vpDgs6I?si=OdhZcAJDAo-ShtE6"
+    },
+    {
       "id" : "B063D365-17AA-443A-B8E0-B1F533FA0DCD",
       "kind" : "Wiki \/ Reference",
       "playerID" : "61577440-2330-4C73-973B-5EB3D35F373C",
@@ -5144,11 +8313,25 @@
       "urlString" : "https:\/\/youtu.be\/9PSB1JdSPFM?si=PpWL3kmjI58inQYb"
     },
     {
+      "id" : "5D79A0A7-E4D4-4E62-A82A-418BED418860",
+      "kind" : "Game",
+      "playerID" : "A2338A14-08D4-4E70-A43E-C9A961D2105D",
+      "title" : "王牌地瓜回來了！相隔16個月先發 首局99MPH速球狂飆2K｜MLB美國職棒",
+      "urlString" : "https:\/\/youtu.be\/xpgGXPhB9a4?si=H5JwVsVWPPLJsZxn"
+    },
+    {
       "id" : "FC87D042-239F-4481-A19F-3AEA06EC99D2",
       "kind" : "Game",
       "playerID" : "A1C73CCE-A454-464F-85ED-43C4CA60BE6E",
       "title" : "生來就是要打國際賽！張奕九局大心臟拆彈再度拿下勝投 | 2026 WBC世界棒球經典賽",
       "urlString" : "https:\/\/youtu.be\/PRYK_Hg9fTE?si=2uzjo4VlmK5F7QoI"
+    },
+    {
+      "id" : "9087B1FC-21F6-4801-82A3-2C8FF51A1F0F",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "0BFB10D3-0BAD-4BAF-9359-DB3260378C6D",
+      "title" : "當年被洪總評價「攻擊馬馬虎虎」...陳晨威加盟桃猿卻蛻變成外野自走砲？",
+      "urlString" : "https:\/\/youtu.be\/WItngR9rTUE?si=i8MVErbTX_zW8KOu"
     },
     {
       "id" : "DA8D330F-AFD6-45B0-B983-50A6A8EDB0FA",
@@ -5186,6 +8369,13 @@
       "urlString" : "https:\/\/youtu.be\/TvWZ5bvnxAs?si=5BeSaCEg9rMNSi-X"
     },
     {
+      "id" : "1EFD2F72-0831-4047-BC18-7FACAD6C2BF7",
+      "kind" : "Game",
+      "playerID" : "F1540CBE-8B1A-4232-B452-9CBFAA1CFE6E",
+      "title" : "細川成也 2025 安打精華 by み",
+      "urlString" : "https:\/\/youtu.be\/hG0Of1V_YqE?si=r-v-DqwvLS3Wtp-t"
+    },
+    {
       "id" : "05BBF87E-708B-4266-8DD5-8786ADF0A814",
       "kind" : "Wiki \/ Reference",
       "stadiumID" : "91592507-4CAE-4A8E-B55B-4671887BF203",
@@ -5221,11 +8411,32 @@
       "urlString" : "https:\/\/youtu.be\/mkI1bOwhUl0?si=_OYppvMMJvBldp2B"
     },
     {
+      "id" : "67A24187-8A8D-4EAC-8705-0D6A7831203A",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "E4FCF011-0445-44F1-BB97-36C12DB71C87",
+      "title" : "背負父親名字的星二代、人氣和實力兼具的韓國頭牌、李政厚為什麼是中華隊最需要注意的打者？｜風之孫 李政厚 人物誌",
+      "urlString" : "https:\/\/youtu.be\/G7wYZ8HOnHA?si=my329Hnwp8KA_4gt"
+    },
+    {
       "id" : "8B4B9E3A-B07E-498C-8F1E-8797E8C287EE",
       "kind" : "Wiki \/ Reference",
       "playerID" : "F9A48783-F00C-46F8-A136-0C59A5084302",
       "title" : "胡智為初登板應援曲 I'M READY TO SHOW",
       "urlString" : "https:\/\/youtu.be\/P2CgmOwd3rk?si=gtBu0J4Reakq4_Vb"
+    },
+    {
+      "id" : "DECBF1ED-789C-44F1-84D2-3C31E6C9596A",
+      "kind" : "Game",
+      "playerID" : "DC42136A-0911-45B8-BC63-B7770C34FEEE",
+      "title" : "自由人再見轟！Freddie Freeman 一棒終結18局惡鬥",
+      "urlString" : "https:\/\/youtu.be\/-0j1y_-ma9k?si=d68kvgDMdNnToHS_"
+    },
+    {
+      "id" : "30D86D55-6318-4DFF-993B-4CCFCD71ED1E",
+      "kind" : "Game",
+      "playerID" : "EE0536CB-FF51-452F-85A0-AC036E494632",
+      "title" : "行雲流水！Manny Machado單局上演兩次經典三壘長傳美技｜2026 WBC世界棒球經典賽",
+      "urlString" : "https:\/\/youtu.be\/Dmrz5u7jCIk?si=e4vhW1VSRuK8NTSg"
     },
     {
       "id" : "E3560C1D-6228-46BF-B431-2ABD62A8CFA3",
@@ -5242,11 +8453,32 @@
       "urlString" : "https:\/\/youtu.be\/2ZxKx-nqZA8?si=FKVrcVu5maa6aeJi"
     },
     {
+      "id" : "41B773F0-CFDD-4FAA-8D7B-C00339A29664",
+      "kind" : "Game",
+      "playerID" : "86BCC2B9-C309-45A5-89D2-C023C87E1FB9",
+      "title" : "這就是王牌！山本由伸9局8K完投勝 連兩場季後賽先發完投9局",
+      "urlString" : "https:\/\/youtu.be\/OiidKQXRy9g?si=KgtKzqNjmHVnleBC"
+    },
+    {
       "id" : "C4BDA653-C39A-48BF-AA36-765B1C1EF96B",
       "kind" : "Food",
       "teamID" : "73627651-0EA3-483A-B8BA-EAD64A2E3B31",
       "title" : "這真的是45年的球場嗎?｜扭蛋礦泉水有沒有看過?｜日職開箱｜橫濱之星主場 by  明星坂4食遛",
       "urlString" : "https:\/\/youtu.be\/3kYT5Pho9aI?si=i3c2byBu01tGOyHk"
+    },
+    {
+      "id" : "67EE0D7B-73B1-4BED-ACE7-0A814C61ABC5",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "F1F4897C-5FF1-4801-8CC4-0C13EC6CEB8E",
+      "title" : "連餅總都佩服他的改變！江承諺轉投台鋼「降速」反倒成防禦率王？",
+      "urlString" : "https:\/\/youtu.be\/MOyfNGurOHA?si=H8zDx4S0EV3c8_ka"
+    },
+    {
+      "id" : "CCF298A4-A7A1-4AE0-B259-A769BDCC48B4",
+      "kind" : "Game",
+      "playerID" : "CF48232C-E980-4C3D-9113-478B6AD082F4",
+      "title" : "達標單季60轟 成美聯史上第4人！Cal Raleigh 封王之戰單場雙響砲",
+      "urlString" : "https:\/\/youtu.be\/wBOwJEbvSDs?si=boRZhaFjBxheyZjp"
     },
     {
       "id" : "8BE6FA33-FC6F-47F5-B08A-F0EC1685E51A",
@@ -5263,11 +8495,53 @@
       "urlString" : "https:\/\/youtu.be\/0INqRk626Y0?si=4IdB3o7kvfV2lzaM"
     },
     {
+      "id" : "98B97E4A-1507-4DDE-A237-5BADA9C4CCC4",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "56964ADD-26F7-47DE-A166-14FD17327E0B",
+      "title" : "開箱中日龍主場名古屋巨蛋！吉祥物Doala超可愛！球場竟然有美食街還有迴轉壽司？近距離接觸外野護墊和球場草皮！ by 迪奇兔 Ditchy&Rabbit",
+      "urlString" : "https:\/\/youtu.be\/JShgdlYZaEQ?si=zqATI6dqz6JKLHRz"
+    },
+    {
+      "id" : "92A8837C-3E22-4060-8937-6F40833FB62D",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "65F66376-84BC-4FD2-9301-3BBA7AB23F32",
+      "title" : "開箱有滿滿啤酒妹的明治神宮野球場！有阪神虎的比賽就是熱血！",
+      "urlString" : "https:\/\/youtu.be\/ybFaZu78vTc?si=gPlu_GFKr7AV5X4W"
+    },
+    {
+      "id" : "2F529172-D482-44FC-AEAF-1FC0BA389FEA",
+      "kind" : "Game",
+      "playerID" : "45159566-A8E1-47FC-B32C-0EE0C690A0F5",
+      "title" : "開賽第二球就開轟! 天使Zach Neto首局首打席全壘打",
+      "urlString" : "https:\/\/youtu.be\/RPl1zQcGxQk?si=TPGDAUcUFPT-bzn9"
+    },
+    {
       "id" : "602779D3-EF30-4479-8AF6-48BC25D8C98C",
       "kind" : "Blog \/ Review",
       "teamID" : "80B9DE15-8C9C-41B6-8CBC-E5FA8370739C",
       "title" : "阪神虎甲子園球場觀賽攻略 by  跟著Kobe不BLUE",
       "urlString" : "https:\/\/youtu.be\/PIsy3SAnhw8?si=Xmq_hCudK7GBTGJN"
+    },
+    {
+      "id" : "675937AB-275A-42B2-87D3-82F64793AC49",
+      "kind" : "Game",
+      "playerID" : "7E9CC014-95A5-42B0-903F-175408BDC053",
+      "title" : "陳文杰扮演稱職核彈頭 單場鐵支還敲3打點【2026.04.12 #富邦悍將 VS. #台鋼雄鷹】",
+      "urlString" : "https:\/\/youtu.be\/GVVr62JKZxE?si=RPWV8-nPF98icuKk"
+    },
+    {
+      "id" : "EEBD0654-266F-44CB-A8F9-AFDC6CD73E22",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "B740A5B9-80C9-4BA4-B977-9CAF84632BAA",
+      "title" : "陳陳大丈夫：日本職棒奮戰記｜樂天桃猿投手 陳冠宇訪談 (上集)",
+      "urlString" : "https:\/\/youtu.be\/b2JFQI-k0yA?si=2GJX3S5zU9c35ajU"
+    },
+    {
+      "id" : "AD32B439-ACD2-417F-8A17-3EA9478CD4F6",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "E4FCF011-0445-44F1-BB97-36C12DB71C87",
+      "title" : "韓國的驕傲，李政厚破億大約加盟舊金山巨人｜生啤C五度",
+      "urlString" : "https:\/\/youtu.be\/fDbx9QbDp0A?si=haD9Unciat6P6ooG"
     },
     {
       "id" : "BE621EC2-DAFF-4525-A8AC-2D8D6402137A",
@@ -5289,6 +8563,41 @@
       "stadiumID" : "26BFB671-B815-48B7-B620-195FD4843F86",
       "title" : "馬自達Zoom-Zoom廣島球場 by Ruby與Rou",
       "urlString" : "https:\/\/youtu.be\/GTx-9ni6LyE?si=VLD0zFyoAkvhz4D3"
+    },
+    {
+      "id" : "BBCDB9DC-B109-44FA-8EF9-D2704CACB6E2",
+      "kind" : "Game",
+      "playerID" : "99BC460A-0C7D-4CA8-871C-938F1CEBA696",
+      "title" : "髙橋宏斗 7回1失点7奪三振",
+      "urlString" : "https:\/\/youtu.be\/fGoyIuLpyrM?si=DXctjgaZ8JQsDTmB"
+    },
+    {
+      "id" : "E6C05ACF-9E18-4EA0-AABD-D123166C5141",
+      "kind" : "Game",
+      "playerID" : "E2C700E1-9C26-4FF1-AB0D-73FF117B6948",
+      "title" : "龍之子徐若熙初登板 直球對決最快球速飆出158公里｜ 2025 WBC棒球經典賽資格賽",
+      "urlString" : "https:\/\/youtu.be\/6y28z4TBmpc?si=BlTkz_dnJVAYHqHT"
+    },
+    {
+      "id" : "A30ED7C7-B79F-4D60-99F3-29201E4EC03A",
+      "kind" : "Wiki \/ Reference",
+      "playerID" : "BFFDBA92-5AAA-4BD4-9909-50BC99E1B12C",
+      "title" : "｜生涯3000k200勝成功達成！三屆賽揚的巔峰時期地表最強投 這個世代最具代表性的王牌投手之一｜書僮 Clayton Kershaw人物誌",
+      "urlString" : "https:\/\/youtu.be\/xLXvY4izZDI?si=RO2WZbsWZnHKvbtd"
+    },
+    {
+      "id" : "6D3E1716-E528-4BDD-9F41-D98D8F1EC86D",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "91592507-4CAE-4A8E-B55B-4671887BF203",
+      "title" : "🇯🇵 北海道日本火腿鬥士主場開箱！這座豪華棒球村也太誇張｜ 遊日本 HOKKAIDO BALLPARK F VILLAGE",
+      "urlString" : "https:\/\/youtu.be\/kfzl8qJSpGQ?si=pxbCkRZu14n8JBhN"
+    },
+    {
+      "id" : "BE393E0D-1B33-4457-B4F0-729A0F7A3E80",
+      "kind" : "Stadium Guide",
+      "stadiumID" : "55F98DB9-D4A3-4765-B343-0E5B7271F3CD",
+      "title" : "🇯🇵 這真的是棒球場？仙台宮城球場豪華體驗開箱 深入後大開眼界！｜kkday 日本旅遊 仙台 東北樂天金鷲隊 宮城球場 by 瑪茲一 Matsui",
+      "urlString" : "https:\/\/youtu.be\/f0AyNShrmvk?si=P8O2EycaJlcyXPx7"
     }
   ]
 }
